@@ -14,11 +14,14 @@ param IS_FOR{1..P}; # Is player i forward?
 param IS_ICON{1..P}; # Is player i an icon?
 param IS_HERO{1..P}; # Is player i an hero?
 
+set NORMAL_PLAYERS := {i in 1..P: IS_ICON[i] = 0 and IS_HERO[i] = 0};
 set ICONS := {i in 1..P: IS_ICON[i] = 1};
 set HEROES := {i in 1..P: IS_HERO[i] = 1};
+set ICONS_HEROES := ICONS union HEROES;
 
 
 param BUDGET >= 0; # Budget available to spend
+param M>=0; 
 
 param MIN_CHEMISTRY >= 0; # Minimum chemistry required
 param NUMBER_DEF >= 0; # Number of defenders available to choose
@@ -64,28 +67,32 @@ subject to Budget:
 ############################################################################################
 # Constaint to ensure nationality chemistry
 
-subject to r31{i in 1..P}:
-    natCount[i] <= 11 * y[i];
+subject to R31{i in NORMAL_PLAYERS}:
+    natCount[i] <= M * y[i];
 
-subject to R32{i in 1..P}:
-    natCount[i] <= sum{j in 1..P: NATIONALITY[i] = NATIONALITY[j]} y[j];
+subject to R32{i in NORMAL_PLAYERS}:
+    natCount[i] <= sum{j in 1..P: NATIONALITY[i] = NATIONALITY[j]} y[j] + sum{j in ICONS: NATIONALITY[i] = NATIONALITY[j]} y[j];
     
-subject to R33{i in 1..P}:
+subject to R33A{i in NORMAL_PLAYERS}:
     natCount[i] >= 2*chemistryNat1[i];
+subject to R33B{i in NORMAL_PLAYERS}:
+    natCount[i] >= 5*chemistryNat2[i];
+subject to R33C{i in NORMAL_PLAYERS}:
+    natCount[i] >= 7*chemistryNat3[i];
 
-subject to R34{i in 1..P}:
-    natCount[i]-1 <= 11*chemistryNat1[i];
+subject to R34A{i in NORMAL_PLAYERS}:
+    natCount[i]-1 <= M*chemistryNat1[i];
+subject to R34B{i in NORMAL_PLAYERS}:
+    natCount[i]-4 <= M*chemistryNat2[i];
+subject to R34C{i in NORMAL_PLAYERS}:
+    natCount[i]-6 <= M*chemistryNat3[i];
 ############################################################################################
 
 
 
 
 ############################################################################################
-# Constraints to ensure a minumumof chemistry is met
+# Constraints to ensure a minumum of chemistry is met
 subject to R6:
-    sum{i in 1..P}  chemistryNat1[i] >= MIN_CHEMISTRY;
+    sum{i in NORMAL_PLAYERS}  (chemistryNat1[i] + chemistryNat2[i] + chemistryNat3[i])  + 3*sum{i in ICONS_HEROES} y[i] >= MIN_CHEMISTRY;
 ############################################################################################
-
-
-
-
