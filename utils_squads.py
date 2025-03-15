@@ -4,7 +4,11 @@ def get_squad(y, data, print_squad=True):
     # sort by position: GK, DEF, MID, FOR
     squad = squad.sort_values(by='generic_position', key=lambda x: x.map({'GK': 0, 'DEF': 1, 'MID': 2, 'FOR': 3})).reset_index(drop=True)
     if print_squad:
-        display(squad)
+        # check if function display exists
+        if 'display' in globals():
+            display(squad)
+        else:
+            print(squad)
         price = squad['price'].sum()
         mean_score = squad['global_score'].mean()
         chemistry_nationality = calculate_chemistry_nationality(squad)
