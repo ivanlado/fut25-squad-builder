@@ -6,13 +6,14 @@ import re
 
 from utils_squads import *
 
-class SquadSolver:
+class SquadSolver():
     
     def __init__(self, solver='gurobi'):
         self.ampl = AMPL() 
         self.ampl.read('model.mod')
         self.ampl.setOption("solver", solver)
         self.ampl.setOption("show_stats", 1)
+        self.formulations = {}
         
     def read_csv_data(self, csv_filename):
         self.data = pd.read_csv(csv_filename)
@@ -36,12 +37,15 @@ class SquadSolver:
         number_of_midfielders = params['number_of_midfielders']
         number_of_forwards = params['number_of_forwards']
         min_chemistry = params['min_chemistry']
+        m = params['M']
         # Insert data in AMPL        
         self.ampl.getParameter('P').set(P)
         self.ampl.getParameter('BUDGET').set(budget)
         self.ampl.getParameter('GLOBAL_SCORE').setValues(list(global_score))
         self.ampl.getParameter('PRICE').setValues(list(price))
         self.ampl.getParameter('NATIONALITY').setValues(nationality)
+        self.ampl.getParameter("IS_ICON").setValues(is_icon)
+        self.ampl.getParameter("IS_HERO").setValues(is_hero)
         self.ampl.getParameter('MIN_CHEMISTRY').set(min_chemistry)
         self.ampl.getParameter('NUMBER_DEF').set(number_of_defenders)
         self.ampl.getParameter('NUMBER_MID').set(number_of_midfielders)   
@@ -50,24 +54,38 @@ class SquadSolver:
         self.ampl.getParameter("IS_DEF").setValues(is_DEF)
         self.ampl.getParameter("IS_MID").setValues(is_MID)
         self.ampl.getParameter("IS_FOR").setValues(is_FOR)
+        self.ampl.getParameter("M").set(m)
         
-    def solve(self, print_results=True, print_summary=True):
+    def add_formulation(self, formulation_name, formulation):
+        self.formulations[formulation_name] = formulation
+        
+    def get_ampl(self):
+        return self.ampl
+        
+    def solve(self, formulation_name, print_results=True, print_summary=True):
         output = ''
         output += self.ampl.get_output("option presolve 0;")
         output += self.ampl.get_output("option reset_initial_guesses 1;")
         output += self.ampl.get_output("option show_stats 1;")
         output += self.ampl.get_output("option solver gurobi;")
         output += self.ampl.get_output('option gurobi_options $gurobi_options " outlev=1 presolve=0 cuts=0 bestbound=1";')
-        output += self.ampl.get_output("solve;")
+        output = '' # For the time being lets ignore the previous outputs
+        if formulation_name in self.formulations:
+            print(f"Solving formulation: {formulation_name}.")
+            # output += self.ampl.get_output(self.formulations[formulation_name])
+            self.ampl.eval(self.formulations[formulation_name])
+            output += self.ampl.get_output(f"solve {formulation_name};")
+        else:
+            output += self.ampl.get_output("solve;")
         solve_result = self.ampl.solve_result
         # ampl.solve(solver="gurobi", gurobi_options="outlev=1 presolve=0 timing=1")
         # assert ampl.solve_result == "solved"
         vars_match = re.search(r'(\d+) variables:', output)
-        constraints_match = re.search(r'(\d+) constraints', output)
-        gap_match = re.search(r'Gap\s+([\d\.%]+)', output)
+        constraints_match = re.search(r'(\d+) constraints,', output)
+        gap_match = re.search(r'gap\s+([\d\.%]+)', output)
         simplex_iters_match = re.search(r'(\d+) simplex iterations', output)
         branching_nodes_match = re.search(r'(\d+) branching node', output)
-        objective_match = re.search(r'objective\s+(\d+\.\d+)', output)
+        objective_match = re.search(r'; objective\s+(\d+\.\d+)', output)
         # Storing extracted values in variables
         num_vars = int(vars_match.group(1)) if vars_match else None
         num_constraints = int(constraints_match.group(1)) if constraints_match else None
@@ -77,7 +95,7 @@ class SquadSolver:
         objective = float(objective_match.group(1)) if objective_match else None
         solve_elapsed_time = self.ampl.get_output("display _solve_elapsed_time;").strip()
         solve_elapsed_time_match = re.search(r'(\d+\.\d+)', solve_elapsed_time)
-        solve_elapsed_time = float(solve_elapsed_time_match.group(1))
+        solve_elapsed_time = float(solve_elapsed_time_match.group(1)) if solve_elapsed_time_match else None
         output = output.strip() 
         if print_results:
             print(output)
