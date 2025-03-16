@@ -8,14 +8,17 @@ from utils_squads import *
 class SquadSolver():
     
     def __init__(self, solver='gurobi'):
-        self.ampl = AMPL() 
+        self.ampl = AMPL()
         self.ampl.read('model.mod')
         self.ampl.setOption("solver", solver)
         self.ampl.setOption("show_stats", 1)
         self.formulations = {}
+        self.already_declared_formulations = []
         
-    def read_csv_data(self, csv_filename):
+    def read_csv_data(self, csv_filename, limit_rows=None):
         self.data = pd.read_csv(csv_filename)
+        if limit_rows:
+            self.data = self.data.loc[:limit_rows]
         self.data["generic_position"] = self.data["position"].map(position_mapping)
         self.data = self.data[self.data["price"] > 200] # Remove "free" players, those that are no longer in the market
         return self.data
@@ -72,7 +75,9 @@ class SquadSolver():
         if formulation_name in self.formulations:
             print(f"Solving formulation: {formulation_name}.")
             # output += self.ampl.get_output(self.formulations[formulation_name])
-            self.ampl.eval(self.formulations[formulation_name])
+            if formulation_name not in self.already_declared_formulations:
+                self.ampl.eval(self.formulations[formulation_name])
+                self.already_declared_formulations.append(formulation_name)
             output += self.ampl.get_output(f"solve {formulation_name};")
         else:
             output += self.ampl.get_output("solve;")

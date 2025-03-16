@@ -1,0 +1,1839 @@
+name,club,league,nation,playstyle,global_score,stats_pace,stats_shooting,stats_passing,stats_dribbling,stats_defending,stats_physicality,price,position,player_type,is_icon,is_hero
+Jeremie Frimpong,32,19,34,,90,96,68,81,92,82,77,118000,RB,Champions League,False,False
+Cristian Romero,18,13,52,,90,82,51,64,71,90,86,57000,CB,Europa League,False,False
+Lautaro Martínez,131682,31,52,Finesse+Shot,90,84,89,77,88,55,86,35500,ST,IF,False,False
+Alejandro Garnacho Ferreyra,11,13,52,,90,93,87,85,90,47,72,79500,LM,Europa League,False,False
+Vivianne Miedema,10,2216,34,,90,87,89,77,90,42,85,29750,ST,Champions League,False,False
+Lauren James,5,2216,14,Trickster,90,93,85,84,91,45,87,65000,RW,Total Rush,False,False
+Morgan,116312,2221,95,Finesse+Shot,90,85,90,81,89,50,77,317750,ST,End of an Era SBC,False,False
+Florian Wirtz,32,19,21,Incisive+Pass,88,81,78,87,89,50,67,13750,CAM,Normal,False,False
+Lionel Messi,112893,39,52,Technical,90,84,87,90,94,36,67,235000,RW,Total Rush,False,False
+Robert Lewandowski,241,53,37,Power+Header,90,80,90,83,88,46,86,140450,ST,LaLiga POTM SBC,False,False
+Mohamed Salah,9,13,111,Finesse+Shot,90,90,88,84,89,47,76,146000,RW,IF,False,False
+Alexandra Popp,175,2215,21,Finesse+Shot,90,83,91,80,87,54,93,35000,ST,Trailblazers,False,False
+Gianluigi Donnarumma,73,16,27,Deflector,90,91,86,75,91,54,88,51500,GK,FUT Centurions,False,False
+Ruud van Nistelrooy,112658,2118,34,Press+Proven,90,87,90,73,86,39,82,60000,ST,Squad Found. C.L.,False,False
+Thibaut Courtois,243,53,7,Rush+Out,90,86,90,77,91,48,90,65000,GK,Track Stars,False,False
+David Ginola,114605,16,18,Quick+Step,90,91,89,88,92,56,88,1030000,ST,Track Stars Hero,False,True
+Sacha Boey,21,19,18,,79,82,55,66,77,78,80,650,RB,Normal,False,False
+Victor Osimhen,325,68,133,Power+Shot,90,92,89,68,86,45,85,65500,ST,FC Pro,False,False
+Lorenzo Insigne,111651,39,27,,78,79,77,79,81,36,44,350,LW,Normal,False,False
+Exequiel Palacios,32,19,52,Intercept,90,83,81,85,90,90,79,28500,CDM,FC Pro,False,False
+Ryan Gravenberch,9,13,34,Long+Ball+Pass,90,85,88,90,93,81,85,229000,CM,FC Pro,False,False
+Bukayo Saka,1,13,14,Finesse+Shot,90,90,88,86,92,66,77,502800,RW,Thunderstruck SBC,False,False
+Viktor Gyökeres,237,308,46,Rapid,90,93,88,75,86,43,94,36000,ST,Thunderstruck,False,False
+William Saliba,1,13,18,Anticipate,90,86,42,73,77,90,88,400000,CB,Thunderstruck,False,False
+Sakina Karchaoui,73,2218,18,Whipped+Pass,90,92,69,85,90,86,71,45500,LB,Thunderstruck,False,False
+Patrick Vieira,112658,2118,18,Intercept,90,84,81,82,85,90,92,1200000,CM,Thunderstruck Icon,True,False
+Fernando Hierro Ruiz,112658,2118,45,Bruiser,88,74,67,74,68,92,84,70500,CB,Icon,True,False
+Lilian Thuram,112658,2118,18,Slide+Tackle,90,90,61,79,77,92,92,1360000,RB,Thunderstruck Icon,True,False
+Guro Reiten,5,2216,36,,88,88,80,85,86,60,66,14000,LM,Normal,False,False
+Irene Paredes Hernández,241,2222,45,Slide+Tackle,88,71,51,67,68,89,84,13750,CB,Normal,False,False
+Christiane Endler,66,2218,55,Rush+Out,88,87,82,84,90,42,89,14000,GK,Normal,False,False
+Gregor Kobel,22,19,47,Rush+Out,88,87,86,73,89,44,87,14250,GK,Normal,False,False
+Paul Scholes,112658,2118,14,Incisive+Pass,88,74,86,89,78,62,80,69000,CM,Icon,True,False
+David Beckham,112658,2118,14,Dead+Ball,88,80,85,92,85,66,80,0,RM,Icon,True,False
+Jay-Jay Okocha,114605,13,133,Trickster,88,87,83,83,93,40,60,38750,CAM,Base Hero,False,True
+Marcel Desailly,112658,2118,18,Block,88,82,51,65,66,88,88,94000,CB,Icon,True,False
+Ricardo Alberto Silveira Carvalho,114605,308,38,Anticipate,88,77,56,71,73,91,82,16500,CB,Base Hero,False,True
+Michael Owen,112658,2118,14,Chip+Shot,88,89,88,69,87,35,66,70000,ST,Icon,True,False
+Bixente Lizarazu,114605,19,18,Slide+Tackle,88,87,59,80,82,83,82,26000,LB,Base Hero,False,True
+Jari Litmanen,114605,10,17,First+Touch,88,82,87,83,83,35,65,14750,CAM,Base Hero,False,True
+Pavel Nedvěd,112658,2118,12,Power+Shot,88,84,84,86,87,58,77,71000,LM,Icon,True,False
+Rio Ferdinand,112658,2118,14,Anticipate,88,82,48,65,64,90,85,337000,CB,Icon,True,False
+Andriy Shevchenko,112658,2118,49,Power+Shot,88,86,90,71,85,35,73,70000,ST,Icon,True,False
+Steven Gerrard,112658,2118,14,Power+Shot,88,78,88,88,83,75,82,69500,CM,Icon,True,False
+Juan Román Riquelme,112658,2118,52,Flair,88,71,84,90,90,33,66,69000,CAM,Icon,True,False
+Rafael Márquez,114605,53,83,Slide+Tackle,88,74,65,75,74,90,88,18250,CB,Base Hero,False,True
+Petr Čech,112658,2118,12,Deflector,88,86,85,76,88,54,90,78000,GK,Icon,True,False
+Edwin van der Sar,112658,2118,34,Rush+Out,88,84,87,79,86,39,92,125000,GK,Icon,True,False
+Wayne Rooney,112658,2118,14,Power+Shot,88,88,90,81,86,53,87,121000,ST,Icon,True,False
+Javier Mascherano,114605,53,52,Slide+Tackle,88,76,55,76,75,89,86,16000,CB,Base Hero,False,True
+Mario Gomez,114605,19,21,Power+Header,88,83,90,73,82,43,83,16000,ST,Base Hero,False,True
+Franck Ribéry,112658,2118,18,Technical,88,89,85,85,90,37,65,217000,LM,Icon,True,False
+Gheorghe Hagi,112658,2118,39,Power+Shot,88,82,86,88,88,41,64,69000,CAM,Icon,True,False
+Ronald Koeman,112658,2118,34,Dead+Ball,88,76,86,85,78,88,84,69500,CB,Icon,True,False
+Paulo Jorge dos Santos Futre,114605,53,38,Technical,88,93,81,80,93,37,58,41500,LW,Base Hero,False,True
+Michael Laudrup,112658,2118,13,Trickster,88,84,80,88,90,40,63,70000,CAM,Icon,True,False
+Darwin Núñez,9,13,60,Quick+Step,87,93,87,78,83,52,89,173600,ST,FUT Centurions SBC,False,False
+Lea Schüller,21,2215,21,Quick+Step,87,88,88,71,87,34,75,16500,ST,FUT Centurions,False,False
+Jonathan Tah,32,19,21,Aerial,87,82,40,70,68,88,87,28250,CB,FUT Centurions,False,False
+Gianluca Zambrotta,112658,2118,27,Relentless,87,88,70,81,83,86,84,360000,RB,Squad Found. C.L.,False,False
+Sol Campbell,112658,2118,14,Slide+Tackle,87,83,46,62,60,88,89,200000,CB,Squad Found. C.L.,False,False
+Kelley O'Hara,116310,2221,95,Rapid,87,90,64,80,83,85,80,115500,RB,End of an Era SBC,False,False
+Lauren Hemp,10,2216,14,,87,91,78,86,88,64,71,17500,LM,IF,False,False
+Mateo Retegui,115845,31,27,First+Touch,87,87,89,79,85,49,88,45300,ST,SBC,False,False
+Granit Xhaka,32,19,47,Bruiser,87,80,76,86,78,83,90,18000,CDM,Track Stars,False,False
+Alphonso Davies,21,19,70,Rapid,87,97,71,82,87,78,82,214000,LB,Track Stars,False,False
+Mayra Ramírez,5,2216,56,Acrobatic,87,94,87,81,89,39,90,20000,ST,Track Stars,False,False
+Salma Celeste Paralluelo Ayingono,241,2222,45,Relentless,87,96,87,81,87,55,85,116000,LW,Track Stars,False,False
+Iñigo Martínez Berridi,241,53,45,Slide+Tackle,87,81,62,74,70,87,87,35500,CB,Track Stars,False,False
+Landon Donovan,114605,39,95,Quick+Step,87,91,87,82,87,47,76,24000,CAM,Track Stars Hero,False,True
+Ludovic Giuly,114605,53,18,Acrobatic,87,90,84,82,87,51,70,50000,RM,Track Stars Hero,False,True
+Javier Zanetti,112658,2118,52,Rapid,87,88,65,87,85,83,75,336850,RB,On This Day SBC,False,False
+Pierre-Emerick Aubameyang,112391,350,115,Finesse+Shot,87,93,87,78,85,40,70,137300,ST,Flashback SBC,False,False
+Angelina Alonso Costantino,116307,2221,54,Technical,87,86,80,87,88,82,83,28850,CM,ShowDown SBC,False,False
+C. Ronaldo dos Santos Aveiro,112139,350,38,Power+Shot,87,80,89,78,82,35,78,0,ST,IF,False,False
+Dante Vanzeir,689,39,7,,87,90,85,78,87,45,80,10550,ST,ShowDown SBC,False,False
+Emil Forsberg,689,39,46,,87,84,86,89,89,44,79,16000,CAM,FC Pro,False,False
+Ferdi Kadioglu,1808,13,48,,87,92,73,81,91,83,82,103000,LB,FC Pro,False,False
+Sam Morsy,94,13,111,,87,79,71,83,81,86,90,17250,CDM,FC Pro,False,False
+Anderson Souza Conceição,112139,350,54,Quick+Step,87,87,87,83,87,54,81,183950,CAM,Flashback SBC,False,False
+Clara Mateo,111817,2218,18,,87,88,87,83,86,61,75,23000,ST,SIF,False,False
+Ramy Bensebaini,22,19,97,,87,89,78,81,87,85,85,41900,LB,ShowDown SBC,False,False
+Hiroki Ito,21,19,163,,87,86,66,79,81,88,84,41700,CB,ShowDown SBC,False,False
+Charles De Ketelaere,115845,31,7,,79,69,77,78,81,55,70,350,CAM,Normal,False,False
+Brais Méndez Portela,457,53,45,Incisive+Pass,87,83,87,89,87,71,81,15000,CM,Thunderstruck,False,False
+Nemanja Gudelj,481,53,51,,87,79,81,86,77,87,91,15000,CB,Thunderstruck,False,False
+Jessie Fleming,111140,2221,70,Press+Proven,86,88,83,86,90,74,70,56350,CM,Ultimate Succession,False,False
+Janou Levels,32,2215,34,Intercept,86,92,50,80,83,82,71,15750,LB,IF,False,False
+Gaston Brugman,697,39,60,Incisive+Pass,86,85,83,86,87,84,86,37500,CM,IF,False,False
+Henrikh Mkhitaryan,131682,31,3,,86,81,83,86,87,76,81,44500,CM,IF,False,False
+Jonathan David,65,16,70,,86,88,86,78,84,41,81,17500,ST,SIF,False,False
+Domenico Berardi,111974,32,27,,86,83,85,82,88,40,74,15500,RW,IF,False,False
+Donovan Léon,57,16,18,,86,88,85,84,88,65,86,16250,GK,SIF,False,False
+Dominique Janssen,11,2216,34,,84,78,59,75,75,83,83,1500,CB,Normal,False,False
+Hernán Barcos,111010,1003,52,Chip+Shot,86,86,91,82,84,60,90,17000,ST,Globetrotters,False,False
+Mathew Ryan,52,31,195,Far+Throw,86,84,86,88,87,60,87,22250,GK,Globetrotters,False,False
+José Sosa,101083,1003,52,,86,83,82,91,88,78,80,15500,CM,Globetrotters,False,False
+Nahuel Molina,240,53,52,Whipped+Pass,86,90,71,82,85,86,76,24250,RB,Globetrotters SBC,False,False
+Ismaïla Sarr,1799,13,136,Rapid,86,94,86,80,89,40,80,21750,RW,TOTW,False,False
+Youssef En-Nesyri,326,68,129,Power+Header,86,87,87,72,83,38,83,21250,ST,TOTW,False,False
+Melchie Dumornay,66,2218,80,Chip+Shot,86,94,86,83,88,64,75,16250,ST,TOTW,False,False
+Lineth Beerensteyn,175,2215,34,,86,91,83,80,89,55,80,17000,LW,TOTW,False,False
+Branco van den Boomen,245,10,34,Long+Ball+Pass,86,80,85,89,81,86,82,14500,CDM,Winter Wildcards,False,False
+Eren Dinkçi,25,19,48,Trickster,86,92,84,80,86,33,70,14500,RM,Winter Wildcards,False,False
+Osame Sahraoui,65,16,129,Quick+Step,86,89,76,82,87,57,66,16750,LM,Winter Wildcards,False,False
+Fabián Ruiz Peña,73,16,45,Pinged+Pass,86,76,81,85,86,80,78,21500,CM,TOTW,False,False
+Patrik Schick,32,19,12,,86,84,87,81,86,44,81,18000,ST,SIF,False,False
+Rodrigo De Paul,240,53,52,,84,76,77,83,82,76,82,1300,CM,Normal,False,False
+Sem Steijn,1908,10,34,Relentless,86,84,86,84,86,74,83,14500,CAM,Winter Wildcards,False,False
+Niklas Süle,22,19,21,Bruiser,86,80,78,85,81,84,87,16500,CDM,Winter Wildcards,False,False
+Frank Lampard,112658,2118,14,Relentless,86,84,86,85,87,80,84,113100,CM,On This Day SBC,False,False
+Manuela Vanegas,457,2222,56,Bruiser,86,82,65,75,74,84,99,15000,CB,Winter Wildcards,False,False
+Daizen Maeda,78,50,163,Quick+Step,86,99,82,80,84,71,82,27250,LW,Winter Wildcards,False,False
+Nadiem Amiri,169,19,21,Incisive+Pass,86,84,81,86,87,80,81,23250,CM,Winter Wildcards,False,False
+Zuriko Davitashvili,1819,16,20,Block,86,96,80,86,88,85,77,27000,LB,Winter Wildcards,False,False
+Edna Imade,110832,2222,133,Press+Proven,86,84,87,76,86,60,89,23300,ST,Liga F POTM SBC,False,False
+María Francesca Caldentey Oliver,1,2216,45,Tiki+Taka,84,77,84,84,85,57,77,1300,LW,Normal,False,False
+Sandy Baltimore,5,2216,18,,84,84,72,85,84,64,69,1300,RM,Normal,False,False
+Alex Greenwood,10,2216,14,Block,84,71,65,80,74,85,82,1300,CB,Normal,False,False
+Ella Toone,11,2216,14,Flair,84,81,79,78,86,51,65,1800,CAM,Normal,False,False
+Fran Kirby,1808,2216,14,,84,86,83,78,88,42,59,1300,CAM,Normal,False,False
+Kadeisha Buchanan,5,2216,70,Intercept,84,67,44,58,65,86,84,1300,CB,Normal,False,False
+Manuela Zinsberger,1,2216,4,,84,84,77,78,85,46,85,1200,GK,Normal,False,False
+Matthijs de Ligt,11,13,34,,84,62,61,63,67,85,83,1200,CB,Normal,False,False
+Sadio Mané,112139,350,136,,84,83,81,78,86,44,75,1200,LM,Normal,False,False
+Rúben Diogo da Silva Neves,605,350,38,,84,57,75,86,77,77,77,1300,CDM,Normal,False,False
+Kalidou Koulibaly,605,350,136,,84,76,48,64,67,85,84,1200,CB,Normal,False,False
+Yassine Bounou,605,350,129,Far+Throw,84,81,82,77,86,38,83,1200,GK,Normal,False,False
+Christopher Nkunku,5,13,18,,84,81,81,81,86,60,67,2000,CAM,Normal,False,False
+Ingrid Syrstad Engen,241,2222,36,Intercept,84,72,61,81,77,86,80,1300,CB,Normal,False,False
+Caroline Weir,243,2222,42,,84,72,83,84,84,73,69,1300,CAM,Normal,False,False
+Alba Redondo Ferrer,243,2222,45,,84,84,85,70,84,26,64,2400,ST,Normal,False,False
+Alejandro Remiro Gargallo,457,53,45,,84,84,79,80,86,42,86,1200,GK,Normal,False,False
+Iago Aspas Juncal,450,53,45,Chip+Shot,84,81,86,79,86,35,65,1300,ST,Normal,False,False
+Julián Álvarez,240,53,52,Press+Proven,84,85,84,80,85,57,78,2200,ST,Normal,False,False
+Manuel Akanji,10,13,47,,84,78,48,71,75,85,82,1300,CB,Normal,False,False
+Amanda Ilestedt,1,2216,46,Anticipate,84,68,46,65,63,87,78,1300,CB,Normal,False,False
+Hannah Blundell,11,2216,14,,84,70,54,72,73,85,72,1300,LB,Normal,False,False
+Nathan Aké,10,13,34,,84,76,53,72,75,84,77,1200,CB,Normal,False,False
+Lara Prašnikar,1824,2215,44,,84,77,84,69,83,44,79,1300,ST,Normal,False,False
+Sara Doorsoun,1824,2215,21,,84,77,60,74,76,85,83,1500,CB,Normal,False,False
+Linda Dallmann,21,2215,21,,84,77,78,81,87,46,59,1200,RM,Normal,False,False
+Georgia Stanway,21,2215,14,,84,80,78,80,86,76,75,1300,CDM,Normal,False,False
+Glódís Perla Viggósdóttir,21,2215,24,,84,73,54,68,61,86,81,1300,CB,Normal,False,False
+Mattéo Tramoni,110738,32,18,,83,95,79,80,83,60,77,17000,LM,TOTW,False,False
+Ryan Williams,113302,2149,195,,83,93,83,84,78,70,72,15500,RW,TOTW,False,False
+Ciaron Brown,1951,14,35,,83,83,62,71,76,84,89,17750,CB,TOTW,False,False
+Geny Cipriano Catamo,237,308,130,,83,94,80,76,88,71,66,17000,RM,TOTW,False,False
+Hugo Siquet,231,4,7,,83,87,70,86,83,78,80,20000,LB,TOTW,False,False
+Josh Eccles,1800,14,14,,71,71,53,67,67,70,69,300,CDM,Normal,False,False
+Nicola Leali,110556,31,27,,83,86,84,74,85,47,80,18500,GK,TOTW,False,False
+Lautaro Valenti,50,31,52,,69,70,51,55,57,68,75,200,CB,Normal,False,False
+Joe Lolley,111400,351,14,,74,73,70,70,76,49,63,350,RM,Normal,False,False
+Roman Kvet,537,4,12,,83,83,86,85,84,75,85,15750,CM,TOTW,False,False
+Rabiot,219,16,18,,83,82,76,80,79,82,86,900,CM,normal,False,False
+Emanuel Emegha,76,16,34,,83,92,83,67,81,41,85,25250,ST,TOTW,False,False
+Davidson Da Luz Pereira,101014,68,54,,83,90,81,77,87,48,80,17250,LM,TOTW,False,False
+Angus Thurgate,114023,351,195,,83,83,73,80,84,76,85,16000,CDM,TOTW,False,False
+Amankwah Forson,1792,14,117,,69,86,55,65,73,54,50,300,RM,Normal,False,False
+Robson Alves de Barros,1896,308,54,,83,84,51,65,72,85,80,14500,CB,TOTW,False,False
+Evann Guessand,72,16,108,,83,92,84,67,83,37,82,16000,RM,TOTW,False,False
+Eliezer Mayenda,106,14,45,,83,82,83,79,84,54,83,32000,CAM,TOTW,False,False
+Nathanaël Saintini,67,17,18,,83,83,55,72,68,81,88,17000,CB,TOTW,False,False
+Jakob Breum,100632,10,13,Power+Shot,83,86,80,78,84,55,80,15500,CAM,TOTW,False,False
+Musa Barrow,112393,350,116,,76,84,73,68,76,31,64,350,LW,Normal,False,False
+Lucas Oliveira Rosa,462,53,54,Quick+Step,83,88,55,71,74,80,77,21250,LB,TOTW,False,False
+Nikola Krstovic,347,31,15,Power+Header,83,80,83,65,81,35,83,15750,ST,TOTW,False,False
+Adrian Segecic,111400,351,195,Long+Throw,83,94,78,79,83,60,72,14500,LW,TOTW,False,False
+Mahdi Camara,378,16,18,Press+Proven,83,75,71,80,85,84,83,17500,CM,TOTW,False,False
+Pedro Jorge Gonçalves Malheiro,436,68,38,Whipped+Pass,83,90,74,76,83,78,73,15750,RB,TOTW,False,False
+Ferran Jutglà Blanch,231,4,45,Finesse+Shot,83,86,83,75,87,39,85,19250,ST,TOTW,False,False
+Hugo Picard,62,17,18,Whipped+Pass,83,90,80,81,83,71,67,15000,LM,TOTW,False,False
+Nastasic,100888,53,51,Bruiser,83,75,45,72,65,84,83,16750,CB,TOTW,False,False
+Batcheba Louis,116036,2218,80,Quick+Step,83,93,83,77,84,46,74,15000,ST,TOTW,False,False
+Luuk de Jong,247,10,34,Power+Header,81,44,80,73,73,57,80,650,ST,Normal,False,False
+Frederico de Paula Santos,326,68,54,Relentless,81,75,71,79,82,75,78,650,CDM,Normal,False,False
+Océane Deslandes,70,2218,18,,81,68,55,78,72,82,79,650,CB,Normal,False,False
+Paulina Dudek,73,2218,37,,81,62,46,62,68,85,72,450,CB,Normal,False,False
+Julie Dufour,111817,2218,18,,81,86,76,78,82,51,61,1500,LM,Normal,False,False
+Nerea Eizagirre Lasa,457,2222,45,,81,79,83,79,85,63,71,650,LW,Normal,False,False
+Abby Erceg,116308,2221,198,,81,47,39,59,64,84,80,1300,CB,Normal,False,False
+Eberechi Eze,1799,13,14,,81,78,81,78,84,49,69,650,CAM,Normal,False,False
+Youssouf Fofana,131681,31,18,,81,69,68,74,77,78,80,650,CDM,Normal,False,False
+Emily Fox,1,2216,95,,81,69,47,69,78,79,73,400,LB,Normal,False,False
+Davide Frattesi,131682,31,27,,81,80,74,78,81,71,71,650,CM,Normal,False,False
+Remo Freuler,189,31,47,,81,60,72,76,77,77,74,400,CDM,Normal,False,False
+Conor Gallagher,240,53,14,,81,73,75,78,78,77,81,650,CM,Normal,False,False
+Naomi Girma,116312,2221,95,,81,65,51,66,72,82,74,800,CB,Normal,False,False
+Alexandr Golovin,69,16,40,,81,77,77,80,83,61,68,650,LM,Normal,False,False
+Esther González Rodríguez,116310,2221,45,,81,77,82,69,79,31,72,400,ST,Normal,False,False
+Pascal Groß,22,19,21,,81,50,77,85,80,73,74,350,CDM,Normal,False,False
+Marc Guéhi,1799,13,14,,81,72,39,65,72,82,77,400,CB,Normal,False,False
+Évelyne Viens,52,2236,70,,81,81,80,61,80,25,63,400,ST,Normal,False,False
+Wilfried Zaha,66,16,108,,81,86,78,73,85,37,75,650,LM,Normal,False,False
+Raheem Sterling,1,13,14,,81,85,78,75,85,42,65,650,LM,Normal,False,False
+Aaron Ramsdale,17,13,14,,81,81,79,85,83,48,78,650,GK,Normal,False,False
+Ferdi Kadıoğlu,1808,13,48,,81,88,65,75,85,75,76,650,LB,Normal,False,False
+Callum Hudson-Odoi,14,13,14,,81,87,79,80,85,55,67,20750,LM,IF,False,False
+Odilon Kossounou,115845,31,108,,81,80,32,64,67,82,80,650,CB,Normal,False,False
+Manuel Ugarte,11,13,60,,81,69,65,73,77,78,80,650,CDM,Normal,False,False
+Evander da Silva Ferreira,111140,39,54,,81,77,78,81,84,72,75,24500,CAM,IF,False,False
+Matteo Gabbia,131681,31,27,,81,75,40,56,63,84,81,27500,CB,IF,False,False
+Fashion Sakala,113057,350,147,,81,93,82,69,81,38,72,33250,RM,IF,False,False
+Bryan Zaragoza Martínez,479,53,45,,81,89,80,77,86,38,52,19500,LW,IF,False,False
+Yuri Berchiche Izeta,448,53,45,,79,79,68,74,75,77,83,650,LB,Normal,False,False
+Steven Berghuis,245,10,34,,79,72,80,82,79,39,66,350,RW,Normal,False,False
+Cristiano Biraghi,110374,31,27,,79,72,69,78,76,76,73,350,LB,Normal,False,False
+Marco Bizot,378,16,34,,79,79,76,72,80,46,79,650,GK,Normal,False,False
+Vilde Bøe Risa,240,2222,36,,79,64,68,73,79,63,74,350,CM,Normal,False,False
+Giacomo Bonaventura,111674,350,27,,79,65,78,80,80,70,64,350,CAM,Normal,False,False
+Jarrad Branthwaite,7,13,14,,79,71,37,53,59,79,77,350,CB,Normal,False,False
+Brian Brobbey,245,10,34,,79,85,76,57,73,30,80,650,ST,Normal,False,False
+Marcin Bułka,72,16,37,,79,79,76,71,81,27,79,650,GK,Normal,False,False
+Jelena Čanković,1808,2216,51,,79,73,79,75,82,59,71,350,CM,Normal,False,False
+Matheus Santos Carneiro Da Cunha,110,13,54,,79,84,78,76,83,44,75,650,ST,Normal,False,False
+Matty Cash,2,13,37,,79,77,66,71,75,75,76,350,RB,Normal,False,False
+Valentin Castellanos,115841,31,52,,79,72,79,69,75,42,77,350,ST,Normal,False,False
+Alejandro Catena Marugán,479,53,45,,79,65,39,63,53,80,78,350,CB,Normal,False,False
+Daniel Ceballos Fernández,243,53,45,,79,63,70,79,82,70,67,350,CM,Normal,False,False
+Ben Chilwell,5,13,14,,79,76,60,78,77,75,72,600,LB,Normal,False,False
+Jordy Clasie,1906,10,34,,79,57,64,79,75,72,69,350,CDM,Normal,False,False
+Sam Coffey,111140,2221,95,,79,73,72,79,75,77,77,650,CM,Normal,False,False
+Aldana Cometti,116334,2222,52,,79,62,30,56,63,80,80,350,CB,Normal,False,False
+Dante Bonfim Costa Santos,72,16,54,,79,32,52,69,65,81,79,350,CB,Normal,False,False
+Jovana Damnjanović,21,2215,51,,79,79,77,70,77,43,77,350,ST,Normal,False,False
+Andreia de Jesus Jacinto,457,2222,38,,79,74,68,76,76,64,70,350,CM,Normal,False,False
+Marten de Roon,115845,31,34,,79,64,71,75,75,82,83,500,CM,Normal,False,False
+Tainara de Souza da Silva,21,2215,54,,79,54,46,65,68,82,71,350,CB,Normal,False,False
+Romain Del Castillo,378,16,18,,79,84,76,78,81,42,65,350,RW,Normal,False,False
+Kristin Demann,175,2215,21,,79,65,52,77,71,77,77,350,CDM,Normal,False,False
+Savannah DeMelo,116308,2221,95,,79,66,76,78,80,52,67,350,CAM,Normal,False,False
+Ermedin Demirović,36,19,8,,79,69,81,72,77,41,79,350,ST,Normal,False,False
+Lina Hurtig,1,2216,46,,78,73,78,74,78,49,74,350,LW,Normal,False,False
+Hee Chan Hwang,110,13,167,,78,84,77,70,78,39,74,350,ST,Normal,False,False
+Borja Iglesias Quintás,450,53,45,,78,62,80,66,74,40,77,350,ST,Normal,False,False
+Junya Ito,379,16,163,,78,87,69,74,79,58,68,650,RM,Normal,False,False
+Juan Miguel Jiménez López,449,53,45,,78,78,77,71,80,31,62,1000,LM,Normal,False,False
+Brennan Johnson,18,13,50,,78,89,74,72,78,43,59,650,RM,Normal,False,False
+Pierre Kalulu,45,31,18,,78,78,50,68,69,79,74,650,CB,Normal,False,False
+Kevin Kampl,112172,19,44,,78,52,66,79,81,64,59,350,CM,Normal,False,False
+Moise Kean,110374,31,27,,78,84,76,58,76,40,75,350,ST,Normal,False,False
+Katarzyna Kiedrzynek,73,2218,37,,78,78,77,74,80,39,78,350,GK,Normal,False,False
+Lisa Kolb,25,2215,4,,78,76,71,77,80,46,72,350,RW,Normal,False,False
+Paulina Krumbiegel,45,2236,21,,78,84,70,74,78,62,73,350,RW,Normal,False,False
+Natalia Kuikka,116305,2221,17,,78,78,52,70,74,78,78,350,CB,Normal,False,False
+Kodjo Fo-Doh Laba,111701,2172,144,,78,77,78,64,70,25,83,350,ST,Normal,False,False
+Gaëtan Laborde,72,16,18,,78,70,79,76,79,40,79,700,RW,Normal,False,False
+Armand Laurienté,111974,32,18,,78,80,76,75,80,35,61,350,LW,Normal,False,False
+Jade Le Guilly,73,2218,18,,78,68,55,71,70,77,68,350,RB,Normal,False,False
+Victor Lindelöf,11,13,46,,78,52,51,73,72,80,74,350,CB,Normal,False,False
+Sarai Linder,175,2215,21,,78,77,52,70,75,77,73,650,RB,Normal,False,False
+Tino Livramento,13,13,14,,78,83,50,70,79,74,73,400,RB,Normal,False,False
+Hirving Lozano,247,10,83,,78,88,75,71,80,41,58,900,RW,Normal,False,False
+Matheus Luiz Nunes,10,13,38,,78,83,71,74,81,73,76,650,CM,Normal,False,False
+Noni Madueke,5,13,14,,78,90,72,72,82,38,67,650,RM,Normal,False,False
+Joakim Mæhle,175,19,13,,78,76,57,71,74,73,78,350,RB,Normal,False,False
+Lovro Majer,175,19,10,,78,62,73,80,83,60,71,350,CM,Normal,False,False
+Nemanja Maksimović,1884,63,51,,78,47,73,74,73,77,79,350,CM,Normal,False,False
+Steve Mandanda,74,16,18,,78,75,77,74,79,49,77,750,GK,Normal,False,False
+Solly March,1808,13,14,,78,75,71,76,79,67,65,350,RM,Normal,False,False
+Ana Marcos Moral,461,2222,45,,78,77,79,72,80,51,81,650,ST,Normal,False,False
+Cari Roccaro,116305,2221,95,,77,73,68,74,76,71,70,350,CDM,Normal,False,False
+Ricardo Rodríguez,449,53,47,,77,70,69,79,76,79,74,350,CB,Normal,False,False
+Jonathan Rodríguez,111140,39,60,,77,87,77,65,79,38,76,600,ST,Normal,False,False
+Youssouf Sabaly,449,53,136,,77,78,54,65,74,74,71,350,RB,Normal,False,False
+Umar Sadiq,457,53,133,,77,83,76,60,72,30,76,350,ST,Normal,False,False
+Matvey Safonov,73,16,40,,77,78,74,75,80,44,77,550,GK,Normal,False,False
+Roland Sallai,25,19,23,,77,74,71,71,79,38,70,3000,RM,Normal,False,False
+Enith Salón Marcuello,461,2222,45,,77,80,77,71,77,47,74,350,GK,Normal,False,False
+Antonio Sanabria,54,31,58,,77,75,75,69,80,32,60,350,ST,Normal,False,False
+Ibrahim Sangaré,14,13,108,,77,60,65,72,72,77,83,350,CDM,Normal,False,False
+Baptiste Santamaria,74,16,18,,77,42,67,73,74,73,73,750,CDM,Normal,False,False
+Daniel Santos Bragança,237,308,38,,77,80,69,76,80,65,61,350,CM,Normal,False,False
+Pablo Sarabia García,110,13,45,,77,69,73,79,79,57,58,350,CAM,Normal,False,False
+Marvin Schwäbe,31,20,21,,77,77,74,75,81,47,74,350,GK,Normal,False,False
+Nicolas Seiwald,112172,19,4,,77,73,62,73,74,74,75,350,CDM,Normal,False,False
+Matz Sels,14,13,7,,77,76,76,79,77,36,77,350,GK,Normal,False,False
+Suat Serdar,206,31,21,,77,68,71,73,79,73,76,350,CM,Normal,False,False
+Giovanni Simeone,48,31,52,,77,71,79,63,73,41,74,350,ST,Normal,False,False
+Luis Sinisterra,1943,13,56,,77,88,71,69,82,52,51,350,LM,Normal,False,False
+Oliver Skipp,95,13,14,,77,61,47,68,71,75,70,350,CDM,Normal,False,False
+Emile Smith Rowe,144,13,14,,77,76,71,74,80,43,61,350,LM,Normal,False,False
+Florian Sotoca,64,16,18,,77,73,75,75,73,50,81,450,ST,Normal,False,False
+Marco Sportiello,131681,31,27,,77,76,74,75,77,44,80,350,GK,Normal,False,False
+Jeremiah St. Juste,237,308,34,,77,93,58,66,77,78,73,600,CB,Normal,False,False
+Anton Stach,10029,19,21,,77,73,68,74,72,77,80,600,CM,Normal,False,False
+Nicolae Stanciu,113217,350,39,,77,76,73,79,79,62,70,600,CM,Normal,False,False
+Josip Stanišić,21,19,10,,77,73,44,65,69,78,74,350,RB,Normal,False,False
+Sandra Starke,112172,2215,21,,77,82,74,67,79,48,69,350,ST,Normal,False,False
+Calvin Stengs,246,10,34,,77,71,69,78,78,54,66,350,CAM,Normal,False,False
+Kevin Stöger,23,19,4,,77,57,71,81,77,64,62,350,CAM,Normal,False,False
+Michel Aebischer,189,31,47,,76,66,67,74,75,74,74,350,CM,Normal,False,False
+Kristoffer Ajer,1925,13,36,,76,64,56,63,70,74,82,350,CB,Normal,False,False
+Maghnes Akliouche,69,16,18,,76,74,68,75,80,48,59,500,RM,Normal,False,False
+Chuba Akpom,245,10,14,,76,77,75,59,71,32,74,1100,ST,Normal,False,False
+Rodrigo Aliendro,1876,1003,52,,76,70,70,74,79,72,77,2800,CDM,Normal,False,False
+Stephen Antunes Eustáquio,236,308,70,,76,66,66,75,73,72,73,350,CDM,Normal,False,False
+Gabriel Arias,101085,1014,55,,76,76,72,72,76,45,75,1100,GK,Normal,False,False
+Santiago Ascacíbar,101083,1003,52,,76,70,70,71,75,73,71,800,CM,Normal,False,False
+Taiwo Awoniyi,14,13,133,,76,75,76,60,69,32,79,350,ST,Normal,False,False
+Hernani Azevedo Júnior,50,31,54,,76,60,70,71,72,73,75,350,CDM,Normal,False,False
+Carlos Bacca,101101,1003,56,,76,61,79,64,75,32,62,800,ST,Normal,False,False
+Eric Bailly,483,53,108,,76,68,42,59,66,76,71,350,CB,Normal,False,False
+Taison Barcellos Freda,393,63,54,,76,82,75,73,81,44,65,350,CAM,Normal,False,False
+Enis Bardhi,436,68,19,,76,71,77,77,78,58,53,350,CAM,Normal,False,False
+Leandro Barreiro Martins,234,308,31,,76,72,63,69,79,73,64,350,CM,Normal,False,False
+Pablo Barrios Rivas,240,53,45,,76,76,68,72,75,69,63,350,CM,Normal,False,False
+Diana Bartovičová,266,2230,43,,76,57,41,54,58,78,72,350,CB,Normal,False,False
+Federico Baschirotto,347,31,27,,76,70,53,60,57,75,86,600,CB,Normal,False,False
+Calvin Bassey,144,13,133,,76,82,44,62,67,74,86,600,CB,Normal,False,False
+Augusto Batalla,480,53,52,,76,77,73,74,78,43,74,350,GK,Normal,False,False
+Mourad Batna,112390,350,129,,76,72,74,74,77,36,79,350,RM,Normal,False,False
+Martin Baturina,211,317,10,,76,76,70,77,81,59,67,350,CAM,Normal,False,False
+Altay Bayındır,11,13,48,,76,78,73,72,79,30,76,350,GK,Normal,False,False
+Jen Beattie,131477,2221,42,,76,44,41,55,54,77,78,400,CB,Normal,False,False
+Ihlas Bebou,10029,19,144,,76,85,74,68,78,34,65,350,ST,Normal,False,False
+Sheraldo Becker,457,53,92,,76,93,74,70,78,35,69,600,ST,Normal,False,False
+Raoul Bellanova,115845,31,27,,76,86,32,65,73,69,72,350,RB,Normal,False,False
+Héctor Bellerín Moruno,449,53,45,,76,80,51,69,76,72,64,350,RB,Normal,False,False
+Fiamma Benítez Ianuzzi,240,2222,45,,76,77,69,73,79,58,72,350,CAM,Normal,False,False
+Giovanni Fabbian,189,31,27,,75,67,72,72,75,68,63,350,CM,Normal,False,False
+Frank Fabra,1877,1014,56,,75,80,68,74,78,68,76,600,LB,Normal,False,False
+Marco Davide Faraoni,206,31,27,,75,73,72,74,74,69,70,350,RM,Normal,False,False
+Hélène Fercocq,62,2218,18,,75,53,47,65,64,77,76,350,CB,Normal,False,False
+Bernardo Fernandes,160,19,54,,75,71,53,64,68,75,75,350,LB,Normal,False,False
+Charlotte Fernandes,116036,2218,18,,75,60,53,68,68,73,67,350,RB,Normal,False,False
+Guillermo Fernández,1877,1014,52,,75,67,67,73,76,65,66,1600,CM,Normal,False,False
+Jesus Ferreira,695,39,95,,75,84,73,71,76,45,67,350,ST,Normal,False,False
+Aïrine Fontaine,116036,2218,18,,75,73,71,70,77,41,61,350,LM,Normal,False,False
+Marco Friedl,38,19,4,,75,71,42,61,67,76,75,350,CB,Normal,False,False
+Vanessa Fudalla,112172,2215,21,,75,80,77,64,73,54,68,350,ST,Normal,False,False
+Angelo Fulgini,64,16,18,,75,71,69,75,78,67,71,450,CAM,Normal,False,False
+Mijat Gaćinović,278,63,51,,75,78,67,72,78,63,67,350,LM,Normal,False,False
+James Garner,7,13,14,,75,66,65,77,71,71,71,350,CM,Normal,False,False
+Patricia Gavira Collado,116332,2222,45,,75,73,53,65,68,75,78,600,CB,Normal,False,False
+Dániel Gazdag,112134,39,23,,75,77,73,68,76,54,72,350,CAM,Normal,False,False
+Yann Gboho,1809,16,18,,75,76,68,70,79,36,58,350,CAM,Normal,False,False
+Ben Godfrey,115845,31,14,,75,81,44,61,61,74,76,600,CB,Normal,False,False
+Léna Goetsch,116039,2218,18,,75,76,46,65,65,73,71,350,RB,Normal,False,False
+Víctor Gómez Perea,1896,308,45,,75,80,51,74,75,69,71,350,RB,Normal,False,False
+Leandro González Pirez,1876,1003,52,,75,68,54,62,67,74,81,350,CB,Normal,False,False
+Kamil Grabara,175,19,37,,75,76,75,72,76,42,75,350,GK,Normal,False,False
+Jacob Greaves,94,13,14,,75,69,40,63,65,75,79,350,CB,Normal,False,False
+Albert Grønbæk,74,16,13,,75,77,68,72,77,62,72,2000,CAM,Normal,False,False
+Marko Grujić,236,308,51,,75,59,71,71,75,74,82,350,CM,Normal,False,False
+Marco Grüll,38,19,4,,75,93,73,67,74,36,72,600,LM,Normal,False,False
+Cristian Guanca,111674,350,52,,75,72,78,72,75,40,71,350,CAM,Normal,False,False
+Javier Guerra Moreno,461,53,45,,75,74,70,72,75,72,72,350,CM,Normal,False,False
+Ander Guevara Lajo,463,53,45,,75,43,63,72,71,72,69,350,CM,Normal,False,False
+Pape Gueye,483,53,136,,75,58,60,70,71,74,76,350,CM,Normal,False,False
+Cecilia Marcos Nabal,457,2222,45,,75,71,72,73,78,43,54,350,LW,Normal,False,False
+Pablo Marí Villar,111811,31,45,,75,55,40,49,53,77,72,350,CB,Normal,False,False
+Răzvan Marin,1842,31,39,,75,64,74,76,75,67,71,350,CM,Normal,False,False
+Eric Martel,31,20,21,,75,63,51,62,71,76,81,350,CDM,Normal,False,False
+Lara Marti,112172,2215,47,,75,72,49,62,65,74,69,350,LB,Normal,False,False
+Gonzalo Martínez,1876,1003,52,,75,75,73,72,81,35,55,350,RM,Normal,False,False
+Josep Martínez Riera,131682,31,45,,75,75,71,67,74,26,76,350,GK,Normal,False,False
+Omar Mascarell González,453,53,45,,75,53,64,71,74,72,71,350,CM,Normal,False,False
+Georgios Masouras,280,63,22,,75,75,75,73,73,53,70,1300,RM,Normal,False,False
+Philipp Max,1884,63,21,,75,73,65,74,74,70,72,350,LB,Normal,False,False
+Alexandru Maxim,110776,68,39,,75,69,74,77,78,34,60,350,CAM,Normal,False,False
+Tara McKeown,116304,2221,95,,75,69,66,72,69,76,75,350,CB,Normal,False,False
+Brandon Mechele,231,4,7,,75,51,39,51,53,79,77,350,CB,Normal,False,False
+Cristian Medina,1877,1014,52,,75,75,64,72,79,69,69,950,CM,Normal,False,False
+Nampalys Mendy,64,16,136,,75,56,54,70,74,74,67,400,CDM,Normal,False,False
+Junior Messias,110556,31,54,,75,79,72,72,78,49,56,350,RM,Normal,False,False
+Alexander Meyer,22,19,21,,75,72,71,77,76,41,74,350,GK,Normal,False,False
+Cassie Miller,116310,2221,95,,75,77,70,75,77,41,76,350,GK,Normal,False,False
+Lauren Milliet,116308,2221,95,,75,74,58,72,76,71,51,350,RB,Normal,False,False
+James Milner,1808,13,14,,75,50,70,78,74,74,73,350,CM,Normal,False,False
+Óscar Mingueza García,450,53,45,,75,79,35,65,64,72,75,350,RB,Normal,False,False
+Narumi Miura,116303,2221,163,,75,62,70,76,75,72,65,1300,CDM,Normal,False,False
+Hinata Miyazawa,11,2216,163,,75,67,63,74,73,44,61,350,LM,Normal,False,False
+Mostafa Mohamed,71,16,111,,75,72,76,58,69,37,79,350,ST,Normal,False,False
+Paige Monaghan,131478,2221,95,,75,71,71,73,76,47,70,350,LW,Normal,False,False
+Gift Monday,116332,2222,133,,75,87,69,69,76,66,76,600,LW,Normal,False,False
+Nikola Moro,189,31,10,,75,67,73,75,74,70,75,350,CDM,Normal,False,False
+Linda Motlhalo,116308,2221,140,,75,76,66,74,76,69,64,350,CM,Normal,False,False
+Yasmin Mrabet,461,2222,129,,75,71,62,67,72,72,75,350,CM,Normal,False,False
+Kevin Müller,111235,19,21,,75,73,71,69,78,48,74,350,GK,Normal,False,False
+Matteo Brunori,1843,32,27,,74,79,73,63,75,42,74,350,ST,Normal,False,False
+Pavel Bucha,113149,39,12,,74,71,68,74,75,69,71,350,CDM,Normal,False,False
+Tajon Buchanan,131682,31,70,,74,92,65,66,74,67,73,1100,RM,Normal,False,False
+Adam Buksa,1516,1,37,,74,63,74,57,68,32,77,350,ST,Normal,False,False
+Wouter Burger,1806,14,34,,74,75,63,69,68,69,80,350,CDM,Normal,False,False
+Juan David Cabal,45,31,56,,74,71,38,68,65,74,73,350,LB,Normal,False,False
+Leandro Cabrera,452,53,60,,74,54,45,57,53,74,79,350,CB,Normal,False,False
+Anthony Caci,169,19,18,,74,69,54,70,70,72,74,350,LB,Normal,False,False
+Nicolò Cambiaghi,189,31,27,,74,77,72,65,77,38,68,350,LW,Normal,False,False
+Laurie Cance,1738,2218,18,,74,75,69,74,74,56,74,350,CM,Normal,False,False
+Elia Caprile,48,31,27,,74,72,72,72,77,48,74,350,GK,Normal,False,False
+Cindy Caputo,116044,2218,18,,74,76,74,70,76,45,67,350,LM,Normal,False,False
+Daniel Cárdenas Líndez,480,53,45,,74,74,71,73,77,44,68,400,GK,Normal,False,False
+José Antonio Caro Díaz,1968,54,45,,74,74,70,69,75,38,76,350,GK,Normal,False,False
+Ramiro Carrera,110395,1014,52,,74,79,71,73,73,64,76,1200,CM,Normal,False,False
+Leonardo Carrilho Baptistão,1861,54,54,,74,76,73,69,74,33,69,350,RM,Normal,False,False
+Fábio Leandro Carvalho,1925,13,38,,74,77,68,68,77,45,51,350,CAM,Normal,False,False
+Vitor Carvalho Vieira,1896,308,54,,74,75,62,64,71,72,75,350,CDM,Normal,False,False
+Milton Casco,1876,1003,52,,74,75,68,74,78,67,76,900,LB,Normal,False,False
+Daniele Casiraghi,112494,32,27,,74,76,70,72,73,50,73,350,LM,Normal,False,False
+Leonardo Castro,101105,1003,56,,74,80,76,62,71,32,64,950,ST,Normal,False,False
+Jonathan Castro Otto,393,63,45,,74,68,54,69,74,74,66,350,RB,Normal,False,False
+Matías Catalán,112670,1003,55,,74,82,58,66,65,74,78,1000,CB,Normal,False,False
+Daniel Cataño,101105,1003,56,,74,69,69,70,73,46,59,1100,CAM,Normal,False,False
+Václav Černý,86,50,12,,74,83,70,66,76,38,64,350,RM,Normal,False,False
+Enrique García Martínez,463,53,45,,74,52,75,64,72,44,72,350,ST,Normal,False,False
+Débora García Mateo,481,2222,45,,74,72,57,71,70,71,61,350,RB,Normal,False,False
+Violeta García Quiles,457,2222,45,,74,82,68,68,77,61,64,350,LM,Normal,False,False
+Ryan Gareis,116306,2221,95,,74,69,68,72,73,48,71,350,LM,Normal,False,False
+Johan Gastien,1815,17,18,,74,42,63,66,69,71,74,350,CDM,Normal,False,False
+Romée Leuchter,73,2218,34,,74,74,74,58,74,27,69,350,ST,Normal,False,False
+Jamie Leweling,36,19,21,,74,85,69,64,76,42,73,350,RM,Normal,False,False
+Karol Linetty,54,31,37,,74,56,63,71,74,72,66,350,CM,Normal,False,False
+Jesse Lingard,982,83,14,,74,73,71,72,77,58,61,4000,CAM,Normal,False,False
+Dejan Ljubičić,31,20,4,,74,73,69,70,73,70,78,350,CM,Normal,False,False
+Andrés Llinás,101105,1003,56,,74,64,29,50,55,75,75,1000,CB,Normal,False,False
+María Llompart Pons,131125,2222,45,,74,78,71,72,77,67,74,350,CM,Normal,False,False
+Gautier Lloris,1738,16,18,,74,40,36,54,56,74,77,350,CB,Normal,False,False
+Gastón Lódico,110953,353,52,,74,80,58,72,79,56,58,350,LM,Normal,False,False
+Yury Lodygin,1884,63,40,,74,76,70,73,78,45,71,350,GK,Normal,False,False
+Carlos Eduardo Lopes Cruz,110468,319,54,,74,75,67,73,76,67,62,350,LM,Normal,False,False
+Unai López Cabrera,480,53,45,,74,70,70,77,76,67,68,350,CDM,Normal,False,False
+Hernán López Muñoz,111928,39,52,,74,87,67,67,80,36,59,350,CAM,Normal,False,False
+Anthony Losilla,160,19,18,,74,42,59,66,71,72,74,450,CDM,Normal,False,False
+Joanne Love,131363,2233,42,,74,66,68,69,73,70,63,350,CM,Normal,False,False
+John Lundstram,436,68,14,,74,65,72,71,70,69,77,350,CDM,Normal,False,False
+Kevin Mac Allister,2014,4,52,,74,75,55,60,72,74,79,350,CB,Normal,False,False
+Koki Machida,2014,4,163,,74,78,42,59,52,73,80,350,CB,Normal,False,False
+Giulio Maggiore,110373,32,27,,74,69,61,69,70,72,71,350,CM,Normal,False,False
+Hörður Magnússon,1884,63,24,,74,69,50,68,60,75,75,350,CB,Normal,False,False
+Sofia Manner,116307,2221,17,,74,74,73,71,73,34,74,350,GK,Normal,False,False
+Ryan Manning,17,13,25,,74,69,60,72,73,68,71,350,LB,Normal,False,False
+Héloïse Mansuy,1738,2218,18,,74,69,38,61,65,75,74,350,CB,Normal,False,False
+Tomás Marchiori,101088,353,52,,74,74,73,71,74,40,74,350,GK,Normal,False,False
+Iván Marcone,110093,353,52,,74,40,62,71,68,72,77,350,CDM,Normal,False,False
+Nealy Martin,116310,2221,95,,74,62,49,68,66,76,58,350,CDM,Normal,False,False
+Ascensión Martínez Salinas,461,2222,45,,74,84,72,72,75,41,79,350,RW,Normal,False,False
+Pep Biel Mas Jaume,114640,39,45,,74,70,72,72,77,48,59,350,CAM,Normal,False,False
+Tegan McGrady,116039,2218,95,,74,69,48,67,67,73,61,350,LB,Normal,False,False
+Liam Scales,78,50,25,,73,70,56,63,63,71,79,200,CB,Normal,False,False
+Jeffrey Schlupp,1799,13,117,,73,75,71,68,74,70,69,850,LW,Normal,False,False
+Jan Schöppner,111235,19,21,,73,60,57,63,62,75,79,350,CDM,Normal,False,False
+Simone Scuffet,1842,31,27,,73,73,71,65,76,50,72,350,GK,Normal,False,False
+Zito André Sebastião Luvumbo,1842,31,98,,73,87,70,66,78,46,66,350,ST,Normal,False,False
+Aleksandar Sedlar,463,53,51,,73,43,43,51,51,74,77,200,CB,Normal,False,False
+Jasmin Sehan,38,2215,21,,73,70,71,68,72,49,66,300,ST,Normal,False,False
+Davie Selke,28,20,21,,73,77,72,54,67,37,77,1000,ST,Normal,False,False
+Luigi Sepe,110373,32,27,,73,72,71,70,76,44,70,350,GK,Normal,False,False
+Leonardo Sernicola,111434,32,27,,73,70,58,70,71,68,71,1100,RB,Normal,False,False
+Xherdan Shaqiri,896,189,47,,73,67,74,76,76,40,62,350,CAM,Normal,False,False
+Jaedyn Shaw,116312,2221,95,,73,81,70,71,71,44,64,550,RM,Normal,False,False
+Jordan Siebatcheu,1831,19,95,,73,55,72,61,71,39,76,250,ST,Normal,False,False
+Marie-Morgane Sieber,62,2218,18,,73,73,69,68,75,43,73,350,GK,Normal,False,False
+Caroline Siems,38,2215,21,,73,79,67,71,74,71,63,350,LB,Normal,False,False
+Kiliann Sildillia,25,19,18,,73,68,30,61,68,74,71,350,RB,Normal,False,False
+Mário Ricardo Silva Velho,489,308,38,,73,74,71,66,75,21,73,350,GK,Normal,False,False
+Santiago Simón,1876,1003,52,,73,75,62,70,74,65,72,500,RM,Normal,False,False
+Manolis Siopis,1961,14,22,,73,73,45,64,70,71,73,350,CDM,Normal,False,False
+Moussa Sissoko,1795,14,18,,73,56,62,72,72,70,78,350,CM,Normal,False,False
+Teninsoun Sissoko,111817,2218,18,,73,64,46,63,61,75,71,350,CB,Normal,False,False
+Tim Skarke,1831,19,21,,73,85,74,63,75,47,68,350,ST,Normal,False,False
+Will Smallbone,17,13,25,,73,63,64,68,75,67,66,350,CM,Normal,False,False
+Eric Smith,110329,19,46,,73,65,57,66,66,72,78,350,CB,Normal,False,False
+Adam Smith,1943,13,14,,73,65,59,70,70,72,70,550,RB,Normal,False,False
+Ola Solbakken,1746,31,36,,73,81,69,66,73,37,69,350,RM,Normal,False,False
+Thibo Somers,1750,4,7,Long+Throw,73,80,69,65,71,55,78,350,RM,Normal,False,False
+Oliver Sørensen,1516,1,13,,73,73,67,68,71,69,80,350,CM,Normal,False,False
+Santiago Sosa,101085,1014,52,,73,57,57,63,67,72,78,500,CB,Normal,False,False
+Marcos Vinícius Sousa Natividade,100135,2210,54,,73,85,68,66,74,26,56,250,LW,Normal,False,False
+Yeremay Hernández Cubas,242,54,45,,73,77,64,69,75,22,48,450,LW,Normal,False,False
+Wesley Hoedt,111674,350,34,,73,56,46,69,60,74,75,350,CB,Normal,False,False
+Philipp Hofmann,160,19,21,,73,51,72,55,65,37,80,200,ST,Normal,False,False
+Casper Højer,101037,68,13,,73,74,69,75,70,67,73,350,LB,Normal,False,False
+Rob Holding,1799,13,14,,73,47,34,58,63,75,69,850,CB,Normal,False,False
+Lucas Höler,25,19,21,,73,69,73,54,63,51,79,350,ST,Normal,False,False
+Tomi Horvat,209,80,44,,73,75,70,71,76,53,68,350,CAM,Normal,False,False
+Trai Hume,106,14,35,,73,81,37,61,67,70,79,350,RB,Normal,False,False
+Marcus Ingvartsen,1788,1,13,,73,62,77,67,73,38,72,850,ST,Normal,False,False
+Cedric Itten,900,189,47,,73,69,73,62,67,36,80,350,ST,Normal,False,False
+Pontus Jansson,320,56,46,,73,49,45,51,59,73,81,350,CB,Normal,False,False
+Ardon Jashari,231,4,47,,73,68,64,71,72,68,80,350,CDM,Normal,False,False
+Rafael Jiménez Jarque,1968,54,45,,73,43,53,67,57,70,87,350,CB,Normal,False,False
+Ben Johnson,94,13,14,,73,72,40,63,68,73,71,1600,RB,Normal,False,False
+Paul Joly,57,16,18,,73,66,34,60,58,73,72,350,RB,Normal,False,False
+Dejan Joveljić,697,39,51,,73,74,72,61,70,32,73,200,ST,Normal,False,False
+Christopher Jullien,70,16,18,,73,54,50,62,56,72,77,350,CB,Normal,False,False
+Anthony Jung,38,19,21,,73,63,62,65,66,74,74,350,CB,Normal,False,False
+Matěj Jurásek,266,319,12,,73,81,71,67,74,54,70,400,RW,Normal,False,False
+David Jurásek,10029,19,12,,73,82,61,68,72,67,75,350,LB,Normal,False,False
+Julian Justvan,171,20,21,,73,83,60,71,75,53,53,350,RM,Normal,False,False
+Hassane Kamara,55,31,108,,73,82,59,67,73,67,74,350,LB,Normal,False,False
+Jakub Kamiński,175,19,37,,73,82,64,66,77,48,58,350,LM,Normal,False,False
+Uchenna Kanu,116308,2221,133,,73,74,70,69,74,42,67,350,LM,Normal,False,False
+Kenan Karaman,34,20,48,,73,76,71,67,74,28,72,350,CAM,Normal,False,False
+Isa Kardinaal,245,2229,34,,73,67,50,49,58,73,71,350,CB,Normal,False,False
+Sarah Kassi,116036,2218,129,,73,40,57,66,69,69,68,200,CDM,Normal,False,False
+Grigoris Kastanos,206,31,11,,73,76,70,72,75,55,65,350,CAM,Normal,False,False
+Joris Kayembe,673,4,110,,73,79,60,68,73,66,73,200,LB,Normal,False,False
+Ilan Kebbal,111817,17,97,,73,77,66,71,78,24,53,350,CAM,Normal,False,False
+Daniel Bentley,110,13,14,,72,73,67,69,73,46,72,250,GK,Normal,False,False
+Bartosz Bereszyński,1837,32,37,,72,76,56,64,69,67,72,200,RB,Normal,False,False
+Emma Berglund,131362,2232,46,,72,64,30,56,62,73,73,350,CB,Normal,False,False
+Paul Bernardoni,1704,189,18,,72,73,70,69,71,29,72,200,GK,Normal,False,False
+Matúš Bero,160,19,43,,72,70,71,69,71,70,81,350,CM,Normal,False,False
+Benjamín Berríos,112584,1014,55,,72,71,58,67,73,68,72,550,CM,Normal,False,False
+Andrea Bertolacci,111434,32,27,,72,55,69,73,73,71,64,350,CM,Normal,False,False
+Pietro Beruatto,110738,32,27,,72,78,51,60,65,68,69,800,LB,Normal,False,False
+Ermin Bičakčić,110500,20,8,,72,54,37,49,47,71,76,200,CB,Normal,False,False
+Krystian Bielik,88,60,37,,72,55,46,63,66,71,79,350,CDM,Normal,False,False
+Luca-Emily Birkholz,116005,2215,21,,72,72,72,63,70,53,67,200,ST,Normal,False,False
+Sebastián Blanco,1013,1003,52,,72,65,70,72,72,32,58,650,CAM,Normal,False,False
+Alexis Blin,1843,32,18,,72,31,54,63,65,69,77,200,CDM,Normal,False,False
+Joe Rothwell,8,14,14,,72,75,65,72,74,62,68,350,CM,Normal,False,False
+Albion Rrahmani,267,319,219,,72,72,73,56,68,28,70,350,ST,Normal,False,False
+Diego Rubio,114161,39,55,,72,68,72,65,71,48,71,200,ST,Normal,False,False
+Johnny Russell,696,39,42,,72,75,72,70,74,50,78,350,RW,Normal,False,False
+Matěj Ryneš,267,319,12,,72,77,66,71,71,66,75,350,LB,Normal,False,False
+Falaye Sacko,70,16,126,,72,87,45,62,71,66,72,350,RB,Normal,False,False
+Mujaid Sadick Aliu,673,4,45,,72,63,26,57,55,72,77,200,CB,Normal,False,False
+Bartosz Salamon,873,66,37,,72,46,47,58,54,72,80,200,CB,Normal,False,False
+Maximiliano Salas,101085,1014,52,,72,72,74,67,73,27,66,850,ST,Normal,False,False
+Alan Saldivia,110980,1003,60,,72,73,25,47,57,71,79,1000,CB,Normal,False,False
+Manolis Saliakas,110329,19,22,,72,69,57,66,69,67,68,250,RB,Normal,False,False
+Dániel Sallói,696,39,23,,72,75,72,69,72,35,70,350,LW,Normal,False,False
+Mbwana Ally Samatta,393,63,143,,72,75,71,63,69,37,73,200,ST,Normal,False,False
+Matisse Samoise,674,4,7,,72,76,63,69,70,64,72,200,RM,Normal,False,False
+Mario Sampirisi,110740,32,27,,72,68,41,61,61,71,78,350,CB,Normal,False,False
+Juan Luis Sánchez Velasco,481,53,45,,72,65,59,63,73,69,62,200,RB,Normal,False,False
+Philipp Sander,23,19,21,,72,73,58,71,73,65,67,200,CM,Normal,False,False
+Daniel Peretz,21,19,26,,72,74,74,69,73,35,63,350,GK,Normal,False,False
+Sebastián Pérez,1898,308,56,,72,67,62,62,68,67,73,200,CDM,Normal,False,False
+Marco Pérez,101101,1003,56,,72,78,75,61,64,31,75,950,ST,Normal,False,False
+Laura Pérez Martín,110832,2222,45,,72,74,66,70,71,54,65,200,RM,Normal,False,False
+Baldomero Perlaza,101103,1014,56,,72,57,54,60,61,73,84,1000,CDM,Normal,False,False
+Gaëtan Perrin,57,16,18,,72,80,68,67,74,37,64,300,LM,Normal,False,False
+Jakub Pešek,267,319,12,,72,86,66,68,73,28,46,350,RW,Normal,False,False
+Patric Pfeiffer,900,189,21,,72,71,35,47,57,70,77,350,CB,Normal,False,False
+Victoria Pickett,116303,2221,70,,72,54,67,72,74,59,50,250,CM,Normal,False,False
+Hamilton Piedra,110982,1014,57,,72,73,70,72,70,42,72,1800,GK,Normal,False,False
+Marvin Pieringer,111235,19,21,,72,69,70,58,68,30,78,200,ST,Normal,False,False
+Ronaël Pierre-Gabriel,211,317,18,,72,74,48,61,69,72,74,350,RB,Normal,False,False
+Mirko Pigliacelli,110908,32,27,,72,72,71,83,72,48,70,350,GK,Normal,False,False
+Carlo Pinsoglio,45,31,27,,72,72,71,62,74,42,73,350,GK,Normal,False,False
+Lucas Pires Silva,1796,14,54,,72,76,49,64,64,67,66,200,LB,Normal,False,False
+Lukas Podolski,420,66,21,,72,49,78,73,71,36,68,350,CAM,Normal,False,False
+Diego Polenta,111325,1003,60,,72,66,42,61,58,69,83,900,CB,Normal,False,False
+Andy Polo,111014,1003,59,,72,89,58,67,72,59,63,900,RM,Normal,False,False
+Juan Camilo Portilla,112670,1003,56,,72,69,66,66,68,66,72,650,CDM,Normal,False,False
+Juan Portillo,112670,1003,52,,72,79,57,65,68,69,79,900,LB,Normal,False,False
+Samuel Portugal Lima,236,308,54,,72,73,67,76,75,43,71,350,GK,Normal,False,False
+Matteo Prati,1842,31,27,,72,59,65,72,71,69,68,200,CDM,Normal,False,False
+Alan Pulido,696,39,83,,72,73,72,66,72,37,71,0,ST,Normal,False,False
+Jorge Pulido Mayoral,110839,54,45,,72,41,43,54,53,72,81,350,CB,Normal,False,False
+Facundo Quignon,111022,1014,52,,72,59,53,66,74,70,74,900,CDM,Normal,False,False
+José Quintero,110986,1003,57,,72,83,59,67,69,67,73,950,RB,Normal,False,False
+Nemanja Radoja,696,39,51,,72,50,61,70,70,69,73,200,CM,Normal,False,False
+Ionuț Andrei Radu,131682,31,39,,72,76,68,70,76,40,70,350,GK,Normal,False,False
+Gastón Ramírez,101110,1003,60,,72,61,70,74,74,43,61,1700,CAM,Normal,False,False
+Filippo Ranocchia,1843,32,27,,72,74,69,73,74,62,74,350,CM,Normal,False,False
+Rebecca Knaak,131362,2232,21,,72,65,65,74,71,67,63,350,CM,Normal,False,False
+Kenan Kodro,110776,68,8,,72,54,72,62,67,40,71,200,ST,Normal,False,False
+Mats Köhlert,1913,10,21,,72,79,63,72,72,63,68,350,LB,Normal,False,False
+Ondřej Kolář,266,319,12,,72,71,69,76,74,44,72,200,GK,Normal,False,False
+Ismaël Koné,219,16,70,,72,78,63,68,71,64,69,1100,CM,Normal,False,False
+Jan Kopic,110468,319,12,,72,76,69,68,72,36,59,200,RM,Normal,False,False
+Dominika Kopińska,116036,2218,37,,72,70,72,59,70,31,69,200,ST,Normal,False,False
+Giannis Kotsiras,1884,63,22,,72,77,52,67,70,68,72,250,RB,Normal,False,False
+Jean Evrard Kouassi,112163,2012,108,,72,90,69,59,77,31,70,350,LM,Normal,False,False
+Cornelia Kramer,32,2215,13,,72,73,72,53,70,47,67,200,ST,Normal,False,False
+Damir Kreilach,101112,39,10,,72,42,72,70,72,64,80,350,ST,Normal,False,False
+Filip Krovinović,263,317,10,,72,65,67,74,72,60,60,350,CAM,Normal,False,False
+Kathrine Kühl,1,2216,13,,72,66,55,66,73,63,66,950,CM,Normal,False,False
+Camilla Küver,175,2215,21,,72,68,52,66,61,72,67,350,RB,Normal,False,False
+Luca Langoni,691,39,52,,72,90,67,62,73,34,67,350,RM,Normal,False,False
+Sam Larsson,741,68,46,,72,79,69,71,73,38,59,200,LM,Normal,False,False
+Tobias Lauritsen,100646,10,36,,72,60,70,53,62,42,77,200,ST,Normal,False,False
+Dimitri Lavalée,209,80,7,,72,64,29,61,64,71,72,200,CB,Normal,False,False
+Tobias Lawal,252,80,4,,72,77,68,64,74,30,70,350,GK,Normal,False,False
+Tom Lawrence,86,50,50,,72,73,73,71,73,43,70,350,CAM,Normal,False,False
+Amor Layouni,711,56,145,,72,92,71,64,70,41,77,350,RW,Normal,False,False
+Anaële Le Moguédec,379,2218,18,,72,66,62,67,71,62,67,200,CM,Normal,False,False
+Anna Leat,2,2216,198,,72,74,74,66,70,43,69,350,GK,Normal,False,False
+Seung Woo Lee,1477,83,167,,72,82,70,66,74,41,63,350,CAM,Normal,False,False
+Maxim Leitsch,169,19,21,,72,76,37,57,58,74,67,350,CB,Normal,False,False
+Darragh Lenihan,12,14,25,,72,65,46,58,59,72,76,200,CB,Normal,False,False
+Alan Lescano,111019,1014,52,,72,65,70,72,73,62,69,550,CM,Normal,False,False
+Simona Botero,452,2222,56,,72,72,39,54,51,71,73,350,CB,Normal,False,False
+Millene Cabral,242,2222,45,,72,75,70,70,77,31,71,350,ST,Normal,False,False
+Amira Ould Braham,71,2218,97,,72,64,57,69,70,39,54,200,LM,Normal,False,False
+Benno Schmitz,322,189,21,,71,60,50,69,69,71,72,300,RB,Normal,False,False
+David Schnegg,688,39,4,,71,75,56,64,68,68,77,200,LB,Normal,False,False
+Viktoria Schwalm,116000,2215,21,,71,67,70,60,68,46,60,200,ST,Normal,False,False
+Matthias Seidl,254,80,4,,71,67,70,69,71,36,62,200,CAM,Normal,False,False
+Adrian Šemper,110738,32,10,,71,72,68,66,72,31,70,200,GK,Normal,False,False
+Josep Señé Escudero,110242,54,45,,71,68,66,70,71,58,66,200,CM,Normal,False,False
+Nicolás Serrano Galdeano,459,54,45,,71,82,65,64,76,24,51,300,LM,normal,False,False
+Kevin Sessa,166,20,21,,71,87,63,67,72,61,58,300,RM,Normal,False,False
+Armindo Sieb,169,19,21,,71,82,71,57,77,26,68,300,ST,Normal,False,False
+Tim Siersleben,111235,19,21,,71,52,33,48,56,73,72,300,CB,Normal,False,False
+Isnairo Reis Silva Morais,1478,83,54,,71,81,66,64,74,33,60,200,LW,Normal,False,False
+Miguel Silva Reisinho,1898,308,38,,71,70,67,67,71,63,72,200,CM,Normal,False,False
+Ellis Simms,1800,14,14,,71,74,71,53,66,34,77,200,ST,Normal,False,False
+Gabriela Šlajsová,266,2230,12,,71,61,23,60,51,73,66,300,RB,Normal,False,False
+Matte Smets,673,4,7,,71,67,33,64,65,73,73,300,CB,Normal,False,False
+Florian Kastenmeier,110636,20,21,,71,72,65,67,74,26,70,200,GK,Normal,False,False
+Edo Kayembe,1795,14,110,,71,72,63,67,68,67,78,200,CDM,Normal,False,False
+Michael Kayode,1925,13,27,,71,65,35,56,71,72,58,300,RB,normal,False,False
+Yannik Keitel,36,19,21,,71,66,48,63,66,69,73,200,CDM,Normal,False,False
+Tobias Kempe,110502,20,21,,71,59,73,76,72,55,68,300,CM,Normal,False,False
+Gyrano Kerk,230,4,92,,71,84,70,62,71,35,72,200,RM,Normal,False,False
+Sam Kerr,21,2215,42,,71,65,69,68,75,66,63,300,CDM,Normal,False,False
+Luca Kilian,31,20,21,,71,68,39,55,54,70,76,200,CB,Normal,False,False
+Emre Kılınç,748,68,48,,71,73,68,66,75,51,61,200,RM,Normal,False,False
+Dong Joon Kim,1478,83,167,,71,73,72,66,72,43,68,300,GK,Normal,False,False
+Dae Won Kim,2055,83,167,,71,87,68,66,72,29,70,300,LM,Normal,False,False
+Mathias Kjølø,1908,10,36,,71,49,57,68,68,66,66,400,CDM,Normal,False,False
+Felix Klaus,110636,20,21,,71,78,66,65,73,39,69,200,RM,Normal,False,False
+Seung Beom Ko,1473,83,167,,71,72,60,68,71,66,78,200,CM,Normal,False,False
+Markus Kolke,38,19,21,,71,73,68,61,74,45,69,200,GK,Normal,False,False
+Claudio Echeverri,10,13,52,,71,87,62,67,79,35,44,400,CAM,normal,False,False
+Souffian El Karouani,1903,10,129,,71,70,43,67,71,65,67,350,LB,Normal,False,False
+Zakaria El Ouahdi,673,4,129,,71,73,55,67,75,62,58,300,RB,Normal,False,False
+Eren Elmalı,436,68,48,,71,80,40,62,69,66,75,200,LB,Normal,False,False
+Maximilian Entrup,252,80,4,,71,71,73,55,67,28,71,300,ST,Normal,False,False
+Ivo Daniel F. Mendonça Pinto,634,10,38,,71,78,46,64,66,65,73,250,RB,Normal,False,False
+Mamadou Fall,111339,68,136,,71,88,67,61,69,37,74,300,ST,Normal,False,False
+Christian Fassnacht,1792,14,47,,71,76,66,67,72,36,69,200,RM,Normal,False,False
+Jorge Samuel Fernandes,116361,2012,38,,71,77,70,66,76,54,46,300,RW,Normal,False,False
+Paolo Fernándes Cantin,278,63,45,,71,77,68,64,78,36,59,300,RW,Normal,False,False
+Clayton Fernandes Silva,744,308,54,,71,71,74,61,65,24,70,300,ST,Normal,False,False
+Sebastián Fernández,110998,1014,60,,71,71,72,67,67,40,46,500,ST,Normal,False,False
+Damián Fernández,101088,353,52,,71,78,33,52,59,70,78,300,CB,Normal,False,False
+Miguel Ângelo Ferreira Magalhães,1887,308,38,,71,78,54,64,68,65,54,200,RB,Normal,False,False
+Facundo Ferreyra,111715,353,52,,71,50,72,58,73,30,68,300,ST,Normal,False,False
+Sam Field,15,14,14,,71,56,54,62,64,72,67,300,CDM,Normal,False,False
+Cristopher Fiermarin,111710,1014,60,,71,68,69,66,71,22,72,1100,GK,Normal,False,False
+Daniel Fila,266,319,12,,71,72,71,52,70,28,72,200,ST,Normal,False,False
+Dominik Fitz,256,80,4,,71,76,68,73,70,33,58,300,CAM,Normal,False,False
+Edison Flores,111014,1003,59,,71,77,69,67,72,37,59,900,LW,Normal,False,False
+Gemma Font Oliveras,241,2222,45,,71,72,69,68,70,41,70,200,GK,Normal,False,False
+Adam Forshaw,3,14,14,,71,54,61,70,72,67,67,200,CDM,normal,False,False
+Daam Foulon,110724,4,7,,71,74,52,70,70,65,72,200,LM,Normal,False,False
+Franco Fragapane,111716,353,52,,71,88,65,67,74,40,53,300,LM,normal,False,False
+Marcel Franke,1832,20,21,,71,55,31,44,46,70,81,300,CB,Normal,False,False
+Martin Frese,206,31,13,,71,79,65,68,71,64,68,250,LB,Normal,False,False
+Danilo Teodoro Soares,171,20,54,,71,71,59,64,72,69,70,200,LB,Normal,False,False
+Marcel Sobottka,110636,20,21,,71,70,57,63,66,71,75,300,CDM,Normal,False,False
+Simon Sohm,50,31,47,,71,76,66,66,69,65,81,300,CAM,Normal,False,False
+Andy Pelmard,472,53,18,,71,85,34,60,70,70,76,300,CB,normal,False,False
+Marco Curto,1837,32,27,,71,63,37,48,50,71,79,300,CB,normal,False,False
+Katelin Talbert,2,2216,95,,71,74,67,75,73,45,68,300,GK,normal,False,False
+Isaac Hayden,1790,14,14,,71,51,58,61,67,71,77,2900,CDM,normal,False,False
+Juan Ramírez,110395,1014,52,,71,81,64,68,78,64,67,500,CM,normal,False,False
+Anthony Racioppi,31,20,47,,71,73,68,65,71,30,69,200,GK,normal,False,False
+Chris Bedia,900,189,108,,71,68,71,54,67,33,78,200,ST,normal,False,False
+Oday Dabbagh,77,50,180,,71,73,72,58,67,35,75,200,ST,normal,False,False
+Enzo Ebosse,110745,66,103,,71,62,35,56,64,72,71,200,CB,normal,False,False
+Kieran Dowell,88,60,14,,71,63,70,71,73,40,55,200,CAM,normal,False,False
+Antoine Bernede,206,31,18,,71,66,60,66,71,68,72,300,CM,normal,False,False
+Jean-Kévin Duverne,100081,4,80,,71,60,38,62,67,72,73,300,LB,normal,False,False
+Pelly-Ruddock Mpanzu,1797,60,110,,71,77,63,66,73,69,81,300,CM,normal,False,False
+Rabbi Matondo,485,20,50,,71,92,66,63,72,38,52,300,LM,normal,False,False
+Kal Naismith,1923,14,42,,71,66,65,66,67,70,77,250,CB,normal,False,False
+Nemanja Tošic,242,54,51,,71,71,47,66,68,67,74,200,LB,normal,False,False
+Jean-Pierre Nsame,898,189,103,,71,66,71,53,71,27,80,200,ST,normal,False,False
+Ron-Thorben Hoffmann,110500,20,21,,71,64,71,68,74,25,74,300,GK,normal,False,False
+Rayan Raveloson,900,189,124,,71,73,66,65,72,69,76,300,CDM,normal,False,False
+Woyo Coulibaly,95,13,18,,71,76,50,65,68,66,81,300,RB,normal,False,False
+Boris Tomiak,485,20,21,,71,72,43,46,41,71,81,300,CB,normal,False,False
+Gabriel Alanís,111711,353,52,,71,76,63,66,69,57,71,300,RM,normal,False,False
+Fábio Ronaldo Costa Conceição,718,308,38,,71,84,68,63,74,62,63,200,LW,normal,False,False
+Michal Helik,1951,14,37,,71,60,52,48,55,70,81,200,CB,normal,False,False
+Kye Rowles,688,39,195,,71,64,24,46,47,72,76,200,CB,normal,False,False
+Ezequiel Piovi,110986,1003,52,,70,75,64,66,70,67,71,800,CDM,Normal,False,False
+Robert Piris Da Motta,112716,1003,58,,70,61,39,58,62,69,79,900,CDM,Normal,False,False
+Bruno Pittón,111716,353,52,,70,71,67,70,65,64,65,300,LB,Normal,False,False
+Mauro Pittón,111716,353,52,,70,78,56,69,70,66,70,300,CM,Normal,False,False
+Felix Platte,10030,20,21,,70,68,69,54,63,25,75,200,ST,Normal,False,False
+Vicente Poggi,111706,353,60,,70,76,48,68,73,64,67,300,CM,Normal,False,False
+Matt Polster,691,39,95,,70,46,46,66,64,65,79,300,CDM,Normal,False,False
+Finn Porath,576,19,21,,70,79,62,67,73,62,67,300,RM,Normal,False,False
+Ryan Porteous,1795,14,42,,70,68,42,62,60,68,80,900,CB,Normal,False,False
+Lucas Possignolo,112163,2012,54,,70,49,37,46,50,70,75,200,CB,Normal,False,False
+Alejandro Pozo Pozo,1861,54,45,,70,73,64,66,73,66,50,200,RB,Normal,False,False
+Adonis Preciado,110981,1003,57,,70,89,55,62,69,49,47,2200,RM,Normal,False,False
+Ivan Prtajin,1831,19,10,,70,64,70,54,64,29,76,200,ST,Normal,False,False
+Marc Pubill Pagès,1861,54,45,,70,78,56,62,67,64,78,300,RB,Normal,False,False
+Arnau Puigmal Martínez,1861,54,45,,70,67,62,71,72,57,51,200,RM,Normal,False,False
+Afimico Pululu,110745,66,98,,70,92,68,57,71,26,68,300,ST,Normal,False,False
+Julián Quiñónes,111722,1014,56,,70,55,35,49,42,68,83,3400,CB,Normal,False,False
+Leonel Quiñonez,110986,1003,57,,70,76,63,68,68,65,73,500,LB,Normal,False,False
+Aarón Quirós,101088,353,52,,70,62,49,63,65,72,59,200,CB,Normal,False,False
+Matheo Raab,28,20,21,,70,70,69,67,70,25,70,200,GK,Normal,False,False
+Boris Radunović,1848,32,51,,70,73,65,68,75,40,68,300,GK,Normal,False,False
+Yonatthan Rak,112965,353,60,,70,66,39,54,53,71,71,200,CB,Normal,False,False
+Joe Ralls,1961,14,14,,70,54,65,71,67,65,68,200,CM,Normal,False,False
+Ylber Ramadani,347,31,1,,70,54,58,60,64,68,77,200,CDM,Normal,False,False
+Jesús Ramírez,1887,308,61,,70,79,67,58,67,35,69,200,ST,Normal,False,False
+Roberto Ramírez,111706,353,52,,70,72,67,66,73,48,69,200,GK,Normal,False,False
+Benito Ramírez del Toro,472,53,45,,70,86,65,65,70,63,67,300,LB,Normal,False,False
+Aaron Ramsey,1796,14,14,,70,73,63,67,72,50,60,250,LM,Normal,False,False
+Jutta Rantala,95,2216,17,,70,65,72,54,68,25,58,200,ST,Normal,False,False
+Federico Ravaglia,189,31,27,,70,72,67,67,75,37,69,300,GK,Normal,False,False
+Arnaud Souquet,693,39,18,,70,65,58,66,68,66,70,200,RB,Normal,False,False
+Dario Špikić,211,317,10,,70,82,66,63,73,49,60,2500,RW,Normal,False,False
+Jorne Spileers,231,4,7,,70,73,31,58,57,70,71,300,CB,Normal,False,False
+Filip Stanković,205,31,51,,70,69,68,66,75,50,68,300,GK,Normal,False,False
+Marius Ștefănescu,100761,330,39,,70,90,64,63,70,58,70,300,RM,Normal,False,False
+Dejana Stefanović,1808,2216,51,,70,65,48,64,64,70,73,200,CDM,Normal,False,False
+Elise Isolde Stenevik,7,2216,36,,70,72,38,63,65,67,65,200,LB,Normal,False,False
+Dejan Stojanović,15009,80,19,,70,71,65,64,73,37,70,300,GK,Normal,False,False
+Florian Stritzel,492,2076,21,,70,72,68,54,70,34,74,300,GK,Normal,False,False
+Petar Sučić,211,317,10,,70,69,59,69,72,58,71,200,CM,Normal,False,False
+Adrian Șut,100761,330,39,,70,70,62,62,63,69,78,200,CDM,Normal,False,False
+Stratos Svarnas,114326,66,22,,70,73,36,49,50,70,79,300,CB,Normal,False,False
+Alexandre Zurawski,110827,54,54,,70,74,71,63,68,25,76,200,ST,Normal,False,False
+Lan A,131488,2012,155,,70,80,68,63,73,32,72,200,ST,Normal,False,False
+Ramón Ábila,111711,353,52,,70,57,70,61,69,32,79,200,ST,Normal,False,False
+Joe Abrigo,111328,1003,55,,70,77,63,69,72,39,45,1000,CAM,Normal,False,False
+Junior Adamu,25,19,4,,70,79,69,52,70,22,67,200,ST,Normal,False,False
+Davide Adorni,113973,32,27,,70,74,44,52,53,71,70,300,CB,Normal,False,False
+Anna Aehling,1824,2215,21,,70,72,42,60,58,68,70,300,RB,Normal,False,False
+Washington Aguerre,101110,1003,60,,70,68,70,67,69,53,69,550,GK,Normal,False,False
+Juan Felipe Aguirre,101100,2209,56,,70,59,38,52,53,72,72,200,CB,Normal,False,False
+Yolanda Aguirre Gutierrez,481,2222,45,,70,70,67,68,70,49,71,200,GK,Normal,False,False
+Hyun Beom Ahn,1477,83,167,,70,90,61,63,69,60,74,300,RB,Normal,False,False
+Young Kyu Ahn,112258,83,167,,70,61,31,41,56,71,76,200,CB,Normal,False,False
+Anouar Ait El Hadj,2014,4,7,,70,71,63,69,75,44,60,300,CAM,Normal,False,False
+Semi Ajayi,109,14,133,,70,69,48,47,59,69,81,200,CB,Normal,False,False
+Sami Al Khaibari,113057,350,183,,70,51,27,43,39,71,80,200,CB,Normal,False,False
+Iván Alejo Peralta,100135,2210,45,,70,80,67,68,71,46,66,200,RM,normal,False,False
+Doğan Alemdar,74,16,48,,70,70,69,69,69,38,71,350,GK,Normal,False,False
+Ángel Algobia Esteves,1853,54,45,,70,53,63,66,68,67,62,200,CM,Normal,False,False
+Chrislain Matsima,100409,19,18,,70,73,34,48,55,69,70,300,CB,Normal,False,False
+German Onugkha,819,1,40,,70,67,70,54,67,24,79,2400,ST,Normal,False,False
+Stjepan Lončar,873,66,8,,70,56,66,67,68,65,72,200,CDM,Normal,False,False
+Samuel Edozie,229,4,14,,70,81,61,63,73,28,52,200,LW,Normal,False,False
+Rayyan Baniya,1843,32,48,,70,65,31,43,53,70,77,200,CB,Normal,False,False
+Martim Carvalho Neto,744,308,38,,70,76,65,67,74,56,63,300,CM,Normal,False,False
+Ibrahim Salah,378,16,129,,70,73,69,58,72,30,67,350,ST,Normal,False,False
+Miguel Raimundo Nóbrega,111086,66,38,,70,56,36,48,48,71,76,200,CB,Normal,False,False
+Malcom Adu Ares Djaló,244,54,45,,70,85,64,67,73,25,58,200,LM,Normal,False,False
+Santiago Rodríguez,111019,1014,52,,70,72,72,64,71,32,61,500,ST,Normal,False,False
+Penelope Hocking,131477,2221,95,,70,72,69,67,68,48,66,200,LM,Normal,False,False
+Santiago Mouriño,463,53,60,,70,69,36,49,50,69,77,200,CB,Normal,False,False
+Carlos Roberto Forbs Borges,110,13,38,,70,90,67,62,70,36,54,300,LW,Normal,False,False
+Gökhan Akkan,131388,68,48,,70,70,66,66,74,48,70,200,GK,normal,False,False
+Alex Paulsen,131739,351,198,,70,68,65,70,73,49,64,200,GK,normal,False,False
+Silva de Almeida,461,2222,54,,70,72,69,58,70,27,72,2400,ST,normal,False,False
+Dijkstra,175,2215,34,,70,60,30,53,47,70,68,200,CB,normal,False,False
+Kehrer,32,2215,70,,70,68,70,52,67,45,67,200,ST,normal,False,False
+Chaverra,101103,1014,56,,70,80,59,64,70,42,45,450,LM,normal,False,False
+Oliver Sonne,1796,14,59,,70,77,45,63,67,63,66,200,RB,normal,False,False
+Maxime Busi,1904,10,7,,70,69,49,63,68,67,66,250,RB,normal,False,False
+Marco John,165,20,21,,70,74,53,69,71,64,55,200,LB,normal,False,False
+Nanduo Fei,111724,2012,155,,70,80,62,65,74,39,63,200,RM,normal,False,False
+Bartol Franjic,211,317,10,,70,69,50,62,65,67,75,200,CDM,normal,False,False
+Braian Martínez,110093,353,52,,70,82,65,61,75,41,73,200,LM,normal,False,False
+Tobias Salquist,1788,1,13,,70,67,41,51,52,69,80,200,CB,normal,False,False
+Tymoteusz Puchacz,1929,14,37,,70,86,64,62,70,63,80,300,LB,normal,False,False
+Jae Hee Jeong,980,83,167,,70,89,69,59,72,46,68,300,RM,normal,False,False
+Michael Baidoo,1929,14,117,,70,81,64,63,71,52,63,300,CAM,normal,False,False
+Tiago Fontoura F. Morais,744,308,38,,69,78,68,60,73,24,50,200,LM,Normal,False,False
+Lisa Forrest,131363,2233,42,,69,70,67,60,67,37,59,250,ST,Normal,False,False
+Alan Forrest,80,50,42,,69,82,64,63,71,46,55,250,LM,Normal,False,False
+Jímer Fory,101103,1014,56,,69,72,52,62,64,63,70,500,LB,Normal,False,False
+Matheus França de Oliveira,1799,13,54,,69,77,70,61,75,36,65,300,CAM,Normal,False,False
+Enric Franquesa Dolz,100888,53,45,,69,77,52,60,66,62,66,200,LB,Normal,False,False
+Matija Frigan,681,4,10,,69,79,68,59,68,36,74,200,ST,Normal,False,False
+Jean Franco Fuentes,112914,1014,61,,69,60,38,55,47,70,68,500,CB,Normal,False,False
+Andrea Fulignati,111434,32,27,,69,69,67,71,70,48,69,200,GK,Normal,False,False
+Francisco Fumaça Mascarenhas,110827,54,38,,69,74,73,58,64,35,60,650,ST,Normal,False,False
+Alessandro Gabrielloni,1745,31,27,,69,76,67,57,70,34,65,200,ST,Normal,False,False
+Ruben Gabrielsen,299,41,36,,69,62,48,48,53,68,84,300,CB,Normal,False,False
+Antonio Galeano,111325,1003,58,,69,87,59,59,71,59,59,1100,RW,Normal,False,False
+Sam Gallagher,1806,14,14,,69,67,70,57,64,45,78,200,ST,Normal,False,False
+Lucas Galvão,256,80,54,,69,69,49,61,66,68,73,200,CB,Normal,False,False
+Silvère Ganvoula,900,189,107,,69,73,70,52,63,26,75,200,ST,Normal,False,False
+Zhunyi Gao,111724,2012,155,,69,71,52,62,67,66,74,200,LB,Normal,False,False
+Saúl García Cabrero,456,54,45,,69,72,45,63,65,68,66,200,LB,Normal,False,False
+Víctor García Raja,131110,54,45,,69,72,66,65,69,50,62,250,RM,Normal,False,False
+Andrés García Robledo,1853,54,45,,69,74,62,62,71,55,60,700,RM,Normal,False,False
+Taylor Gardner-Hickman,88,60,14,,69,73,62,68,68,65,62,200,CM,Normal,False,False
+Stefan Gartenmann,1874,2211,13,,69,59,33,57,61,68,77,200,CB,Normal,False,False
+Pedro Miguel Gaspar Amaral,10020,308,38,,69,73,46,55,67,67,65,200,LB,Normal,False,False
+Jules Gaudin,111817,17,18,,69,68,55,63,67,64,66,250,LB,Normal,False,False
+Linus Gechter,166,20,21,,69,63,32,50,49,70,73,200,CB,Normal,False,False
+Joe Gelhardt,8,14,14,,69,74,68,60,75,29,69,2800,CAM,Normal,False,False
+Noemi Gentile,116005,2215,21,,69,60,60,67,68,70,69,300,CM,Normal,False,False
+Marius Gersbeck,166,20,21,,69,65,71,59,70,42,70,200,GK,Normal,False,False
+Paolo Ghiglione,110373,32,27,,69,80,52,64,69,65,66,200,RB,Normal,False,False
+Daniel Mancilla,112667,1014,53,,69,78,46,56,59,66,59,500,LB,Normal,False,False
+Leonardo Mancuso,111433,32,27,,69,77,69,61,72,34,69,200,ST,Normal,False,False
+Cristian Manea,310,330,39,,69,78,48,61,63,65,73,200,RB,Normal,False,False
+Thomas Mangani,614,17,18,,69,35,64,69,66,66,72,200,CM,Normal,False,False
+Aoife Mannion,11,2216,25,,69,43,38,65,58,73,56,300,CB,Normal,False,False
+Nico Mantl,112513,308,21,,69,70,69,66,71,33,67,200,GK,Normal,False,False
+Alexis Manyoma,101083,1003,56,,69,84,61,63,72,41,60,500,LW,Normal,False,False
+Sékou Mara,76,16,18,,69,75,67,53,67,26,67,300,ST,Normal,False,False
+Vincent Marchetti,111817,17,18,,69,65,55,68,69,67,71,200,CM,Normal,False,False
+Filip Marchwiński,347,31,37,,69,67,65,65,70,40,64,200,CAM,Normal,False,False
+Mirko Marić,111811,31,10,,69,68,70,53,64,28,70,200,ST,Normal,False,False
+Jaílson Marques Siqueira,450,53,54,,69,70,54,60,64,69,76,200,CB,Normal,False,False
+Alberto Martín Díaz,260,54,45,,69,69,59,66,69,58,66,200,RM,Normal,False,False
+Carlos Martín Domínguez,463,53,45,,69,78,69,60,70,28,62,200,ST,Normal,False,False
+Esther Martin-Pozuelo,449,2222,45,,69,67,59,69,65,69,60,200,LB,Normal,False,False
+Hugo Martínez,111008,1003,58,,69,67,48,62,67,64,65,500,CDM,Normal,False,False
+Laura Martínez González,131125,2222,45,,69,67,62,68,70,63,56,200,CM,Normal,False,False
+Newerton Martins da Silva,101059,332,54,,69,81,56,61,77,25,44,200,LW,Normal,False,False
+Franco Mastantuono,1876,1003,52,,69,75,62,67,72,48,63,450,CAM,Normal,False,False
+Aleš Matějů,113974,32,12,,69,70,53,60,62,67,80,200,CB,Normal,False,False
+Marcus Mathisen,110588,20,13,,69,65,50,58,62,67,81,300,CB,Normal,False,False
+José Joaquín Matos García,1968,54,45,,69,79,55,64,67,60,58,200,LB,Normal,False,False
+Andreas Maxsø,694,39,13,,69,47,45,54,53,68,80,200,CB,Normal,False,False
+Walter Mazzantti,111711,353,52,,69,91,65,57,71,21,63,300,RM,Normal,False,False
+Simone Mazzocchi,112168,32,27,,69,71,70,57,68,33,61,200,ST,Normal,False,False
+Sam McCallum,1794,14,14,,69,79,55,63,66,65,69,200,LB,Normal,False,False
+Kyle McFadzean,3,14,14,,69,30,37,48,49,68,78,300,CB,Normal,False,False
+Ringo Meerveld,1907,10,34,,69,67,65,67,71,51,58,350,CAM,Normal,False,False
+Yakou Méïté,1961,14,108,,69,78,69,56,63,47,82,300,ST,Normal,False,False
+Ignacio Méndez Fernández,459,54,45,,69,71,69,70,70,61,70,200,CM,Normal,False,False
+Leo Väisänen,114161,39,17,,69,72,30,56,59,69,73,300,CB,Normal,False,False
+Diego Valencia,110373,32,55,,69,71,66,59,70,26,70,200,ST,Normal,False,False
+Matěj Valenta,110468,319,12,,69,66,65,68,67,62,68,200,CM,Normal,False,False
+Gustav Valsvik,922,41,36,,69,38,49,53,42,67,82,300,CB,Normal,False,False
+Ruben van Bommel,1906,10,34,,69,85,67,59,71,25,62,400,LW,Normal,False,False
+Mick van Buren,110747,66,34,,69,72,69,63,69,35,71,200,ST,Normal,False,False
+Sander van de Streek,741,68,34,,69,61,71,67,69,58,68,300,CAM,Normal,False,False
+Thomas van den Belt,100852,54,34,,69,55,64,67,67,63,67,200,CM,Normal,False,False
+Eva van Deursen,467,2222,34,,69,61,60,66,68,62,56,200,CM,Normal,False,False
+Samantha van Diemen,131363,2233,34,,69,69,35,69,68,67,69,300,CB,Normal,False,False
+Rein Van Helden,680,4,7,,69,63,29,61,58,69,74,200,CB,Normal,False,False
+Bart van Rooij,1908,10,34,,69,78,36,59,66,62,63,350,RB,Normal,False,False
+Kiki Van Zanten,116306,2221,82,,69,75,69,68,71,65,65,200,CM,Normal,False,False
+Jordi Vanlerberghe,269,1,7,,69,59,61,67,63,68,75,200,CB,Normal,False,False
+Thibaut Vargas,1814,17,18,,69,74,38,59,65,64,65,200,RB,Normal,False,False
+Matías Vera,101108,1014,52,,69,67,47,64,63,66,67,1900,CDM,Normal,False,False
+Brayan Vera,111065,39,56,,69,70,40,52,55,69,71,200,CB,Normal,False,False
+Denisa Veselá,266,2230,12,,69,69,64,69,71,61,64,200,CM,Normal,False,False
+Marko Vešović,113888,2244,15,,69,79,55,65,70,64,70,200,RB,Normal,False,False
+Lina Vianden,116000,2215,21,,69,53,52,49,56,72,59,200,CB,Normal,False,False
+Ronaldo Augusto Vieira Nan,1837,32,14,,69,71,58,64,71,64,75,200,CDM,Normal,False,False
+Oscar Vilhelmsson,110502,20,46,,69,70,66,46,69,30,69,200,ST,Normal,False,False
+Sandra Villafañe Serrada,116334,2222,45,,69,73,25,50,57,71,62,300,CB,Normal,False,False
+Sam Vines,694,39,95,,69,76,33,57,63,66,68,200,LB,Normal,False,False
+Alan Virginius,900,189,18,,69,90,59,59,71,27,41,300,RM,Normal,False,False
+Alessio Vita,111993,32,27,,69,79,64,68,70,60,66,300,CM,Normal,False,False
+Alessandro Vogliacco,110556,31,27,,69,65,36,52,55,71,66,800,CB,Normal,False,False
+Vojtěch Vorel,267,319,12,,69,71,67,70,72,35,68,500,GK,Normal,False,False
+Giacomo Vrioni,691,39,1,,69,74,69,55,67,24,71,200,ST,Normal,False,False
+Kim Sindermann,116001,2215,21,,68,65,65,67,68,40,70,200,GK,Normal,False,False
+Doğukan Sinik,1952,14,48,,68,81,62,64,72,38,48,200,LM,Normal,False,False
+Tobias Sippel,23,19,21,,68,67,65,74,67,47,66,200,GK,Normal,False,False
+Jonathan Sirois,111139,39,70,,68,69,65,55,69,34,69,200,GK,Normal,False,False
+Abdoulaye Sissako,100081,4,18,,68,71,58,65,72,64,77,200,CM,Normal,False,False
+Maxime Sivis,100757,330,18,,68,76,58,60,66,62,73,200,RB,Normal,False,False
+Tom Slončík,110468,319,12,,68,67,67,67,70,42,59,350,CAM,Normal,False,False
+Sam Smith,1793,60,14,,68,74,66,57,66,29,76,350,ST,Normal,False,False
+Paul Smyth,15,14,35,,68,90,59,60,71,40,55,300,RM,Normal,False,False
+Dejan Sorgić,110770,189,47,,68,63,69,62,69,41,65,200,ST,Normal,False,False
+Eduardo Sosa,111722,1014,61,,68,70,68,62,72,39,64,450,CAM,Normal,False,False
+Guillermo Soto,110975,1014,55,,68,77,27,61,66,63,62,600,RB,Normal,False,False
+Sambou Soumano,217,17,136,,68,69,69,52,69,25,53,200,ST,Normal,False,False
+Eli Junior Kroupi,217,17,18,,68,71,67,66,74,45,54,300,ST,Normal,False,False
+Sandro Kulenović,211,317,10,,68,78,64,50,62,41,83,300,ST,Normal,False,False
+Filip Kurto,114604,351,37,,68,67,65,60,71,49,66,200,GK,Normal,False,False
+Godson Kyeremeh,210,17,18,,68,86,64,60,69,32,41,300,RM,Normal,False,False
+Hector Kyprianou,1938,60,11,,68,64,60,60,65,64,75,200,CDM,Normal,False,False
+Tomás Lago Pontes Esteves,110738,32,38,,68,77,48,62,67,62,69,200,RB,Normal,False,False
+Agustín Lagos,101088,353,52,,68,68,51,60,64,64,69,200,RB,Normal,False,False
+Yasser Larouci,1795,14,97,,68,71,47,59,69,65,64,200,LB,Normal,False,False
+Patricia Larqué Juste,240,2222,45,,68,66,62,60,68,36,72,200,GK,Normal,False,False
+Eric Larsson,299,41,46,,68,66,54,64,65,63,77,200,RB,Normal,False,False
+Lion Lauberbach,110724,4,21,,68,77,63,59,66,40,77,200,ST,Normal,False,False
+Jacob Barrett Laursen,711,56,13,,68,61,52,60,67,65,70,200,LB,Normal,False,False
+Florian Le Joncour,580,20,18,,68,61,38,39,40,70,76,200,CB,Normal,False,False
+Ryan Ledson,1801,14,14,,68,62,55,66,66,63,74,200,CDM,Normal,False,False
+Dong Hee Lee,1474,83,167,,68,64,26,50,47,68,71,200,CB,Normal,False,False
+Dong Jun Lee,2055,83,167,,68,89,62,56,74,39,60,300,RM,Normal,False,False
+Tae Suk Lee,1474,83,167,,68,76,40,59,68,60,67,200,LB,Normal,False,False
+Sandy Walsh,110724,4,160,,68,58,37,61,64,66,72,200,RB,Normal,False,False
+Christian Walton,94,13,14,,68,69,68,64,69,35,66,200,GK,Normal,False,False
+Shangyuan Wang,111779,2012,155,,68,72,61,68,69,65,80,300,CM,Normal,False,False
+Josephine Bonsu,116005,2215,21,,68,66,66,61,69,45,40,250,RW,Normal,False,False
+Kady Iuri Borges Malinowski,1874,2211,54,,68,74,62,64,69,43,68,200,CAM,Normal,False,False
+Mattia Bottani,10032,189,47,,68,80,64,64,69,41,50,300,CAM,Normal,False,False
+William Bøving,209,80,13,,68,82,67,61,71,31,63,300,ST,Normal,False,False
+Terrence Boyd,110532,2076,95,,68,63,69,46,62,27,78,200,ST,Normal,False,False
+Quentin Braat,110827,54,18,,68,68,65,73,68,29,67,200,GK,Normal,False,False
+Chris Brady,693,39,95,,68,72,64,62,73,29,66,200,GK,Normal,False,False
+Bilal Brahimi,210,17,18,,68,71,63,67,70,46,57,200,CAM,Normal,False,False
+Luke Brattan,114604,351,195,,68,53,63,70,65,60,78,200,CDM,Normal,False,False
+Christopher Braun,310,330,21,,68,79,44,60,63,63,79,300,RB,Normal,False,False
+Jonatan Braut-Brunes,114326,66,36,,68,74,66,54,65,35,74,200,ST,Normal,False,False
+Néstor Breitenbruch,111708,353,52,,68,74,42,57,62,65,75,350,CB,Normal,False,False
+Emil Breivik,417,41,36,,68,75,55,63,67,62,75,200,CDM,Normal,False,False
+Messiah Bright,116311,2221,95,,68,68,68,59,66,43,63,250,ST,Normal,False,False
+Fabrizio Brignani,111433,32,27,,68,62,43,41,54,71,68,200,CB,Normal,False,False
+Massimo Bruno,100081,4,7,,68,68,67,68,70,42,59,200,CAM,Normal,False,False
+Mustapha Bundu,1929,14,138,,68,86,63,64,69,44,71,300,RW,Normal,False,False
+Aitor Buñuel Redrado,110242,54,45,,68,84,38,58,69,60,75,300,RB,Normal,False,False
+Delano Burgzorg,12,14,34,,68,82,64,54,73,30,71,300,ST,Normal,False,False
+Dženis Burnić,1832,20,21,,68,73,48,64,70,64,67,7500,CDM,Normal,False,False
+Salvatore Burrai,111433,32,27,,68,65,62,69,69,63,71,200,CDM,Normal,False,False
+Alexander Busch,270,1,13,,68,54,29,45,53,69,67,200,CB,Normal,False,False
+Jack Byrne,306,65,25,,68,70,65,69,70,49,64,200,RW,Normal,False,False
+Hernesto Caballero,111008,1003,58,,68,53,59,59,64,70,65,900,CDM,Normal,False,False
+Martín Cáceres,697,39,60,,68,64,51,63,64,67,74,200,CB,Normal,False,False
+Gonzalo Cacicedo Verdú,100851,54,45,,68,48,53,57,56,67,75,200,CB,Normal,False,False
+Maximiliano Caire,110969,1003,52,,68,67,53,62,66,67,61,550,RB,Normal,False,False
+Alex Muyl,114162,39,95,,68,78,59,62,66,62,80,300,RM,Normal,False,False
+Joel Mvuka,217,17,36,,68,91,57,59,72,41,46,300,RM,Normal,False,False
+Moussa N'Diaye,229,4,136,,68,76,27,59,71,65,63,200,LB,Normal,False,False
+Melween N'Dongala,111817,2218,18,,68,75,39,58,63,63,66,200,RB,Normal,False,False
+Sophie Nachtigall,1824,2215,21,,68,67,59,60,68,55,64,200,CM,Normal,False,False
+Nikolas Nartey,36,19,13,,68,69,49,67,73,66,68,200,CM,Normal,False,False
+Kyle Naughton,1960,14,14,,68,54,51,63,66,70,65,200,CB,Normal,False,False
+Federico Navarro,693,39,52,,68,74,44,61,69,68,57,200,CDM,Normal,False,False
+Raúl Navarro del Río,10846,54,45,,68,65,57,63,67,65,66,200,RB,Normal,False,False
+Duckens Nazon,101020,68,80,,68,76,68,51,67,24,63,200,ST,Normal,False,False
+Alassane Ndao,101033,68,136,,68,76,61,62,70,31,54,200,RM,Normal,False,False
+Loïc Nestor,1805,17,18,,68,48,45,54,55,68,79,200,CB,Normal,False,False
+Roman Neustädter,681,4,40,,68,32,53,63,64,68,72,200,CB,Normal,False,False
+Serge-Junior M. Ngouali,111705,56,115,,68,60,58,64,67,65,73,200,CDM,Normal,False,False
+Ibrahima Niane,1530,16,136,,68,78,66,55,67,19,61,350,ST,Normal,False,False
+Lee Nicholls,1939,60,14,,68,67,68,61,68,41,66,200,GK,Normal,False,False
+Roland Niczuly,113378,330,39,,68,67,65,70,70,32,68,200,GK,Normal,False,False
+Julian Niehues,111235,19,21,,68,59,54,59,64,67,77,300,CDM,Normal,False,False
+Lasse Nielsen,101026,68,13,,68,65,33,53,53,66,79,200,CB,Normal,False,False
+Luciano Nieto,114581,1014,52,,68,72,65,71,72,39,66,1100,CM,Normal,False,False
+Carlos Nieto Herrero,244,54,45,,68,69,56,61,61,65,74,200,LB,Normal,False,False
+Calem Nieuwenhof,80,50,195,,68,76,61,63,69,65,68,300,CM,Normal,False,False
+Kristoffer Nordfeldt,433,56,46,,68,66,65,66,66,50,67,200,GK,Normal,False,False
+Rhys Norrington-Davies,1794,14,50,,68,68,44,61,64,65,66,200,LB,Normal,False,False
+Will Norris,1790,14,14,,68,69,67,69,69,44,65,200,GK,Normal,False,False
+Ryan Nyambe,91,14,131,,68,78,35,56,65,64,73,200,RB,Normal,False,False
+Benjamin Nygren,1788,1,46,,68,69,67,65,69,22,63,200,ST,Normal,False,False
+Mark O'Hara,100805,50,42,,68,71,66,64,68,64,74,250,CM,Normal,False,False
+Samuel Obeng,114510,308,117,,68,84,69,50,61,24,81,300,ST,Normal,False,False
+Jáder Obrian,114161,39,56,,68,87,64,59,69,36,63,300,RM,Normal,False,False
+Nedeljkovic,2,13,51,,68,81,43,63,67,63,63,300,RB,normal,False,False
+Bouaddi,65,16,18,,68,75,57,66,72,53,67,250,CM,normal,False,False
+Iván Gil Calero,467,54,45,,68,65,67,66,72,57,50,200,CM,normal,False,False
+Roko Šimic,1961,14,10,,68,64,68,62,69,30,76,200,ST,normal,False,False
+Kjetil Haug,1809,16,36,,68,69,67,68,69,45,68,350,GK,normal,False,False
+Stephen Welsh,110724,4,42,,68,66,31,57,62,67,69,200,CB,normal,False,False
+Anders Hagelskjær,1933,60,13,,68,57,48,61,59,67,73,200,CB,normal,False,False
+Moustafa Zeidan,320,56,180,,68,61,64,68,73,52,67,600,CAM,normal,False,False
+Anderson Julio,695,39,57,,68,82,66,61,69,33,62,200,ST,normal,False,False
+Benjamin Kololli,110770,189,219,,68,70,67,64,71,54,68,200,LM,normal,False,False
+Jin Su Kim,982,83,167,,68,81,45,62,65,60,74,200,LB,normal,False,False
+Emerson Batalla,112670,1003,56,,68,83,62,59,70,28,55,450,RW,normal,False,False
+Diego Gómez,1808,13,58,,68,75,63,65,69,59,72,350,CM,normal,False,False
+Erencan Yardimci,10029,19,48,,68,76,64,52,67,28,72,200,ST,normal,False,False
+Tim Handwerker,543,20,21,,68,81,50,59,65,61,69,200,LB,normal,False,False
+Mats Seuntjens,1915,10,34,,68,75,68,68,67,51,71,300,ST,normal,False,False
+Ronnie Edwards,15,14,14,,68,69,35,51,60,69,70,200,CB,normal,False,False
+Tom Vandenberghe,674,4,7,,68,68,65,61,69,29,70,200,GK,normal,False,False
+Lino Tempelmann,110500,20,21,,68,76,56,64,70,66,68,200,CM,normal,False,False
+Gabriel Slonina,5,13,95,,68,70,65,63,70,45,65,200,GK,normal,False,False
+Sang Woo Kang,1473,83,167,,68,77,65,67,69,58,67,200,LB,normal,False,False
+Alexandru Pop,100757,330,39,,68,81,68,57,68,22,68,300,ST,normal,False,False
+Lukáš Zima,100761,330,12,,68,69,66,62,67,42,69,300,GK,normal,False,False
+Hee Kyun Lee,1473,83,167,,68,74,64,62,76,52,62,300,ST,normal,False,False
+Jacob Karlstrøm,417,41,36,,68,68,66,69,69,38,66,300,GK,normal,False,False
+Marvin Martins,111380,10,31,,68,75,50,59,58,68,75,350,CB,normal,False,False
+Thiago Eduardo de Andrade,112828,39,54,,68,88,65,60,71,40,58,350,LM,normal,False,False
+Nestory Irankunda,322,189,195,Quick+Step,68,94,70,61,70,43,73,400,RM,normal,False,False
+Maximiliano Rodríguez Vejar,112689,353,55,,68,67,66,53,65,24,64,200,ST,normal,False,False
+Gonzalo Morales,113044,353,52,,68,73,66,49,65,25,68,200,ST,normal,False,False
+Nuno Miguel Reis Lima,113142,68,38,,67,64,31,41,43,68,68,200,CB,Normal,False,False
+Marco Rente,1915,10,21,,67,83,29,45,51,66,75,350,CB,Normal,False,False
+Andrés Rentería,131511,1014,56,,67,77,67,56,69,24,71,850,ST,Normal,False,False
+Edisson Restrepo,112667,1014,56,,67,80,29,52,49,68,70,800,CB,Normal,False,False
+Matteo Ricci,1837,32,27,,67,70,66,67,70,60,65,200,CDM,Normal,False,False
+Rubén Darío Ríos,111006,1014,52,,67,65,60,65,66,60,60,500,CM,Normal,False,False
+Rémy Riou,111817,17,18,,67,66,66,64,67,48,68,200,GK,Normal,False,False
+Josh Risdon,111399,351,195,,67,74,48,58,62,63,80,300,RB,Normal,False,False
+Lars Ritzka,110329,19,21,,67,69,46,61,63,62,68,200,LB,Normal,False,False
+Braian Rivero,112689,353,52,,67,60,43,62,66,63,69,200,CDM,Normal,False,False
+Blás Riveros,112670,1003,58,,67,78,36,59,71,59,66,500,LB,Normal,False,False
+Haydon Roberts,1919,14,14,,67,71,47,62,67,64,68,200,LB,Normal,False,False
+Alex Robertson,1961,14,195,,67,71,56,66,71,55,62,200,CAM,Normal,False,False
+Matías Rocha,112513,308,60,,67,61,51,56,57,67,71,200,CB,Normal,False,False
+Rúben Alexandre Rocha Lima,718,308,38,,67,60,56,66,67,67,66,200,CB,Normal,False,False
+Luís Carlos Rocha Rodrigues,1438,308,38,,67,34,31,36,38,68,69,200,CB,Normal,False,False
+Jamie Roche,1862,189,46,,67,69,53,58,64,66,74,200,CDM,Normal,False,False
+Antônio Rodrigues,111928,39,54,,67,67,39,44,45,67,73,200,CB,Normal,False,False
+Rúben da Rocha Rodrigues,1951,14,38,,67,71,63,65,68,38,60,200,CAM,Normal,False,False
+Vicente Rodríguez,110989,1003,61,,67,66,59,65,66,66,66,450,CM,Normal,False,False
+Ignacio Rodríguez,131463,308,60,,67,49,28,30,33,70,74,200,CB,Normal,False,False
+Maximiliano Rodríguez,115472,353,52,,67,72,47,59,57,66,60,200,RB,Normal,False,False
+Alberto Rodríguez Baró,110069,54,45,,67,51,29,46,48,68,58,200,CB,Normal,False,False
+Alberto Rodríguez Martín,113146,2149,45,,67,54,35,50,47,68,70,200,CB,Normal,False,False
+Alvaro Rodríguez Pérez,1854,54,45,,67,58,43,62,61,65,67,200,RB,Normal,False,False
+Marco Rojas,111766,351,198,,67,75,65,64,71,45,38,200,LM,Normal,False,False
+Esteban Rolón,111022,1014,52,,67,63,53,63,64,65,65,650,CDM,Normal,False,False
+Filippo Romagna,111974,32,27,,67,35,32,49,56,70,57,200,CB,Normal,False,False
+Fernando Román,101108,1014,58,,67,78,45,55,62,63,62,1100,LB,Normal,False,False
+Alin Roman,110815,330,39,,67,73,63,66,68,34,59,200,CAM,Normal,False,False
+Martin Suchomel,267,319,12,,67,70,38,55,60,64,73,200,LB,Normal,False,False
+Marin Šverko,205,31,10,,67,66,37,55,60,66,76,200,CB,Normal,False,False
+Yusuf Demir,325,68,4,,67,79,59,61,76,19,47,300,RM,Normal,False,False
+Hanwen Deng,116361,2012,155,,67,82,57,60,66,61,71,300,RB,Normal,False,False
+Will Dennis,1943,13,14,,67,70,65,63,69,33,66,200,GK,Normal,False,False
+Enis Destan,436,68,48,,67,68,66,62,65,48,70,200,ST,Normal,False,False
+Fousseni Diabaté,1862,189,126,,67,84,62,60,71,42,46,200,RW,Normal,False,False
+Bambo Diaby,468,54,136,,67,67,32,54,57,63,79,200,CB,Normal,False,False
+Abdoulaye Diaby,898,189,126,,67,61,27,41,41,64,82,300,CB,Normal,False,False
+Lamine Diack,101028,68,136,,67,76,59,61,65,64,75,300,CDM,Normal,False,False
+Djibril Diani,114640,39,18,,67,62,45,58,61,64,80,300,CDM,Normal,False,False
+Ismael Diawara,433,56,126,,67,72,63,62,71,18,64,200,GK,Normal,False,False
+Matisse Didden,1903,10,7,,67,54,36,55,57,64,77,300,CB,Normal,False,False
+Thomas Didillon-Hödl,1907,10,18,,67,68,62,68,71,56,66,200,GK,Normal,False,False
+Guillaume Dietsch,537,4,18,,67,69,65,63,70,19,63,200,GK,Normal,False,False
+Ouparine Djoco,1815,17,119,,67,70,66,68,69,29,64,250,GK,Normal,False,False
+Dejan Djokic,110770,189,47,,67,68,66,52,63,21,60,200,ST,Normal,False,False
+Greg Docherty,89,60,42,,67,68,65,64,68,66,80,300,CM,Normal,False,False
+Maciej Domański,114004,66,37,,67,69,66,66,69,56,68,450,CAM,Normal,False,False
+Mehdi Dorval,1848,32,18,,67,73,36,57,66,59,63,200,RB,Normal,False,False
+David Douline,324,189,18,,67,45,58,60,62,65,72,200,CDM,Normal,False,False
+Oliver Dovin,1800,14,46,,67,68,65,66,68,45,66,200,GK,Normal,False,False
+Stefan Dražić,100135,2210,51,,67,65,66,56,63,27,70,200,ST,Normal,False,False
+Bryce Duke,111139,39,95,,67,68,58,69,71,46,58,200,CAM,Normal,False,False
+Kyle Duncan,689,39,95,,67,83,44,51,67,63,71,300,RB,Normal,False,False
+Chey Dunkley,1924,61,14,,67,49,36,42,49,65,79,200,CB,Normal,False,False
+Pierre Dwomoh,1795,14,7,,67,72,54,66,73,55,72,200,CM,Normal,False,False
+Patryk Dziczek,111086,66,37,,67,57,54,60,65,64,70,200,CDM,Normal,False,False
+Joe Edwards,1929,14,14,,67,66,59,63,66,63,75,200,RB,Normal,False,False
+Amine El Ouazzani,1896,308,129,,67,64,67,60,65,20,64,200,ST,Normal,False,False
+Mario López Quintana,111329,1014,58,,67,59,30,41,41,67,76,500,CB,Normal,False,False
+Alejandro López Sánchez,110242,54,45,,67,59,67,69,67,60,68,250,CDM,Normal,False,False
+Simon Lorenz,111239,2076,21,,67,67,38,51,51,67,78,200,CB,Normal,False,False
+Dylan Louiserre,62,17,18,,67,65,64,65,68,64,69,200,CDM,Normal,False,False
+Felix Luckeneder,492,2076,4,,67,38,30,41,47,67,76,200,CB,Normal,False,False
+Anderson Lucoqui,110500,20,98,,67,75,45,58,68,62,67,200,LB,Normal,False,False
+Adam Lundqvist,711,56,46,,67,67,52,63,62,63,59,200,LB,Normal,False,False
+Ramon Pascal Lundqvist,319,56,46,,67,66,67,68,69,58,63,200,CAM,Normal,False,False
+Silviu Lung,308,330,39,,67,66,66,65,66,37,67,200,GK,Normal,False,False
+Flavia Lüscher,116000,2215,47,,67,64,52,45,58,69,64,200,CB,Normal,False,False
+Salem M'Bakata,110776,68,18,,67,83,31,59,61,63,71,300,RB,Normal,False,False
+Youssouf M'Changama,294,17,214,,67,73,65,67,69,62,69,200,CM,Normal,False,False
+Matt Macey,1935,61,14,,67,69,66,64,66,39,65,300,GK,Normal,False,False
+Jack MacKenzie,77,50,42,,67,73,26,55,59,64,70,350,LB,Normal,False,False
+Daniel Maderner,113616,80,4,,67,68,66,56,61,24,79,200,ST,Normal,False,False
+Ignacio Maestro Puch,110093,353,52,,67,67,68,51,66,23,65,200,ST,Normal,False,False
+Paris Maghoma,1925,13,14,,67,66,61,65,70,60,68,400,CM,Normal,False,False
+Raffaele Maiello,1848,32,27,,67,69,60,64,70,57,67,200,CM,Normal,False,False
+Mattia Maita,1848,32,27,,67,73,55,64,68,57,66,200,CM,Normal,False,False
+Charalambos Makridis,531,20,21,,67,87,68,58,68,24,56,300,LM,Normal,False,False
+Denil Maldonado,308,330,81,,67,62,31,43,43,67,74,200,CB,Normal,False,False
+Mário Jorge Malico Paulino,114385,330,39,,67,65,56,65,60,62,69,200,LB,Normal,False,False
+Maurice Malone,256,80,21,,67,76,66,63,68,31,70,200,ST,Normal,False,False
+Mark Mampassi,100081,4,40,,67,68,40,54,59,66,70,200,CB,Normal,False,False
+Marius Marin,110738,32,39,,67,75,57,67,67,64,72,200,CM,Normal,False,False
+Higinio Marín Escavy,1854,54,45,,67,64,67,58,65,37,58,200,ST,Normal,False,False
+Jovan Marković,114147,330,39,,67,75,65,52,70,31,72,200,ST,Normal,False,False
+Artur Jorge Marques Amorim,489,308,38,,67,50,37,45,50,65,70,200,CB,Normal,False,False
+Luca Marseiler,110502,20,21,,67,83,67,59,72,36,60,300,ST,Normal,False,False
+Jefersson Martínez,101101,1003,56,,67,67,65,66,66,40,67,500,GK,Normal,False,False
+Lukas Gütlbauer,111822,80,4,,66,70,61,59,68,41,62,200,GK,Normal,False,False
+Julian Guttau,33,2076,21,,66,82,59,62,69,38,62,300,CAM,Normal,False,False
+Brad Guzan,112885,39,95,,66,65,67,64,63,38,67,200,GK,Normal,False,False
+Ana María Guzmán,21,2215,56,,66,65,47,56,65,62,63,500,LB,Normal,False,False
+Darko Gyabi,1929,14,14,,66,59,50,60,64,64,71,200,CDM,Normal,False,False
+Reeco Hackett,149,60,90,,66,80,65,60,65,50,66,300,LM,Normal,False,False
+Maren Haile-Selassie,693,39,47,,66,82,60,59,68,42,62,200,RM,Normal,False,False
+Daniel Håkans,873,66,17,,66,90,57,54,69,30,56,300,RW,Normal,False,False
+Bradley Halliday,1804,61,14,,66,78,40,54,61,60,74,200,RB,Normal,False,False
+Tom Hamer,149,60,14,Long+Throw,66,70,48,57,60,61,82,300,RB,Normal,False,False
+CJ Hamilton,1926,60,25,,66,89,59,59,64,56,66,300,RB,Normal,False,False
+Chan Hee Han,1474,83,167,,66,65,59,66,66,52,66,200,CM,Normal,False,False
+Marek Hanousek,301,66,12,,66,45,60,60,53,66,68,200,CDM,Normal,False,False
+Cedric Harenbrock,27,2076,21,,66,72,62,61,68,35,57,200,CAM,Normal,False,False
+Cameron Harper,689,39,95,,66,86,58,52,70,49,58,300,RM,Normal,False,False
+Jyllissa Harris,116306,2221,95,,66,53,39,50,55,69,60,200,CB,Normal,False,False
+Florent Hasani,310,330,219,,66,74,62,59,67,35,66,200,RW,Normal,False,False
+Jakob Haugaard,418,41,13,,66,65,66,71,64,40,64,300,GK,Normal,False,False
+Eirik Haugan,417,41,36,,66,52,40,47,58,65,73,200,CB,Normal,False,False
+Laurent Henkinet,232,4,7,,66,67,66,68,65,51,65,200,GK,Normal,False,False
+Gustav Henriksson,700,56,46,,66,62,39,55,50,64,69,200,CB,Normal,False,False
+Fabian Herbers,693,39,21,,66,65,62,63,65,57,70,250,RM,Normal,False,False
+Philipp Hercher,110588,20,21,,66,76,59,61,62,59,71,200,RM,Normal,False,False
+Andrés Hernández,112853,1014,61,,66,51,55,59,60,63,61,600,CDM,Normal,False,False
+David Herold,1832,20,21,,66,65,36,56,65,62,66,200,LB,Normal,False,False
+Jose Herrera,111019,1014,52,,66,77,63,61,67,26,56,450,RW,Normal,False,False
+Dominik Hładun,110749,66,37,,66,69,65,65,67,34,64,200,GK,Normal,False,False
+Patrick Hobsch,33,2076,21,,66,71,66,48,61,26,69,200,ST,Normal,False,False
+Jake Hollman,114604,351,195,,66,72,59,62,69,60,64,200,CM,Normal,False,False
+Tom Holmes,1923,14,14,,66,46,25,55,55,65,71,350,CB,Normal,False,False
+Randall Rodríguez,101088,353,60,,66,71,57,74,66,27,62,200,GK,Normal,False,False
+Lucas Rodríguez,112615,1014,60,,66,65,60,64,63,63,54,450,CDM,Normal,False,False
+Pablo Rodríguez Delgado,456,54,45,,66,81,66,55,65,32,59,250,ST,Normal,False,False
+David Rodríguez Ramos,260,54,45,,66,81,51,57,64,61,66,200,RB,Normal,False,False
+Robin Roefs,1910,10,34,,66,64,66,64,68,18,63,300,GK,Normal,False,False
+Fabian Rohner,1713,189,47,,66,88,58,55,68,51,54,300,RM,Normal,False,False
+Marcel Rømer,15001,1,13,,66,56,51,60,63,63,77,200,CDM,Normal,False,False
+Fernando Romero,111020,353,58,,66,64,69,54,62,25,68,200,ST,Normal,False,False
+Álvaro Romero Morillo,260,54,45,,66,87,57,60,69,34,42,400,LM,Normal,False,False
+Romario Rösch,110176,20,21,,66,80,57,58,68,55,63,200,LM,Normal,False,False
+Max Rosenfelder,25,19,21,,66,58,22,48,51,67,61,200,CB,Normal,False,False
+Mathias Ross,267,319,13,,66,38,32,52,54,67,73,200,CB,Normal,False,False
+Baptiste Roux,131463,308,18,,66,58,39,55,57,66,69,200,CB,Normal,False,False
+Jesús Ruiz Suárez,110242,54,45,,66,71,58,62,72,51,60,200,GK,Normal,False,False
+Milan Rundić,114326,66,51,,66,67,37,41,48,64,75,200,CB,Normal,False,False
+Espen Ruud,1456,41,36,,66,46,65,71,65,64,73,200,RB,Normal,False,False
+Noah Wail Jacob Sadaoui,113299,2149,129,,66,81,65,57,66,31,66,200,LM,Normal,False,False
+Richie Sagrado,205,31,7,,66,75,46,56,67,60,66,200,RM,Normal,False,False
+Ibrahim Said,1443,1,133,,66,82,57,57,71,24,44,200,RW,Normal,False,False
+Íñigo Sainz-Maza Serna,456,54,45,,66,71,36,58,64,63,70,200,CDM,Normal,False,False
+Matheus Salgueiro Pains,131488,2012,54,,66,68,41,57,63,63,72,200,CDM,Normal,False,False
+Lars-Jørgen Salvesen,300,41,36,,66,66,66,53,60,38,79,250,ST,Normal,False,False
+Nicolas Samayoa,110815,330,78,,66,55,34,40,41,64,81,300,CB,Normal,False,False
+Christian Joel Sánchez,459,54,73,,66,66,64,72,67,40,64,200,GK,Normal,False,False
+Raúl Sánchez Sánchez,100852,54,45,,66,67,66,64,65,55,67,200,LM,Normal,False,False
+Luca Sangalli Fuentes,573,54,45,,66,71,57,67,70,58,61,200,CM,Normal,False,False
+Papa Amadou Diallo,68,17,136,,66,76,65,57,70,22,51,200,LM,Normal,False,False
+Diomar Díaz,110990,1003,61,,66,79,68,63,67,47,66,850,CM,Normal,False,False
+Victor Dican,110075,330,39,,66,69,54,53,59,65,82,200,CDM,Normal,False,False
+Carlo Diez,131161,1014,59,,66,53,61,64,58,64,69,900,CDM,Normal,False,False
+Emil Ceïde,298,41,36,,66,75,56,57,73,33,44,200,LW,Normal,False,False
+Yuriel Celi,111014,1003,59,,66,69,65,62,68,51,63,650,CAM,Normal,False,False
+Lucas Cepeda,110980,1003,55,,66,80,62,56,66,49,72,450,LW,Normal,False,False
+Giuliano Cerato,110953,353,52,,66,71,47,60,63,63,52,250,RB,Normal,False,False
+Tarık Çetin,101037,68,48,,66,65,66,62,72,20,64,200,GK,Normal,False,False
+Willian Cevallos,113746,1014,57,,66,69,66,63,67,61,66,450,CDM,Normal,False,False
+Leyser Chaverra,101103,1014,56,,66,78,29,48,63,59,69,450,RB,Normal,False,False
+Wálter Chavez,113746,1014,57,,66,67,63,60,69,22,67,450,GK,Normal,False,False
+Amin Cherni,1814,17,145,,66,72,33,54,60,59,62,200,LB,Normal,False,False
+Dennis Chessa,110176,20,21,,66,70,60,63,67,51,60,200,RW,Normal,False,False
+Michael Cheukoua,113616,80,103,,66,76,67,59,67,30,61,250,RM,Normal,False,False
+Sunil Chhetri,113302,2149,159,,66,72,66,56,64,32,74,200,ST,Normal,False,False
+Edward Chilufya,1516,1,147,,66,91,67,59,74,30,57,300,ST,Normal,False,False
+Vlad Chiricheș,100761,330,39,,66,35,60,56,59,69,57,200,CB,Normal,False,False
+Daijiro Chirino,100852,54,85,,66,80,34,55,62,61,71,200,RB,Normal,False,False
+Aurelian Chițu,114147,330,39,,66,64,67,63,64,35,68,200,ST,Normal,False,False
+Young Wook Cho,982,83,167,,66,81,66,57,69,29,68,300,ST,Normal,False,False
+Ilyas Chouaref,110770,189,18,,66,75,63,62,70,27,60,200,CAM,Normal,False,False
+Joris Chougrani,111659,17,18,,66,71,28,53,58,65,74,200,CB,Normal,False,False
+Andreas Christodoulou,100135,2210,11,,66,70,65,63,68,45,67,200,GK,Normal,False,False
+Manuel Cicconi,112493,32,27,,66,68,62,64,66,46,54,200,LM,Normal,False,False
+Riccardo Ciervo,112168,32,27,,66,78,61,60,67,54,62,300,RM,Normal,False,False
+Uğur Çiftçi,101041,68,48,,66,68,50,64,66,62,70,200,LB,Normal,False,False
+Sadık Çiftpınar,111339,68,48,,66,71,25,40,49,66,70,200,CB,Normal,False,False
+Brian Cipenga,100852,54,110,,66,83,59,59,69,33,65,200,LW,Normal,False,False
+Cătălin Cîrjan,100757,330,39,,66,73,64,63,68,52,43,200,CAM,Normal,False,False
+Ramazan Civelek,101020,68,48,,66,74,57,64,66,62,61,200,RM,Normal,False,False
+Óscar Clemente Mues,1853,54,45,,66,67,56,67,63,49,47,4800,LM,Normal,False,False
+Royscer Colpa,131511,1014,56,,66,68,52,55,58,66,72,450,CDM,Normal,False,False
+Lautaro Comas,111006,1014,52,,66,80,64,61,66,25,42,850,LM,Normal,False,False
+Emily Whelan,131363,2233,25,,66,63,66,56,65,51,60,200,ST,Normal,False,False
+Niklas Wiemann,487,2076,21,,66,70,39,53,52,64,74,200,CB,Normal,False,False
+Gustav Mendonca Wikheim,710,56,36,,66,84,57,59,72,44,54,200,LW,Normal,False,False
+Randell Williams,4,60,14,,66,88,59,61,68,57,62,200,LB,Normal,False,False
+Derrick Williams,112885,39,25,,66,66,46,58,62,63,77,200,CB,Normal,False,False
+Brendan Wiredu,112260,61,14,,66,79,56,60,65,64,76,300,CB,Normal,False,False
+Bobby Wood,691,39,95,,66,75,67,57,66,27,68,200,ST,Normal,False,False
+Ben Woodburn,113926,61,50,,66,71,63,63,70,41,52,200,CAM,Normal,False,False
+Scott Wootton,111766,351,14,,66,42,29,48,53,65,80,200,CB,Normal,False,False
+Callum Wright,1929,14,14,,66,65,61,64,67,57,66,200,CM,Normal,False,False
+Charlie Wyke,1480,61,14,,66,54,66,56,63,37,75,200,ST,Normal,False,False
+Matthéo Xantippe,1805,17,18,,66,68,38,56,65,62,60,200,LB,Normal,False,False
+Ayman Yahya,112139,350,183,,66,84,60,58,66,32,65,200,RM,Normal,False,False
+Liyu Yang,111768,2012,155,,66,83,64,61,63,43,73,200,RW,Normal,False,False
+William Yarbrough,111928,39,95,,66,65,64,66,66,58,66,300,GK,Normal,False,False
+Dru Yearwood,114162,39,14,,66,73,54,59,68,64,77,200,CM,Normal,False,False
+Kusini Yengi,1790,14,195,,66,81,65,54,68,30,79,300,ST,Normal,False,False
+Erdoğan Yeşilyurt,741,68,48,,66,73,63,60,67,55,69,200,RM,Normal,False,False
+Bertuğ Yıldırım,1860,53,48,,66,70,64,48,62,32,72,200,ST,Normal,False,False
+Lily Yohannes,245,2229,95,,66,69,57,59,69,56,59,200,CM,Normal,False,False
+Kyohei Yoshino,2056,83,163,,66,63,54,53,60,63,74,200,CDM,Normal,False,False
+Jamie Young,112224,351,14,,66,65,66,64,67,48,65,200,GK,Normal,False,False
+Wilitty Younoussa,111659,17,103,,66,70,48,59,71,67,56,200,CM,Normal,False,False
+Bendjaloud Youssouf,111276,17,214,,66,74,50,59,64,58,65,200,RB,Normal,False,False
+Griffin Yow,681,4,95,,66,65,63,60,69,33,47,200,RM,Normal,False,False
+Il Lok Yun,1473,83,167,,66,70,57,62,67,63,61,200,RB,Normal,False,False
+Suk Young Yun,112115,83,167,,66,72,53,59,61,62,73,550,LB,Normal,False,False
+Cristian Zabala,112908,1003,52,,66,65,53,66,66,59,69,450,CM,Normal,False,False
+Vasilis Zagaritis,111380,10,22,,66,81,42,54,63,60,62,300,LB,Normal,False,False
+Nicolás Zalazar,101101,1003,52,,66,67,36,37,45,66,74,1600,CB,Normal,False,False
+François Lajugie,131447,17,18,,65,63,37,53,55,65,73,200,RB,Normal,False,False
+Niklas Lang,110178,2076,21,,65,70,22,40,51,66,63,200,CB,Normal,False,False
+Michael Langer,34,20,4,,65,63,64,60,65,31,67,200,GK,Normal,False,False
+Christopher Lannert,159,2076,21,,65,78,42,52,58,59,65,200,RB,Normal,False,False
+Adrián Lapeña Ruiz,1867,54,45,,65,67,34,49,55,65,65,200,CB,Normal,False,False
+Ariel Lassiter,693,39,72,,65,81,63,57,65,38,57,450,LM,Normal,False,False
+Frederik Lauenborg,1786,1,13,,65,60,54,64,66,65,72,200,CM,Normal,False,False
+Shayne Lavery,1944,60,35,,65,77,66,52,67,24,62,200,ST,Normal,False,False
+Bosun Lawal,1806,14,25,,65,71,60,64,63,64,79,300,CM,Normal,False,False
+Luke Le Roux,112126,56,140,,65,62,50,61,66,59,70,200,CDM,Normal,False,False
+Miles Leaburn,89,60,14,,65,71,63,48,61,26,76,200,ST,Normal,False,False
+Heber Leaños,112667,1014,53,,65,71,49,57,65,59,51,450,LB,Normal,False,False
+Noé Lebreton,210,17,18,,65,67,54,63,68,62,61,200,CM,Normal,False,False
+Jin Yong Lee,2055,83,167,,65,59,48,61,64,63,73,200,CM,Normal,False,False
+Min Gi Lee,112258,83,167,,65,76,35,55,64,58,65,200,LB,Normal,False,False
+Hyun Sik Lee,2055,83,167,,65,72,54,63,69,57,66,200,RM,Normal,False,False
+Yong Rae Lee,2056,83,167,,65,35,54,66,61,57,70,200,CM,Normal,False,False
+Nicolas Lemaître,294,17,18,,65,68,64,62,65,33,66,200,GK,Normal,False,False
+Geoffrey Lembet,74,16,105,,65,66,59,62,71,39,65,400,GK,Normal,False,False
+Dexter Lembikisa,110,13,82,,65,83,43,55,60,60,60,300,RB,Normal,False,False
+Jakob Lemmer,503,2076,21,,65,76,60,60,69,31,63,200,RW,Normal,False,False
+Harry Leonard,3,14,14,,65,73,66,51,65,36,60,200,ST,Normal,False,False
+Jonathan Lewis,694,39,95,,65,77,66,60,71,29,57,200,ST,Normal,False,False
+Fedde Leysen,2014,4,7,,65,54,38,50,49,65,69,200,CB,Normal,False,False
+Danny Leyva,111144,39,95,,65,64,59,60,65,52,55,200,CM,Normal,False,False
+Ke Li,111768,2012,155,,65,75,61,62,66,62,69,1000,CM,Normal,False,False
+Yuanyi Li,111724,2012,155,,65,72,60,63,62,60,75,200,CM,Normal,False,False
+Nuoheng Liang,112163,2012,158,,65,55,27,43,40,65,72,200,CB,Normal,False,False
+Lisheng Liao,111724,2012,155,,65,71,61,62,64,64,66,200,CDM,Normal,False,False
+Isac Lidberg,110502,20,46,,65,77,60,52,60,39,81,300,ST,Normal,False,False
+Ricky-Jade Jones,1938,60,14,,65,91,63,56,65,28,63,3900,ST,Normal,False,False
+Lukas Jonsson,487,2076,46,,65,66,63,64,64,37,66,200,GK,Normal,False,False
+Patrick Joosten,1907,10,34,,65,79,67,58,67,36,59,350,LW,Normal,False,False
+Wilmar Jordán,113297,2149,56,,65,42,69,58,64,35,73,200,ST,Normal,False,False
+Edisson Jordanov,681,4,9,,65,69,48,60,68,61,56,200,RB,Normal,False,False
+Aleksandar Jovanović,113302,2149,195,,65,43,32,48,50,63,73,300,CB,Normal,False,False
+Zak Jules,1797,60,42,,65,73,40,57,59,62,75,300,CB,Normal,False,False
+Lukas Jutkiewicz,88,60,14,,65,42,64,58,61,40,70,200,ST,Normal,False,False
+Musa Juwara,822,1,116,,65,83,61,54,69,28,52,200,RM,Normal,False,False
+Rami Kaib,700,56,145,,65,74,46,63,63,57,69,200,LB,Normal,False,False
+Jakub Kałuziński,741,68,37,,65,65,55,64,65,58,61,200,CDM,Normal,False,False
+Willy Kambwala,483,53,18,,65,71,30,51,58,64,64,200,CB,Normal,False,False
+Roko Baturina,573,54,10,,65,66,67,49,60,21,69,200,ST,Normal,False,False
+Furkan Bayır,113142,68,48,,65,61,31,43,56,64,71,250,CB,Normal,False,False
+Tom Bayliss,149,60,14,,65,72,59,65,66,59,68,200,CAM,Normal,False,False
+Luca Bazzoli,531,20,21,,65,62,41,51,60,66,74,200,CDM,Normal,False,False
+Omar Beckles,1958,60,77,,65,51,32,45,53,64,78,200,CB,Normal,False,False
+Filip Bednarek,873,66,37,,65,65,63,64,65,44,65,200,GK,Normal,False,False
+Tjaš Begić,111657,32,44,,65,78,54,60,67,29,45,200,LM,Normal,False,False
+Morten Behrens,531,20,21,,65,66,68,64,66,26,65,200,GK,Normal,False,False
+Florin Bejan,114147,330,39,,65,42,32,41,44,63,76,200,CB,Normal,False,False
+Rafik Belghali,110724,4,97,,65,82,60,61,66,60,59,300,RB,Normal,False,False
+Sam Bell,1919,14,14,,65,79,62,55,67,23,60,200,LM,Normal,False,False
+Mohammed Ali Bemammer,113040,2149,129,,65,52,39,53,49,63,83,300,CDM,Normal,False,False
+Darío Benavides Fuentes,481,53,45,,65,58,32,51,62,64,62,200,RB,Normal,False,False
+Marcel Benger,110501,2076,21,,65,54,49,58,60,63,70,200,CDM,Normal,False,False
+César Benítez,116323,1014,58,,65,70,44,55,62,65,71,500,CB,Normal,False,False
+Edgar Benítez,113029,1014,58,,65,66,63,66,64,27,59,450,LW,Normal,False,False
+Hugo Benítez,101108,1014,58,,65,63,32,42,44,64,76,500,CB,Normal,False,False
+Mason Bennett,15015,60,14,,65,75,60,61,66,42,73,200,ST,Normal,False,False
+Mathias Hebo Rasmussen,15001,1,13,,65,44,61,65,63,57,69,200,CM,Normal,False,False
+Christian Rasmussen,245,10,13,,65,84,63,55,67,21,59,1100,RW,Normal,False,False
+Louis Reed,1940,60,14,,65,64,55,62,65,61,67,200,CDM,Normal,False,False
+Nikolai Rehnen,110178,2076,21,,65,68,60,60,69,35,64,200,GK,Normal,False,False
+Boyd Reith,100646,10,34,,65,69,37,59,56,61,61,250,RB,Normal,False,False
+Chang Woo Rim,1478,83,167,,65,75,48,54,61,63,74,300,CB,Normal,False,False
+Hugo Rincón Lumbreras,110069,54,45,,65,75,47,53,65,60,65,200,RB,Normal,False,False
+Jonathan Ring,1439,56,46,,65,76,60,64,66,46,68,200,RW,Normal,False,False
+Daniel Ríos,112885,39,83,,65,48,68,45,59,26,67,900,ST,Normal,False,False
+Lautaro Ríos,111020,353,52,,65,63,51,61,64,62,58,200,CM,Normal,False,False
+Connor Ripley,1928,61,14,,65,65,65,62,68,27,64,200,GK,Normal,False,False
+Calogero Rizzuto,523,2076,21,,65,72,55,61,66,57,73,200,RB,Normal,False,False
+Jordan Roberts,361,60,14,,65,81,61,62,66,48,74,300,CAM,Normal,False,False
+Clark Robertson,180,50,42,,65,55,30,52,57,65,68,400,CB,Normal,False,False
+Carlos Roca,110969,1003,53,,65,82,39,57,63,59,72,2600,LB,Normal,False,False
+Antoniu Roca Vives,452,53,45,,65,82,57,58,66,39,57,200,LM,Normal,False,False
+Antônio Mikael Rodrigues Brito,111396,351,54,,65,73,55,63,67,54,61,200,RM,Normal,False,False
+Tiago Rodrigues dos Reis,1891,308,54,,65,66,63,51,63,29,56,200,ST,Normal,False,False
+Ignacio Agustín Rodríguez,110404,353,52,,65,64,56,66,65,53,52,350,CM,Normal,False,False
+Derlis Rodríguez,112716,1003,58,,65,73,63,58,67,26,65,500,RM,Normal,False,False
+Francisco Rodríguez,110974,1014,53,,65,72,28,49,56,61,78,850,LB,Normal,False,False
+Gregorio Rodríguez,110953,353,52,,65,68,65,59,70,33,53,200,RM,Normal,False,False
+Martín Rodríguez,111329,1014,60,,65,69,60,70,65,21,69,500,GK,Normal,False,False
+Clara Rodríguez García,110832,2222,45,,65,57,34,51,47,66,63,200,LB,Normal,False,False
+Genaro Rodríguez Serrano,1867,54,45,,65,57,50,61,62,63,63,200,CDM,Normal,False,False
+Godfried Roemeratoe,1905,10,85,,65,63,45,59,62,64,72,300,CDM,Normal,False,False
+Franz Roggow,110676,2076,21,,65,61,52,61,61,62,68,200,CDM,Normal,False,False
+Nazareno Romero,110982,1014,52,,65,82,33,52,62,58,61,850,LB,Normal,False,False
+Matías Romero,110953,353,52,,65,71,57,60,68,61,64,200,CM,Normal,False,False
+Tim Rönning,321,56,46,,65,64,65,66,65,17,64,300,GK,Normal,False,False
+Aaron Morley,4,60,14,,65,67,60,67,64,61,71,200,CM,normal,False,False
+Ryotaro Tsunoda,100081,4,163,,65,59,29,50,55,68,57,200,CB,normal,False,False
+Kevin Kelsy,101059,332,61,,65,77,66,47,61,27,55,650,ST,normal,False,False
+Alexandru Cîmpanu,110752,330,39,,65,78,60,59,67,35,59,200,RM,normal,False,False
+Liam Shaw,1930,60,14,,65,68,57,60,67,60,72,200,CM,normal,False,False
+Giorgos Koutsias,10032,189,22,,65,86,64,43,64,22,68,300,ST,normal,False,False
+David Richter,110178,2076,21,,65,67,62,63,68,19,69,300,GK,normal,False,False
+Julio Soler,1943,13,52,,65,82,41,49,62,62,60,300,LB,normal,False,False
+Allan Arigoni,10032,189,47,,65,89,38,49,59,60,74,300,RB,normal,False,False
+Jay Williams,1798,61,89,,65,67,42,54,58,62,81,300,CDM,normal,False,False
+Rodrigo Fernández,110093,353,60,,65,42,59,66,61,60,70,200,CM,normal,False,False
+Lewis Warrington,113926,61,14,,65,66,51,62,66,61,65,200,CDM,normal,False,False
+Rodrigo Herrera,112689,353,52,,65,58,50,60,60,63,69,200,CDM,normal,False,False
+André Becker,110532,2076,54,,65,55,64,41,59,28,76,200,ST,normal,False,False
+Samuel Silvera,1926,60,195,,65,73,59,58,69,36,60,200,LM,normal,False,False
+Dilan Markanday,1958,60,14,,65,77,62,58,71,24,48,200,RM,normal,False,False
+Jack Sparkes,1924,61,14,,65,70,46,62,63,59,64,200,LB,normal,False,False
+Tommaso Corazza,110373,32,27,,65,66,56,61,67,65,58,200,LB,normal,False,False
+David Ajiboye,112254,61,14,,65,91,56,55,67,38,68,300,RM,normal,False,False
+Louie Barry,1952,14,14,,65,90,60,54,68,28,58,600,LW,normal,False,False
+Matthew Cox,110890,60,14,,65,67,63,65,66,30,65,200,GK,normal,False,False
+Matt Butcher,1962,60,14,,65,56,60,63,62,62,74,200,CM,normal,False,False
+Terry Taylor,1930,60,50,,65,58,55,64,62,62,67,200,CDM,normal,False,False
+Elliot Watt,100804,50,42,,65,67,53,65,66,59,67,250,CDM,normal,False,False
+Muhammed Gümüskaya,110776,68,48,,65,72,61,64,66,53,58,200,LM,normal,False,False
+Tom Lowery,121,61,14,,65,73,56,64,70,59,51,200,CM,normal,False,False
+Calvin Ramsay,82,50,42,,65,76,46,61,64,58,64,250,RB,normal,False,False
+Prince Owusu,111139,39,21,,65,70,64,47,58,36,74,200,ST,normal,False,False
+Oliver Batista Meier,110176,20,21,,65,73,63,60,71,31,45,200,CAM,normal,False,False
+Florián Monzón,101088,353,52,,65,66,67,50,59,28,63,200,ST,normal,False,False
+Tae Han Kim,112558,83,167,,64,52,21,34,32,66,71,200,CB,Normal,False,False
+Min Hyeok Kim,1473,83,167,,64,57,59,60,64,56,73,200,CDM,Normal,False,False
+Jin Ya Kim,982,83,167,,64,81,53,58,64,56,63,200,RB,Normal,False,False
+Tae Hyun Kim,1477,83,167,,64,68,48,59,62,57,64,200,RB,Normal,False,False
+Tom King,110,13,50,,64,64,63,61,64,42,63,200,GK,Normal,False,False
+Kristian Kirkegaard,822,1,13,,64,75,61,61,64,35,56,200,LM,Normal,False,False
+Pål Alexander Kirkevold,1756,41,36,,64,56,64,62,62,33,77,200,ST,Normal,False,False
+Philipp Klewin,27,2076,21,,64,63,61,60,64,41,65,200,GK,Normal,False,False
+Thibault Klidje,897,189,144,,64,81,63,56,69,26,63,200,ST,Normal,False,False
+Antoni Klimek,301,66,37,,64,73,58,56,68,51,59,400,LW,Normal,False,False
+Matija Boben,114385,330,44,,64,48,28,40,42,63,75,200,CB,Normal,False,False
+Melayro Bogarde,252,80,34,,64,60,30,52,65,65,62,250,CDM,Normal,False,False
+James Bolton,112260,61,14,,64,72,35,53,58,62,72,200,CB,Normal,False,False
+Luke Bolton,1947,60,14,,64,83,55,59,66,54,68,200,RB,Normal,False,False
+André Boman,321,56,46,,64,79,49,58,65,57,65,200,RB,Normal,False,False
+Elliot Bonds,112260,61,79,,64,65,49,57,60,60,75,200,CDM,Normal,False,False
+Yvandro Borges Sanches,23,19,31,,64,77,57,64,63,53,58,200,LM,Normal,False,False
+Dennis Borkowski,111239,2076,21,,64,72,63,54,66,32,64,200,ST,Normal,False,False
+Tim Boss,580,20,21,,64,67,62,60,64,48,62,200,GK,Normal,False,False
+Yassine Bouchama,531,20,21,,64,67,59,63,66,50,59,200,CAM,Normal,False,False
+Jordan Bowery,1940,60,14,,64,83,57,52,60,57,76,200,RB,Normal,False,False
+Kieron Bowie,81,50,42,,64,75,62,59,63,39,80,200,ST,Normal,False,False
+Caolán Boyd-Munce,100805,50,35,,64,61,55,61,64,58,63,200,CM,Normal,False,False
+William Boyle,1947,60,14,,64,46,29,44,48,62,78,200,CB,Normal,False,False
+Oliver Braude,1913,10,36,,64,66,46,61,62,58,61,200,RB,Normal,False,False
+Zachary Brault-Guillard,10032,189,70,,64,88,58,56,63,60,67,200,RM,Normal,False,False
+Pedro Bravo,1516,1,56,,64,72,52,55,62,58,63,300,CM,Normal,False,False
+Leandro Brey,1877,1014,52,,64,64,60,50,65,29,65,400,GK,Normal,False,False
+Sebastian Breza,111139,39,70,,64,63,64,50,68,33,62,200,GK,Normal,False,False
+Enrico Brignola,110908,32,27,,64,76,59,62,68,35,58,200,RM,Normal,False,False
+Ibrahim Diakité,1750,4,118,,64,77,42,51,62,61,66,200,RB,Normal,False,False
+Jack Diamond,1931,60,14,,64,88,58,55,65,34,58,200,LW,Normal,False,False
+Junior Diaz,294,17,18,,64,77,29,48,49,64,62,200,CB,Normal,False,False
+Leandro Díaz,111327,1003,55,,64,74,39,54,62,58,57,700,LB,Normal,False,False
+Paul Digby,1944,60,14,,64,42,52,58,56,62,79,250,CDM,Normal,False,False
+Noah Diliberto,301,66,18,,64,67,47,65,68,52,53,200,CM,Normal,False,False
+Mouhamed Diop,294,17,136,,64,69,54,58,66,52,60,200,CM,Normal,False,False
+Maximilian Dittgen,111239,2076,21,,64,76,59,56,65,51,70,600,ST,Normal,False,False
+Elijah Dixon-Bonner,15,14,14,,64,60,54,62,66,58,60,1100,CM,Normal,False,False
+Alexis Domínguez,113044,353,52,,64,60,63,54,54,27,72,1200,ST,Normal,False,False
+Chunyu Dong,112163,2012,155,,64,64,64,63,63,43,65,200,GK,Normal,False,False
+Kyliane Dong,294,17,18,,64,71,61,56,68,23,46,200,RM,Normal,False,False
+Jamie Donley,1958,60,14,,64,66,60,60,64,35,54,200,CAM,Normal,False,False
+Liam Donnelly,82,50,35,,64,59,65,60,64,64,69,200,CM,Normal,False,False
+Patrick Dorgu,347,31,13,,64,78,50,54,67,57,48,2400,LB,Normal,False,False
+Jeriel Dorsett,1793,60,84,,64,71,26,50,57,62,76,200,CB,Normal,False,False
+Renato Barbosa dos Santos Júnior,1443,1,54,,64,64,62,47,63,27,70,250,ST,Normal,False,False
+Moussa Doumbouya,526,2076,118,,64,74,62,46,64,19,66,200,ST,Normal,False,False
+Miloš Drinčić,113299,2149,15,,64,53,38,43,43,66,71,200,CB,Normal,False,False
+Sergio Dueñas Ruiz,100852,54,45,,64,72,63,61,66,45,55,250,CAM,Normal,False,False
+Andrei Dumiter,110750,330,39,,64,81,64,55,65,38,67,200,ST,Normal,False,False
+Lucian Dumitriu,110078,330,39,,64,72,61,63,64,55,68,350,CM,Normal,False,False
+Jakob Maslø Dunsby,1757,41,36,,64,78,57,58,66,28,63,200,RW,Normal,False,False
+Cosmin Dur-Bozoancă,110072,330,39,,64,62,63,63,66,40,65,200,GK,Normal,False,False
+Luca Dürholtz,580,20,21,,64,64,53,61,67,59,62,1700,CM,Normal,False,False
+Dylan Durivaux,111273,17,18,,64,85,41,50,57,57,72,200,RB,Normal,False,False
+Xavier Dziekoński,111083,66,37,,64,64,64,63,67,32,62,200,GK,Normal,False,False
+George Earthy,1919,14,14,,64,67,58,61,67,38,47,550,CAM,Normal,False,False
+Simon Eastwood,1951,14,14,,64,64,64,63,64,50,64,200,GK,Normal,False,False
+Tom Eaves,1930,60,14,,64,49,65,46,59,37,77,200,ST,Normal,False,False
+Renzo Orihuela,110968,1003,60,,64,74,41,53,63,66,58,2000,CB,Normal,False,False
+Danilo Orsi,15015,60,14,,64,73,63,51,63,25,66,200,ST,Normal,False,False
+Jevani Brown,1937,61,82,,64,79,62,60,64,45,68,750,ST,Normal,False,False
+Paweł Jaroszyński,110373,32,37,,64,63,53,63,63,64,71,200,LM,Normal,False,False
+Ben Thompson,112764,61,14,,64,69,59,61,66,61,67,200,CM,Normal,False,False
+Sam Stubbs,1936,61,14,,64,63,29,41,53,63,75,200,CB,Normal,False,False
+Anthony Scully,1935,61,25,,64,75,61,58,67,34,53,200,LM,Normal,False,False
+Sveinn Aron Guðjohnsen,112199,41,24,,64,40,64,47,62,33,72,200,ST,Normal,False,False
+Ben Waine,1940,60,198,,64,82,63,55,63,44,75,200,ST,Normal,False,False
+Jensen Weir,1917,60,14,,64,67,63,60,64,58,61,250,CM,Normal,False,False
+Antonio Jonjić,27,2076,21,,64,76,62,57,69,31,64,200,ST,Normal,False,False
+David Lazar,114549,330,39,,64,64,64,62,64,54,65,200,GK,Normal,False,False
+Davide Bettella,111657,32,27,,64,51,35,47,50,67,56,200,CB,Normal,False,False
+Jonas Carls,110178,2076,21,,64,82,56,56,64,54,58,250,LB,Normal,False,False
+Jack Iredale,81,50,195,,64,72,43,56,58,61,74,200,CB,Normal,False,False
+Jake Young,361,60,14,,64,80,62,46,62,25,64,850,ST,Normal,False,False
+Samuel Ballet,894,189,47,,64,78,60,55,65,22,72,200,RM,Normal,False,False
+Jack Currie,1958,60,14,,64,76,37,52,63,58,59,200,LB,Normal,False,False
+Joe Hodge,1939,60,25,,64,66,53,61,65,59,60,500,CDM,Normal,False,False
+Josh Coburn,97,14,14,,64,58,64,47,61,22,70,200,ST,Normal,False,False
+Youssef Amyn,112408,350,162,,64,74,59,57,71,40,43,200,CAM,Normal,False,False
+Naatan Skyttä,111276,17,17,,64,64,53,65,70,45,48,200,CM,Normal,False,False
+Myles Peart-Harris,1960,14,14,,64,72,61,63,65,52,71,3000,CM,Normal,False,False
+Felipe Salomoni,111701,2172,52,,64,74,44,55,59,57,63,200,LB,Normal,False,False
+Junior Olaitan,1805,17,99,,64,79,66,60,65,53,77,200,CAM,Normal,False,False
+Emmanuel Yeboah,822,1,117,,64,83,60,55,63,36,77,200,ST,Normal,False,False
+Franco Carboni,205,31,52,,64,62,40,55,57,60,68,200,LB,Normal,False,False
+Matías Moreno,110374,31,52,,64,56,28,35,43,66,69,200,CB,Normal,False,False
+Adama Bojang,322,189,116,,64,62,64,50,60,36,57,200,ST,Normal,False,False
+Mohamed Jaouab,1816,17,129,,64,57,29,42,51,64,65,200,CB,Normal,False,False
+Thomas Castella,1862,189,47,,63,65,62,62,62,45,64,200,GK,Normal,False,False
+Antonio Castillo,111327,1003,55,,63,68,34,43,56,61,70,500,LB,Normal,False,False
+Denil Castillo,1516,1,57,,63,62,34,57,50,60,69,200,CDM,Normal,False,False
+Federico Castro,111020,353,52,,63,67,62,53,65,31,74,500,LW,Normal,False,False
+Jesper Ceesay,702,56,116,,63,62,45,60,62,61,66,200,CM,Normal,False,False
+Piotr Ceglarz,111097,66,37,,63,64,62,64,61,57,72,200,CAM,Normal,False,False
+Mikkel Ceïde,298,41,36,,63,66,26,51,53,62,69,200,CB,Normal,False,False
+Diego Céspedes,110978,1003,55,,63,61,23,43,48,63,70,200,CB,Normal,False,False
+Tarek Chahed,110588,20,21,,63,74,57,56,63,58,62,200,RB,Normal,False,False
+Binbin Chen,112540,2012,155,,63,83,58,58,62,40,67,200,LM,Normal,False,False
+Seong Hoon Cheon,980,83,167,,63,55,60,43,59,31,65,200,ST,Normal,False,False
+James Chester,113926,61,50,,63,47,34,53,55,63,66,200,CB,Normal,False,False
+Tio Cipot,113616,80,44,,63,63,49,61,67,56,51,200,CM,Normal,False,False
+Lamine Cissé,58,17,18,,63,76,54,55,68,22,46,200,LM,Normal,False,False
+James Clarke,112254,61,14,,60,43,41,48,47,58,75,200,CB,Normal,False,False
+Brendan Clarke,1571,65,25,,63,62,64,65,61,41,64,200,GK,Normal,False,False
+Max Cleworth,1947,60,14,,63,65,26,40,51,62,70,200,CB,Normal,False,False
+Ethan Coleman,1802,61,14,,63,66,47,56,57,59,75,200,CDM,Normal,False,False
+Nnamdi Collins,1824,19,21,,63,83,25,45,50,61,68,200,CB,Normal,False,False
+Brandon Comley,1803,61,84,,63,64,50,57,57,60,73,200,CDM,Normal,False,False
+Chris Conn-Clarke,1938,60,35,,63,73,63,58,64,40,56,200,CAM,Normal,False,False
+Kamil Conteh,1962,60,138,,63,72,46,56,65,57,72,200,CDM,Normal,False,False
+Kobe Cools,537,4,7,,63,57,26,44,45,65,65,200,CB,Normal,False,False
+Jo Coppens,680,4,7,,63,65,60,62,62,43,64,200,GK,Normal,False,False
+Judith Coquet,70,2218,18,,63,67,58,60,65,52,56,200,CM,Normal,False,False
+Ryan Croasdale,1928,61,14,,63,64,53,57,64,60,59,200,CDM,Normal,False,False
+Alexis Cuello,1013,1003,52,,63,87,58,50,69,24,48,550,LM,Normal,False,False
+Santiago Cuiza,115491,1014,53,,63,76,47,60,61,57,60,350,RB,Normal,False,False
+Robbie Cundy,1937,61,14,,63,55,26,40,47,63,69,200,CB,Normal,False,False
+Szymon Czyż,114326,66,37,,63,68,60,63,69,46,65,200,CM,Normal,False,False
+Freddy Flórez,131511,1014,56,,63,62,46,54,63,59,73,350,CDM,Normal,False,False
+Lauren Flynn,131478,2221,95,,63,45,39,52,64,63,59,200,CB,Normal,False,False
+Riccardo Fogliata,113973,32,27,,63,69,48,63,64,42,47,200,CM,Normal,False,False
+Sander Moen Foss,299,41,36,,63,50,25,41,46,64,69,200,CB,Normal,False,False
+Ben Fox,112222,61,14,,63,76,60,58,63,59,74,200,CM,normal,False,False
+Kobe Franklin,111651,39,70,,63,69,33,54,62,60,49,200,RB,Normal,False,False
+Pierluigi Frattali,111657,32,27,,63,62,62,60,62,50,63,200,GK,Normal,False,False
+Marlon Frey,33,2076,21,,63,59,49,61,63,62,71,200,CM,Normal,False,False
+Moritz Fritz,110645,2076,21,,63,47,41,48,47,61,77,200,CB,Normal,False,False
+Alexander Fuchs,110178,2076,21,,63,59,50,63,65,62,69,200,CB,Normal,False,False
+Aidi Fulangxisi,110955,2012,155,,63,68,36,55,57,59,76,200,LB,Normal,False,False
+Loránd Fülöp,110752,330,39,,63,68,60,63,64,41,64,550,LW,Normal,False,False
+Ryan Fulton,80,50,42,,63,63,62,63,65,32,62,200,GK,Normal,False,False
+Jeffrey Gal,693,39,95,,63,63,59,65,64,18,65,200,GK,Normal,False,False
+Matías Galarza,112670,1003,58,,63,63,58,63,62,54,48,450,CM,Normal,False,False
+Thierry Gale,254,80,66,,63,76,59,57,68,26,38,200,LW,Normal,False,False
+Einar Galilea Azaceta,573,54,45,,63,56,32,41,46,63,70,200,CB,Normal,False,False
+Dejan Galjen,543,20,21,,63,69,62,45,61,18,68,200,ST,Normal,False,False
+Scott Galloway,131739,351,195,,63,77,55,56,62,58,73,200,RB,Normal,False,False
+Hugo Gambor,674,4,105,,63,65,33,51,57,62,63,200,CB,Normal,False,False
+Mario García Alvear,456,54,45,,63,66,33,49,59,61,56,200,LB,Normal,False,False
+Chase Gasper,693,39,95,,63,67,34,55,60,60,67,200,LB,Normal,False,False
+Alec Georgen,111276,17,18,,63,71,50,55,65,61,56,200,RB,Normal,False,False
+Łukasz Gerstenstein,111092,66,37,,63,75,54,58,62,55,57,200,RM,Normal,False,False
+Mark Gevorgyan,110683,2076,21,,63,80,38,54,63,56,47,200,RB,Normal,False,False
+James Gibbons,1944,60,14,,63,69,43,56,61,58,67,200,RB,Normal,False,False
+Thomas Gillier,110975,1014,55,,63,64,58,60,67,21,63,400,GK,Normal,False,False
+Jake Girdwood-Reich,113018,39,195,,63,60,41,53,54,61,73,200,CB,Normal,False,False
+Kevin Goden,1826,2076,21,,63,87,55,54,63,52,68,200,RM,Normal,False,False
+Román Gómez,101083,1003,52,,63,71,40,58,61,59,61,200,RB,Normal,False,False
+Andrei Gorcea,110750,330,39,,63,63,63,64,68,28,60,200,GK,normal,False,False
+John Patrick Finn Benoa,379,16,25,,63,72,61,52,64,21,56,350,CAM,normal,False,False
+Dorian Babunski,113378,330,19,,63,50,67,45,55,21,64,200,ST,normal,False,False
+Filippo Melegoni,112493,32,27,,63,43,54,67,64,57,60,250,CAM,normal,False,False
+Malcolm Jeng,379,16,46,,63,69,32,52,59,63,65,350,CB,normal,False,False
+Kaimu Zheng,116361,2012,155,,63,65,51,52,54,60,77,200,CB,normal,False,False
+Brian Anunga,113149,39,103,,63,59,40,58,56,58,70,200,CDM,normal,False,False
+Rongze Han,131173,2012,155,,63,62,61,64,63,41,63,200,GK,normal,False,False
+Marian Danciu,110750,330,39,,63,74,44,56,66,29,47,200,RM,normal,False,False
+Jack Burroughs,1800,14,42,,63,72,52,56,62,60,71,200,RB,normal,False,False
+Darragh Burns,92,61,25,,63,75,59,58,67,42,51,200,RW,normal,False,False
+Dominic Thompson,83,50,14,,63,74,39,54,58,57,66,200,LB,normal,False,False
+Lisandro Montenegro,110396,353,52,,63,67,56,62,63,54,67,200,CM,normal,False,False
+Alexander Abrahamsson,110749,66,46,,63,66,25,47,57,62,65,200,CB,normal,False,False
+Jon Mellish,1917,60,14,,63,71,58,58,57,61,77,200,CB,normal,False,False
+Dino Beširovic,433,56,8,,63,64,57,61,64,48,63,200,CAM,normal,False,False
+Augustus Kargbo,3,14,138,,63,81,62,53,64,20,53,200,ST,normal,False,False
+Fredrik Berglie,131491,41,36,,63,55,26,41,45,64,65,200,CB,normal,False,False
+Gonzalo Álvez,112670,1003,52,,63,68,55,61,66,25,39,200,RM,normal,False,False
+Luis Barraza,688,39,95,,63,63,61,71,58,22,66,200,GK,normal,False,False
+Emmanuel Ekong,320,56,46,,63,74,64,47,63,24,57,200,ST,normal,False,False
+Ibrahim Diabate,111594,56,108,,63,75,62,50,58,18,70,200,ST,normal,False,False
+Ronan Darcy,1917,60,14,,63,71,56,60,66,48,60,200,CAM,normal,False,False
+Adam Daghim,191,80,13,,62,81,58,53,67,50,65,200,ST,Normal,False,False
+Bobby Clark,191,80,14,,62,68,54,62,69,50,56,4000,CM,Normal,False,False
+Preston Judd,111928,39,95,,62,66,63,41,54,20,68,200,ST,Normal,False,False
+Dong Yoon Jung,110765,83,167,,62,69,41,56,56,55,65,700,RB,Normal,False,False
+Marc Jurado Gómez,452,53,45,,62,74,49,62,65,57,55,1400,RB,Normal,False,False
+Matthew Jurman,114604,351,195,,62,33,35,46,42,60,78,200,CB,Normal,False,False
+Omari Patrick,15048,61,14,,62,83,59,53,61,27,68,200,LM,Normal,False,False
+Dominik Pelivan,162,2076,21,,62,62,51,57,54,58,74,200,CDM,Normal,False,False
+Mateo Pellegrino,112689,353,52,,62,54,63,46,57,30,69,0,ST,Normal,False,False
+Brayann Pereira,1910,10,18,,62,77,33,53,64,56,48,300,RB,Normal,False,False
+Ovidiu Perianu,131459,330,39,,62,72,53,57,63,60,68,200,CDM,Normal,False,False
+Taylor Perry,127,60,14,,62,68,56,61,65,50,60,200,CM,Normal,False,False
+Luca Petrasso,112606,39,70,,62,75,42,59,62,55,64,200,LB,Normal,False,False
+Charles Petro,110752,330,125,,62,81,37,52,55,56,66,200,RB,Normal,False,False
+Gabriele Piccinini,110738,32,27,,62,65,51,59,61,59,64,200,CDM,Normal,False,False
+Dylan Pierias,111393,351,195,,62,88,49,51,66,50,63,200,RM,Normal,False,False
+Aaron Pierre,127,60,77,,62,53,37,44,47,60,74,200,CB,Normal,False,False
+Joe Pigott,112259,61,14,,62,63,61,52,61,30,69,200,ST,Normal,False,False
+Luke Plange,100325,322,14,,62,68,63,49,64,33,54,3000,ST,Normal,False,False
+Iustin Popescu,110072,330,39,,62,65,58,60,60,19,60,200,GK,Normal,False,False
+Tobías Portillo,112716,1003,58,,62,72,59,60,61,30,57,250,LM,Normal,False,False
+Joe Pritchard,1798,61,14,,62,72,59,61,65,57,61,200,CAM,Normal,False,False
+Bjarne Pudel,820,1,21,,62,58,31,50,51,61,68,200,CB,Normal,False,False
+Simone Rabbi,111993,32,27,,62,62,62,52,62,40,55,200,ST,Normal,False,False
+Mateusz Radecki,114393,66,37,,62,63,60,59,61,56,68,200,CAM,Normal,False,False
+Sidney Raebiger,110500,20,21,,62,68,52,65,66,55,43,200,CM,Normal,False,False
+Luca Raimund,36,19,21,,62,69,56,61,62,44,54,200,CAM,Normal,False,False
+Mikkel Rakneberg,113459,41,36,,62,72,54,56,60,58,58,200,LB,Normal,False,False
+Lalengmawia Ralte,113146,2149,159,,62,60,50,55,61,59,72,200,CM,Normal,False,False
+Alexander Ranacher,15040,80,4,,62,78,54,55,67,53,63,200,RB,Normal,False,False
+Alex Rangel,110981,1003,57,,62,61,31,40,47,62,68,250,CB,Normal,False,False
+Farrend Rawson,110313,61,14,,62,49,32,41,40,63,74,200,CB,Normal,False,False
+George Ray,357,61,50,,62,49,26,36,47,63,72,200,CB,Normal,False,False
+Andre Raymond,100804,50,93,,62,73,46,54,59,56,64,200,LB,Normal,False,False
+Givairo Read,246,10,34,,62,81,51,53,62,57,61,250,RM,Normal,False,False
+João Pedro Reginaldo,114640,39,54,,62,58,27,52,48,62,66,500,LB,Normal,False,False
+Tyler Magloire,1930,60,14,,62,90,33,41,52,60,72,200,CB,Normal,False,False
+Júlíus Magnússon,2041,41,24,,62,66,49,58,59,60,64,200,CDM,Normal,False,False
+John Mahon,563,65,25,,62,53,33,45,49,60,75,200,CB,Normal,False,False
+Curtis Main,180,50,14,,62,69,61,47,56,32,77,700,ST,Normal,False,False
+Anthony Maisonnial,58,17,18,,62,62,60,59,66,49,60,200,GK,Normal,False,False
+Aldo Maiz,116295,1014,58,,62,68,49,62,65,58,55,750,CM,Normal,False,False
+Christopher Mamengi,111380,10,34,,62,70,35,47,53,59,70,300,CB,Normal,False,False
+Parfait Mandanda,210,17,110,,62,62,59,61,65,41,62,200,GK,Normal,False,False
+Alassan Manjam Gutiérrez,260,54,45,,62,85,58,56,64,35,51,200,LM,Normal,False,False
+Hector Manrique,110989,1003,61,,62,83,49,56,70,33,45,600,CAM,Normal,False,False
+Agustín Manzur,111329,1014,52,,62,67,52,57,62,59,61,300,CM,Normal,False,False
+George Maris,1940,60,14,,62,68,58,61,62,58,66,200,CM,Normal,False,False
+Benjamin Markuš,2017,80,44,,62,64,39,51,56,62,65,200,CDM,Normal,False,False
+John Marquis,127,60,14,,62,51,62,51,58,39,79,200,ST,Normal,False,False
+Max Mata,131739,351,198,,62,72,61,48,58,24,72,200,ST,Normal,False,False
+Kuryu Matsuki,101026,68,163,,62,66,61,58,61,58,71,4000,CM,Normal,False,False
+Noam Mayoka-Tika,670,4,7,,62,58,51,61,60,58,61,200,CM,Normal,False,False
+Luke Mbete,1930,60,14,,62,70,32,48,58,59,71,200,CB,Normal,False,False
+Conor McAleny,113926,61,14,,62,80,60,56,64,26,55,200,LW,Normal,False,False
+Alfie McCalmont,111396,351,35,,62,65,58,59,66,56,62,200,CM,Normal,False,False
+Rod McDonald,1937,61,14,,62,49,30,46,48,61,74,200,CB,Normal,False,False
+George McEachran,92,61,14,,62,60,45,63,65,57,52,200,CM,Normal,False,False
+Dylan McGeouch,1480,61,42,,62,57,53,61,63,59,66,200,CM,Normal,False,False
+JJ McKiernan,149,60,35,,62,75,59,59,63,44,64,850,CAM,Normal,False,False
+Callum McManaman,1917,60,14,,62,66,59,59,64,30,60,200,RM,Normal,False,False
+Paul McMullan,445,65,42,,62,76,52,58,62,27,44,200,RM,Normal,False,False
+Charlie McNeill,1807,14,14,,62,70,63,55,61,22,60,200,ST,Normal,False,False
+Daylam Meddah,210,17,18,,62,68,44,55,64,59,64,200,CB,Normal,False,False
+Marlon Medranda,113746,1014,57,,62,71,37,54,59,58,68,200,LB,Normal,False,False
+Richard Meier,110178,2076,21,,62,64,61,50,60,34,70,200,ST,Normal,False,False
+Andy Dallas,381,61,42,,61,81,59,46,60,28,59,750,ST,Normal,False,False
+Kévin Danois,57,16,18,,61,55,53,60,61,61,50,500,CM,Normal,False,False
+Jordan Davies,92,61,50,,61,73,60,61,63,53,58,200,CM,Normal,False,False
+Harvey Davies,9,13,14,,61,60,63,57,60,29,59,200,GK,Normal,False,False
+Erjiaduo De,111724,2012,155,,61,70,57,65,61,43,69,200,ST,Normal,False,False
+Ryan De Havilland,1938,60,14,,61,57,44,55,57,59,68,200,CDM,Normal,False,False
+Ángel De La Cruz,111010,1003,59,,61,61,62,60,62,20,61,550,GK,Normal,False,False
+Théo De Percin,57,16,18,,61,65,62,63,62,22,60,300,GK,Normal,False,False
+Jonathan Dean,693,39,95,,61,64,36,54,53,58,59,200,LB,Normal,False,False
+Jesse Debrah,1928,61,14,,61,68,26,38,47,60,73,200,CB,Normal,False,False
+Milton Delgado,1877,1014,52,,61,64,35,53,56,61,55,5000,CDM,Normal,False,False
+Isaías Delpupo,680,4,52,,61,67,53,61,67,37,54,200,CAM,Normal,False,False
+Cengiz Demir,101028,68,48,,61,58,33,43,54,60,67,200,CB,Normal,False,False
+Moussa Diakité,1968,54,126,,61,62,51,56,55,58,68,200,CDM,Normal,False,False
+Moussa Diallo,324,189,18,,61,66,43,54,60,58,64,200,RB,Normal,False,False
+Belmin Dizdarević,70,16,8,,61,63,58,56,66,26,62,250,GK,Normal,False,False
+Wiktor Długosz,111083,66,37,,61,80,50,57,61,50,60,200,RM,Normal,False,False
+Kristijan Dobras,110720,80,4,,61,72,58,61,65,35,55,200,CAM,Normal,False,False
+Ben Doherty,445,65,25,,61,79,51,56,60,55,57,200,LB,Normal,False,False
+Ross Doohan,77,50,42,,61,61,58,57,62,61,60,200,GK,Normal,False,False
+CJ dos Santos,112893,39,95,,61,60,61,58,64,27,59,250,GK,Normal,False,False
+Eduardo Dos Santos Haesler,110645,2076,21,,61,61,61,63,62,28,59,200,GK,Normal,False,False
+Cheick Doumbia,111659,17,18,,61,69,44,56,62,57,51,200,LB,Normal,False,False
+Dawid Drachal,114326,66,37,,61,82,55,53,61,28,53,200,RM,Normal,False,False
+Babis Drakas,110676,2076,21,,61,77,58,54,63,24,50,200,RW,Normal,False,False
+Igor Drapiński,111086,66,37,,61,61,42,54,49,61,67,200,LB,Normal,False,False
+Jack Duncan,111397,351,195,,61,61,60,59,60,51,59,200,GK,Normal,False,False
+Jack Earing,1803,61,14,,61,68,58,62,63,54,63,200,CM,Normal,False,False
+Blessing Edet,110989,1003,133,,61,71,43,55,60,54,62,200,CM,Normal,False,False
+Ryan Edmondson,111396,351,14,,61,57,62,41,56,26,73,200,ST,Normal,False,False
+Bissenty Mendy,111273,17,136,,61,63,27,43,45,61,66,200,CB,Normal,False,False
+Felix Meyer,1826,2076,21,,61,72,38,56,54,57,68,200,LB,Normal,False,False
+Tim Meyer,322,189,47,,61,71,51,58,65,58,62,200,CM,Normal,False,False
+Peter Michael,114385,330,133,,61,70,58,46,59,35,69,0,ST,Normal,False,False
+Tony Miettinen,1456,41,17,,61,60,34,43,48,62,61,200,CB,Normal,False,False
+Václav Míka,110468,319,12,,61,60,23,38,45,60,71,4500,CB,Normal,False,False
+Gyeong Hyeon Min,110765,83,167,,61,75,33,44,58,55,68,200,LB,Normal,False,False
+Jay Mingi,1931,60,14,,61,72,51,58,66,58,67,250,CM,Normal,False,False
+Danilo Mitrović,110720,80,51,,61,63,45,51,52,66,60,200,CB,Normal,False,False
+Nikolaj Moller,922,41,46,,61,56,62,44,60,29,63,200,ST,Normal,False,False
+Nathan Moriah-Welsh,81,50,79,,61,69,54,59,66,53,63,200,CM,Normal,False,False
+Glenn Morris,1802,61,14,,61,60,59,57,62,31,63,200,GK,Normal,False,False
+Malik Mothersille,1938,60,14,,61,73,60,53,63,28,59,200,ST,Normal,False,False
+Piotr Mroziński,114393,66,37,,61,59,43,54,55,59,72,200,RB,Normal,False,False
+Jack Muldoon,112222,61,14,,61,74,60,52,62,23,64,200,ST,Normal,False,False
+Jordan Murray,114168,2149,195,,61,60,60,46,60,18,65,200,ST,Normal,False,False
+Francisco Mwepu,1968,54,147,,61,79,62,42,63,23,51,200,ST,Normal,False,False
+Suheyel Najar,110645,2076,21,,61,81,54,54,63,27,59,200,RM,Normal,False,False
+Ramy Najjarine,114023,351,195,,61,76,47,56,67,38,46,200,LM,Normal,False,False
+Hampus Näsström,112126,56,46,,61,45,36,50,48,59,74,200,CDM,Normal,False,False
+Jefferson Nazareno,114580,1014,57,,61,63,32,41,49,63,66,200,CB,Normal,False,False
+Christoph Nicht,113616,80,4,,61,60,63,56,60,23,61,200,GK,Normal,False,False
+Aleksander D. Nilsson,1757,41,46,,61,66,52,56,62,52,58,2400,CM,Normal,False,False
+Yonis Njoh,110321,17,18,,61,63,61,49,59,17,53,200,ST,Normal,False,False
+Vinícius Nogueira,321,56,54,,61,71,47,54,59,53,68,200,LB,Normal,False,False
+Luke Norris,15048,61,14,,61,55,61,50,59,25,73,200,ST,Normal,False,False
+Amin Nouri,131491,41,36,,61,53,48,55,62,59,67,200,RB,Normal,False,False
+Tsiki Ntsabeleng,695,39,140,,61,72,59,62,67,51,60,200,CM,Normal,False,False
+Richard Odada,181,50,120,,61,57,46,54,58,59,65,200,CDM,Normal,False,False
+Emil Ødegaard,131491,41,36,,61,61,59,59,61,45,58,200,GK,Normal,False,False
+Giacomo Olzer,113973,32,27,,60,63,57,59,62,34,62,200,CAM,Normal,False,False
+Leon Opitz,38,19,21,,60,67,57,54,60,34,54,200,LM,Normal,False,False
+Leo Oppermann,159,2076,21,,60,63,59,59,65,23,58,200,GK,Normal,False,False
+Fynn Otto,110501,2076,21,,60,54,33,45,47,60,63,200,CB,Normal,False,False
+Mohamed Ouédraogo,15009,80,101,,60,66,34,55,61,54,61,200,LB,Normal,False,False
+Mansour Ouro-Tagba,543,20,144,,60,81,51,46,64,31,68,0,ST,Normal,False,False
+Ignacio Pacheco,110978,1003,55,,60,59,34,53,56,54,63,200,CDM,Normal,False,False
+Édgar Páez,112716,1003,58,,60,78,59,41,62,18,49,700,ST,Normal,False,False
+Yaw Paintsil,418,41,36,,60,85,53,50,64,56,59,200,LB,Normal,False,False
+Kamil Pajnowski,114004,66,37,,60,58,27,40,43,59,69,200,CB,Normal,False,False
+Ash Palmer,1924,61,14,,60,47,29,37,42,60,71,200,CB,Normal,False,False
+Seb Palmer-Houlden,180,50,14,,60,74,57,52,60,33,61,200,ST,Normal,False,False
+Mats Pannewig,160,19,21,,60,48,53,57,61,52,68,4500,CM,Normal,False,False
+Dae Won Park,2055,83,167,,60,69,45,56,59,59,64,200,CB,Normal,False,False
+Sang Hyuk Park,2055,83,167,,60,65,58,44,59,20,65,200,ST,Normal,False,False
+Lucy Parry,9,2216,14,,60,73,45,55,58,56,60,200,RB,Normal,False,False
+Alem Pasic,110720,80,4,,60,63,26,32,34,60,68,200,CB,Normal,False,False
+Sebastian Pasquali,114023,351,195,,60,51,50,61,63,55,56,200,CM,Normal,False,False
+Joachim Imbrechts,2014,4,46,,60,64,57,56,62,38,53,200,GK,Normal,False,False
+Jacob Jackson,111928,39,95,,60,60,63,55,62,27,58,5100,GK,Normal,False,False
+Imam Jagne,112072,56,46,,60,68,55,54,65,55,66,1300,CM,Normal,False,False
+Andres Jasson,820,1,95,,60,71,47,54,63,41,50,200,RM,Normal,False,False
+Håvar Grøntvedt Jenssen,2041,41,36,,60,61,60,59,61,23,60,300,GK,Normal,False,False
+Luke Jephcott,112254,61,50,,60,68,61,53,63,26,58,200,ST,Normal,False,False
+Niklas Jessen,110676,2076,21,,60,63,49,60,62,56,55,200,RB,Normal,False,False
+Lucas Hägg Johansson,111705,56,46,,60,61,60,59,60,38,59,200,GK,Normal,False,False
+Janis Juckel,162,2076,21,,60,64,47,59,61,53,60,200,CM,Normal,False,False
+Arlet Junior Zé,896,189,47,,60,79,48,50,68,26,52,200,LM,Normal,False,False
+Ali Kabacalman,110770,189,47,,60,53,49,52,54,58,57,200,CDM,Normal,False,False
+Vishal Kaith,113146,2149,159,,60,65,59,57,57,30,60,200,GK,Normal,False,False
+Ashley Charles,112764,61,77,,60,74,47,55,56,57,67,200,CDM,Normal,False,False
+Pierce Charles,1807,14,35,,60,58,60,59,60,24,62,200,GK,Normal,False,False
+Kegs Chauke,15015,60,140,,60,72,52,57,63,55,62,200,CM,Normal,False,False
+Ivane Chegra,614,17,97,,60,65,53,56,64,35,45,200,RM,Normal,False,False
+Po Liang Chen,131488,2012,213,,60,73,59,61,63,41,59,200,CM,Normal,False,False
+Wei Chen,112540,2012,155,,60,59,58,53,64,29,56,200,GK,Normal,False,False
+Mohamed Cherif,1447,1,118,,60,65,35,49,55,60,71,200,CDM,Normal,False,False
+Ange Chibozo,1816,17,99,,60,66,60,55,62,22,45,200,CAM,Normal,False,False
+Young Eun Choi,2056,83,167,,60,60,58,51,66,19,58,200,GK,Normal,False,False
+Kacper Chorążka,305,65,37,,60,62,65,53,62,26,57,200,GK,Normal,False,False
+Paweł Chrupałła,112199,41,37,,60,65,54,57,60,50,67,450,RM,Normal,False,False
+Giuseppe Ciocci,1842,31,27,,60,62,56,54,65,24,58,200,GK,Normal,False,False
+Mika Clausen,506,2076,21,,60,69,52,55,64,51,48,200,CAM,Normal,False,False
+Ionuț Cojocaru,110075,330,39,,60,71,63,57,60,25,57,200,RW,Normal,False,False
+Joel Coleman,4,60,14,,60,60,59,57,62,44,58,200,GK,Normal,False,False
+Pietro Comuzzo,110374,31,27,,60,41,27,38,37,63,55,200,CB,Normal,False,False
+Seámus Conneely,110313,61,25,,60,35,49,55,57,59,64,200,CDM,Normal,False,False
+Bambasé Conté,1832,20,21,,60,66,58,56,64,29,46,200,LM,Normal,False,False
+Ali Coote,834,65,42,,60,73,59,57,63,39,46,200,CAM,Normal,False,False
+Rob Cornwall,305,65,25,,60,34,28,47,50,60,67,200,CB,Normal,False,False
+Carlos Cortés,111722,1014,56,,60,58,63,42,53,25,68,200,ST,Normal,False,False
+Ronan Coughlan,112260,61,25,,60,71,59,53,60,24,65,200,ST,Normal,False,False
+Esteban Crucci,111001,1014,60,,60,58,66,55,58,17,58,350,ST,Normal,False,False
+Jaka Čuber Potočnik,31,20,44,,60,60,61,45,60,22,56,200,ST,Normal,False,False
+Júlio Augusto Dabó,1898,308,119,,60,75,32,46,56,57,52,200,LB,Normal,False,False
+Emanuel Dall'Aglio,101083,1003,52,,60,61,33,44,60,60,59,250,CB,Normal,False,False
+Josh Davison,15048,61,14,,60,64,59,44,57,19,81,200,ST,Normal,False,False
+Tom de Graaff,1903,10,34,,60,61,57,67,60,32,56,250,GK,Normal,False,False
+Belén de Gracia Ruiz,116334,2222,45,,60,61,54,61,59,31,60,200,GK,Normal,False,False
+George Broadbent,142,61,14,,59,66,50,55,58,55,61,200,CM,Normal,False,False
+Maxim Burghardt,506,2076,21,,59,67,45,58,59,56,55,200,RB,Normal,False,False
+Lautaro Bursich,112965,353,52,,59,63,58,51,61,28,54,200,GK,Normal,False,False
+Victor Cabañas,112716,1003,58,,59,76,39,50,57,54,55,450,RB,Normal,False,False
+Welat Cagro,675,4,7,,59,62,47,59,59,53,65,350,CM,Normal,False,False
+Tudor Călin,114549,330,39,,59,56,41,51,52,59,68,200,CDM,Normal,False,False
+Ramón Cansinos,112965,353,52,,59,73,61,43,59,24,47,250,ST,Normal,False,False
+Kang Cao,112979,2012,155,,59,63,50,55,55,56,68,200,CDM,Normal,False,False
+Aldaír Caputa Ferreira,110752,330,98,,59,65,54,57,58,47,48,200,CAM,Normal,False,False
+Gonçalo Miguel Cardoso Almeida,1898,308,38,,59,73,36,42,56,55,47,200,RB,Normal,False,False
+Julián Ceballos,1877,1014,52,,59,72,47,56,63,38,41,200,LM,Normal,False,False
+Miguel Chaiwa,900,189,147,,59,74,36,50,59,57,68,200,CDM,Normal,False,False
+Daniel Chesters,113926,61,14,,59,71,47,56,63,46,55,200,RW,Normal,False,False
+Sung Gwon Cho,112258,83,167,,59,61,28,34,40,57,71,200,CB,Normal,False,False
+Woo Jin Choi,110765,83,167,,59,66,55,50,64,52,54,200,LM,Normal,False,False
+Nicólas Claa,110395,1014,52,,59,61,59,58,62,21,59,200,GK,Normal,False,False
+Jayden Clarke,1802,61,14,,59,75,54,56,62,44,56,200,CAM,Normal,False,False
+Mateo Clemente,1013,1003,52,,59,58,59,58,60,27,58,200,GK,Normal,False,False
+Junior Colina,131474,1014,61,,59,67,55,48,64,32,46,4400,CAM,Normal,False,False
+Lucía Corrales Álvarez,481,2222,45,,59,55,37,54,51,59,46,200,LB,Normal,False,False
+Guilder Cuellar,116292,1014,53,,59,67,59,51,63,22,42,200,LW,Normal,False,False
+Marcos Cuenca Aranda,244,54,45,,59,71,57,53,58,42,57,200,ST,Normal,False,False
+Jacob Davenport,445,65,14,,59,64,43,59,59,57,55,200,CDM,Normal,False,False
+Joe Day,1936,61,14,,59,57,56,57,59,51,60,200,GK,Normal,False,False
+Kas de Wit,1910,10,34,,59,69,47,57,64,40,46,200,CAM,Normal,False,False
+Martin Delavallée,670,4,7,,59,60,56,62,59,46,59,200,GK,Normal,False,False
+Lukas Demming,110501,2076,21,,59,67,53,56,59,60,60,200,CM,Normal,False,False
+Louis Dennis,112764,61,14,,59,72,55,54,60,44,59,200,RM,Normal,False,False
+Samuele Di Benedetto,110697,2076,21,,59,68,47,57,63,56,55,200,CDM,Normal,False,False
+Elson José Dias Junior,113297,2149,54,,59,57,40,52,52,60,56,200,CB,Normal,False,False
+Louis Zabala,111395,351,195,,58,69,48,56,61,51,67,200,RB,Normal,False,False
+Nikola Zečević,711,56,51,,58,67,27,40,51,58,63,200,CB,Normal,False,False
+Besfort Zeneli,700,56,46,,58,70,52,53,62,22,41,300,LW,Normal,False,False
+Jianfei Zhao,111724,2012,155,,58,67,25,37,46,57,63,200,CB,Normal,False,False
+Jan Ziółkowski,1871,66,37,,58,62,28,41,39,58,60,200,CB,Normal,False,False
+Hubert Zwoźny,111083,66,37,,58,69,43,51,58,54,62,200,RB,Normal,False,False
+Jack Milne,77,50,42,,58,56,37,55,53,58,59,200,CDM,Normal,False,False
+José Antonio Molina Arjona,1867,54,45,,58,69,55,55,59,34,52,200,LM,Normal,False,False
+Joaquín Molina Huamán,131161,1014,59,,58,49,26,47,34,60,60,500,CB,Normal,False,False
+Hyun Ho Moon,1473,83,167,,58,62,51,48,66,31,52,200,GK,Normal,False,False
+Jaly Mouaddib,110752,330,18,,58,68,50,57,62,46,55,200,RW,Normal,False,False
+Pengfei Mu,131173,2012,155,,58,58,55,53,57,30,56,200,GK,Normal,False,False
+Joy Mukena,110890,60,14,,58,56,29,36,40,58,65,200,CB,Normal,False,False
+Pascal Müller,111822,80,4,,58,59,53,58,60,54,56,200,CM,Normal,False,False
+Philipp Müller,165,20,21,,58,68,39,55,53,54,58,200,CDM,Normal,False,False
+Miguel Muñoz Fernández,111086,66,45,,58,61,31,49,47,61,59,200,CB,Normal,False,False
+Beltran Mvuka,1757,41,36,,58,79,50,53,58,23,45,200,LW,Normal,False,False
+Kelly N'Mai,113926,61,34,,58,90,50,49,60,29,38,200,LW,Normal,False,False
+Mohammad Nawaz,113297,2149,159,,58,59,55,59,62,39,55,200,GK,Normal,False,False
+Montell Ndikom,485,20,21,,58,69,54,53,64,32,50,200,CAM,Normal,False,False
+Moutaz Neffati,702,56,46,,58,62,49,54,58,55,52,200,RB,Normal,False,False
+George Nevett,1938,60,50,,58,62,25,44,50,58,62,200,CB,Normal,False,False
+Serge Ngoma,689,39,95,,58,90,47,47,62,38,57,200,RM,Normal,False,False
+Darragh Nugent,306,65,25,,58,55,55,57,56,57,64,200,CM,Normal,False,False
+Alan Nuñez,112716,1003,58,,58,74,27,50,53,54,51,200,RB,Normal,False,False
+Connor O'Brien,110313,61,25,,58,79,29,46,55,50,64,200,RB,Normal,False,False
+Tara O'Hanlon,10,2216,25,,58,57,54,53,54,56,48,200,LB,Normal,False,False
+Emmanuel Ogura,1786,1,117,,58,60,57,61,59,64,58,200,GK,Normal,False,False
+Olufela Olomola,112764,61,14,,58,74,55,45,57,25,73,200,ST,Normal,False,False
+Filip Olsson,113458,56,46,,58,71,51,56,58,49,61,200,CM,Normal,False,False
+Stephen Afrifa,696,39,70,,57,73,58,40,58,18,51,200,ST,Normal,False,False
+Jeremy Agbonifo,711,56,46,,57,71,53,54,58,26,57,200,LW,Normal,False,False
+Yannick Agnero,321,56,108,,57,72,54,45,61,19,52,200,ST,Normal,False,False
+Hisham Al Dubais,112883,350,183,,57,69,56,43,55,22,55,200,ST,Normal,False,False
+Yahya Al Najai,112408,350,183,,57,78,51,51,58,28,53,200,RM,Normal,False,False
+Mohammed Al Saeed,113060,350,183,,57,70,42,56,58,50,55,200,LB,Normal,False,False
+Abdihakin Ali,433,56,46,,57,64,47,53,61,48,50,200,CM,Normal,False,False
+Oliver Amby,822,1,13,,57,66,41,54,51,56,55,200,CDM,Normal,False,False
+Victor Andersson,433,56,46,,57,74,50,53,63,23,34,200,LM,Normal,False,False
+Cameron Antwi,112254,61,14,,57,63,37,51,57,54,62,200,CDM,Normal,False,False
+Charles Yaw Appiah,100135,2210,117,,57,72,50,50,62,25,47,200,RW,Normal,False,False
+Leonardo Arana,116292,1014,53,,57,71,48,49,62,31,47,200,LW,Normal,False,False
+Isaac Asante,110724,4,117,,57,70,48,49,64,32,49,200,CAM,Normal,False,False
+Siaka Bakayoko,1816,17,18,,57,61,29,41,48,58,55,200,CB,Normal,False,False
+Alama Bayo,1750,4,7,,57,69,50,43,65,25,44,200,RW,Normal,False,False
+Vitalie Becker,34,20,21,,57,61,42,50,53,54,55,200,LB,Normal,False,False
+Matt Bersano,114161,39,95,,57,60,51,60,58,23,54,200,GK,Normal,False,False
+Israel Boatwright,112893,39,207,,57,70,22,33,62,55,50,200,RB,Normal,False,False
+Vincent Borden,1571,65,95,,57,59,24,42,48,58,61,200,CDM,Normal,False,False
+Federico Brancolini,1746,31,27,,57,53,59,64,56,25,60,200,GK,Normal,False,False
+Gabriel Breeze,1480,61,14,,57,56,56,55,58,25,55,200,GK,Normal,False,False
+Ryan Brennan,1572,65,25,,57,43,57,56,56,53,61,200,CM,Normal,False,False
+Daniel Bunk,110636,20,21,,57,63,44,57,61,33,33,200,CAM,Normal,False,False
+Cian Byrne,305,65,25,,57,53,30,41,45,57,63,200,CB,Normal,False,False
+Brandon Cambridge,114640,39,95,,57,67,35,54,61,49,59,200,CM,Normal,False,False
+Natividad Cano Cabello,467,2222,45,,57,42,59,50,64,33,57,200,ST,Normal,False,False
+Matty Carson,92,61,14,,57,64,44,53,53,52,55,200,LB,Normal,False,False
+Theo Chapman,1932,60,14,,57,75,52,53,60,33,48,200,CAM,Normal,False,False
+Jie Chen,114628,2012,155,,57,55,43,49,56,56,72,200,CDM,Normal,False,False
+Aki Koch,1832,20,21,,57,60,56,59,62,23,57,200,GK,Normal,False,False
+Ramzi Solan,113217,350,183,,56,80,48,46,60,47,53,200,RB,Normal,False,False
+Jun Seok Song,112115,83,167,,56,63,40,49,54,52,56,200,LB,Normal,False,False
+Karim Sow,1862,189,47,,56,52,28,34,31,57,66,200,CB,Normal,False,False
+Miłosz Strzeboński,111083,66,37,,56,60,41,56,57,40,48,200,CAM,Normal,False,False
+Gianluca Swajkowski,526,2076,21,,56,60,29,36,52,55,63,200,CB,Normal,False,False
+Chris Sze,1917,60,14,,56,67,53,49,56,27,50,200,ST,Normal,False,False
+Liam Tahwildaran,111705,56,46,,56,78,38,49,57,49,57,200,LB,Normal,False,False
+Kian Taylor,1801,14,14,,56,65,45,55,59,50,55,200,CM,Normal,False,False
+Basil Tuma,1793,60,32,,56,87,54,47,57,27,48,200,ST,Normal,False,False
+Joël van der Wilt,111380,10,34,,56,57,58,55,56,28,56,1500,GK,Normal,False,False
+Simon Wæver,1447,1,13,,56,68,33,44,53,51,59,200,RB,Normal,False,False
+Xianjun Wang,111774,2012,155,,56,67,37,48,50,52,67,200,CB,Normal,False,False
+Yaopeng Wang,111769,2012,155,,56,63,27,34,49,56,67,200,CB,Normal,False,False
+Yusuf Wardak,110532,2076,21,,56,66,47,52,61,27,46,200,CAM,Normal,False,False
+Alexander Warneryd,112180,56,46,,56,69,37,48,58,50,57,200,RB,Normal,False,False
+Leon-Oumar Wechsel,485,20,21,,56,58,55,56,59,23,54,200,GK,Normal,False,False
+Lai Wei,112979,2012,155,,56,68,28,34,52,54,58,200,LB,Normal,False,False
+Minzhe Wei,131487,2012,155,,56,56,56,53,56,23,55,4700,GK,Normal,False,False
+Kai Whitmore,112254,61,50,,56,64,50,54,58,47,62,200,CM,Normal,False,False
+Andrew Wogan,1572,65,25,,56,57,56,56,57,26,54,0,GK,Normal,False,False
+Josh Woods,110313,61,14,,56,77,54,42,55,20,53,200,ST,Normal,False,False
+Bachirou Yameogo,1805,17,101,,56,58,35,47,51,55,74,200,CDM,Normal,False,False
+Noah Yannick,898,189,103,,56,55,35,49,54,56,55,200,CDM,Normal,False,False
+Daochi Ye,112979,2012,155,,56,63,28,43,54,51,52,200,RB,Normal,False,False
+Miska Ylitolva,100325,322,17,,56,73,29,45,54,50,56,200,RB,Normal,False,False
+Sun Yu,2055,83,167,,56,50,24,36,37,59,62,200,CB,Normal,False,False
+Marlon Zacharias,110501,2076,21,,56,57,59,54,57,41,48,200,GK,Normal,False,False
+Chi Zhang,111724,2012,155,,56,47,50,57,52,59,58,200,RB,Normal,False,False
+Adam Zimarino,111395,351,195,,56,68,57,49,56,33,56,200,ST,Normal,False,False
+Malwin Zok,110532,2076,21,,56,56,54,51,60,34,52,200,GK,Normal,False,False
+Alan Rybak,110745,66,37,,54,66,56,38,57,23,35,200,ST,Normal,False,False
+Yannis Ryter,10032,189,47,,54,59,55,51,54,52,49,200,CM,Normal,False,False
+Sai Sachdev,1794,14,14,,54,70,29,37,51,50,57,200,RB,Normal,False,False
+Matteo Salamon,15,14,54,,54,55,52,53,54,29,52,200,GK,Normal,False,False
+Lucas Salinas,110974,1014,53,,54,50,61,60,51,37,49,250,GK,Normal,False,False
+Ture Sandberg,702,56,46,,54,56,45,49,55,45,59,200,CM,Normal,False,False
+Hayden Sargis,688,39,95,,54,63,24,32,41,56,57,1600,CB,Normal,False,False
+Matthew Scarcella,111398,351,195,,54,64,44,51,62,46,40,200,CM,Normal,False,False
+Elias Scherf,2017,80,4,,54,57,54,58,54,25,52,200,GK,Normal,False,False
+Christian Schmidt,543,20,21,,54,47,59,44,56,24,63,200,CAM,Normal,False,False
+Jiteshwor Singh,113297,2149,159,,54,37,37,48,55,50,47,200,CDM,Normal,False,False
+Samuel Skree Skjeldal,1456,41,36,,54,62,31,38,50,50,62,200,LB,Normal,False,False
+Declan Skura,1933,60,14,,54,60,25,33,34,57,61,200,CB,Normal,False,False
+Christ Souanga,100087,4,7,,54,66,27,32,51,54,52,200,LB,Normal,False,False
+Michael Spellman,112254,61,14,,54,69,49,49,56,30,51,200,LW,Normal,False,False
+Sanjeev Stalin,113300,2149,159,,54,60,26,45,50,51,59,200,LB,Normal,False,False
+Guoliang Sun,111769,2012,155,,54,59,23,30,32,59,57,200,CB,Normal,False,False
+Luke Supyk,111766,351,198,,54,76,51,43,53,29,61,200,ST,Normal,False,False
+Sachin Suresh,113299,2149,159,,54,58,56,55,51,22,54,200,GK,Normal,False,False
+Chuang Tang,116360,2012,155,,54,62,55,36,52,21,60,200,ST,Normal,False,False
+Rejan Thaçi,1704,189,219,,54,66,31,40,47,52,57,200,LB,Normal,False,False
+Andreas Tomaselli,822,1,13,,54,65,35,45,50,53,55,200,CB,Normal,False,False
+Luis Toomey,131739,351,198,,54,60,47,54,56,40,60,200,CAM,Normal,False,False
+Jonas Torsvik,919,41,36,,54,67,39,43,54,49,53,200,LB,Normal,False,False
+Holden Trent,112134,39,95,,54,53,58,46,58,31,51,2000,GK,Normal,False,False
+David Tufekcic,113459,41,36,,54,68,51,50,55,36,42,200,RW,Normal,False,False
+Isak Vanlalruatfela,113257,2149,159,,54,62,49,54,55,40,45,200,LW,Normal,False,False
+Borbála Vincze,894,2231,23,,54,62,46,51,56,49,44,200,CM,Normal,False,False
+Jamie Walker,837,65,42,,54,59,28,44,44,54,60,200,LB,Normal,False,False
+James Wilson,80,50,42,,54,48,57,39,49,17,44,200,ST,Normal,False,False
+Han Bin Lee,980,83,167,,51,62,25,27,30,50,64,2000,CB,Normal,False,False
+Yun Geon Lee,112558,83,167,,51,66,38,47,48,48,57,200,CDM,Normal,False,False
+Woo Yeon Lee,1477,83,167,,51,44,29,37,35,51,57,500,CB,Normal,False,False
+Oskar Leśniak,111086,66,37,,51,61,43,46,58,34,38,200,LM,Normal,False,False
+Brandon Liggett,1936,61,14,,51,70,41,49,55,43,57,200,CM,Normal,False,False
+Guobao Liu,111724,2012,155,,51,67,51,34,47,19,53,200,ST,Normal,False,False
+Abdullah Masoud,131735,350,183,,51,64,33,42,42,51,58,200,CB,Normal,False,False
+Aidan O'Connor,689,39,95,,51,56,24,27,32,51,67,200,CB,Normal,False,False
+Felix Oberwaditzer,15009,80,29,,51,58,31,33,33,53,53,200,CB,Normal,False,False
+Tyron Owusu,897,189,47,,51,60,33,51,51,52,55,200,CM,Normal,False,False
+Jang Han Gyeol Park,982,83,167,,51,63,40,54,51,29,43,200,CAM,Normal,False,False
+Malik Pinto,113149,39,95,,51,57,40,51,53,50,56,200,CM,Normal,False,False
+Julian Placias,681,4,95,,51,52,50,37,47,22,62,200,ST,Normal,False,False
+Lalthuammawia Ralte,113302,2149,159,,51,50,50,51,53,24,51,200,GK,Normal,False,False
+Lalhrezuala Sailung,113257,2149,159,,51,58,33,46,46,47,61,1300,RB,Normal,False,False
+Mohammed Sanan,114168,2149,159,,51,65,57,44,53,23,44,200,CAM,Normal,False,False
+Nelson Diogo Sanca Balde,112254,61,38,,51,62,25,31,34,49,68,5100,CB,Normal,False,False
+Cenk Şen,131388,68,48,,51,67,50,54,62,41,46,200,LB,Normal,False,False
+Dinesh Singh,113040,2149,159,,51,57,23,35,38,49,68,200,CB,Normal,False,False
+Phalguni Singh,113040,2149,159,,51,72,42,47,51,49,68,200,CAM,Normal,False,False
+Lucas Soares Dantas,110720,80,54,,51,62,40,52,47,42,56,200,CM,Normal,False,False
+Kimani Stewart-Baynes,694,39,70,,51,72,50,38,52,19,47,200,ST,Normal,False,False
+Fabian Talladira,111393,351,195,,51,64,43,50,54,44,51,200,CM,Normal,False,False
+Adam Vendelbo,15001,1,13,,51,64,52,39,51,18,48,200,ST,Normal,False,False
+Paul Walters,113149,39,95,,51,48,50,52,57,31,50,200,GK,Normal,False,False
+Freddy Willcox,1936,61,14,,51,66,40,50,56,42,45,200,CM,Normal,False,False
+Xiaoxi Xia,116361,2012,155,,51,64,37,46,51,41,46,200,LM,Normal,False,False
+Junlong Xiao,111774,2012,155,,51,68,30,41,46,47,52,200,RB,Normal,False,False
+Zhenyao Xu,112163,2012,155,,51,56,51,52,57,27,45,200,GK,Normal,False,False
+Sun Woo Yoo,980,83,167,,51,61,50,43,56,24,47,200,RW,Normal,False,False

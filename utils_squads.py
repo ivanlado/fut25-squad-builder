@@ -30,12 +30,12 @@ def calculate_chemistry_nationality(squad):
             continue
         nat_i = squad.iloc[i]['nation']
         common_nat = nat_count[nat_i]
-        # if common_nat >= 2 and common_nat <= 4:
-        #     nat_chem += 1  
-        # elif common_nat >= 5 and common_nat <= 7:
-        #     nat_chem += 2
-        # elif common_nat >= 8:
-        #     nat_chem += 3
+        if common_nat >= 2 and common_nat <= 4:
+            nat_chem += 1  
+        elif common_nat >= 5 and common_nat <= 7:
+            nat_chem += 2
+        elif common_nat >= 8:
+            nat_chem += 3
         if common_nat >= 2:
             nat_chem += 1
     return nat_chem
