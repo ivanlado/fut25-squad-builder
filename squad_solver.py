@@ -73,7 +73,6 @@ class SquadSolver():
         output += self.ampl.get_output('option gurobi_options $gurobi_options " outlev=1 presolve=0 cuts=0 bestbound=1";')
         output = '' # For the time being lets ignore the previous outputs
         if formulation_name in self.formulations:
-            print(f"Solving formulation: {formulation_name}.")
             # output += self.ampl.get_output(self.formulations[formulation_name])
             if formulation_name not in self.already_declared_formulations:
                 self.ampl.eval(self.formulations[formulation_name])

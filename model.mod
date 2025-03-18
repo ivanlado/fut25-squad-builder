@@ -35,6 +35,7 @@ var natCount{1..P} integer; # integer variable. The item i of this array will st
 var chemistryNat1{1..P} binary; # True value to represent that the the player i meets the 1st nationality chemistry condition
 var chemistryNat2{1..P} binary; # True value to represent that the the player i meets the 2nd nationality chemistry condition
 var chemistryNat3{1..P} binary; # True value to represent that the the player i meets the 3rd nationality chemistry condition
+var natCountAll{1..P} integer; #auxiliary variable necessary for direct linearization of the constraint to count all players with the same nationality
 
 maximize Avg_Global: 
     sum{i in 1..P} (GLOBAL_SCORE[i] * y[i])/11;
@@ -88,11 +89,23 @@ subject to R34C{i in NORMAL_PLAYERS}:
     natCount[i]-6 <= M*chemistryNat3[i];
 ############################################################################################
 
-
-
+#Contraints to ensure nationality chemistry via direct linealizing
+subject to R35{i in NORMAL_PLAYERS}:
+    natCountAll[i] = sum{j in 1..P: NATIONALITY[i] = NATIONALITY[j]} y[j] + sum{j in ICONS: NATIONALITY[i] = NATIONALITY[j]} y[j];
+subject to R36{i in NORMAL_PLAYERS}:
+    natCount[i] <= natCountAll[i];
+subject to R37{i in NORMAL_PLAYERS}:
+    natCount[i] <= M*y[i];
+subject to R38{i in NORMAL_PLAYERS}:
+    natCount[i] >= natCountAll[i] + M*(y[i]-1);
+subject to R39{i in NORMAL_PLAYERS}:
+    natCount[i] >= 0;
 
 ############################################################################################
 # Constraints to ensure a minumum of chemistry is met
-subject to R6:
+subject to R4:
     sum{i in NORMAL_PLAYERS}  (chemistryNat1[i] + chemistryNat2[i] + chemistryNat3[i])  + 3*sum{i in ICONS_HEROES} y[i] >= MIN_CHEMISTRY;
+    
+subject to R4B:
+    sum{i in NORMAL_PLAYERS}  ((10**7)*chemistryNat1[i] + (10**7)*chemistryNat2[i] + (10**7)*chemistryNat3[i])  + 3*sum{i in ICONS_HEROES} (10**7)*y[i] >= (10**7)*MIN_CHEMISTRY;    
 ############################################################################################
