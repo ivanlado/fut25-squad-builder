@@ -64,13 +64,13 @@ class SquadSolver():
     def get_ampl(self):
         return self.ampl
         
-    def solve(self, formulation_name, print_results=True, print_summary=True):
+    def solve(self, formulation_name, print_results=True, print_summary=True, cuts_param=0):
         output = ''
         output += self.ampl.get_output("option presolve 0;")
         output += self.ampl.get_output("option reset_initial_guesses 1;")
         output += self.ampl.get_output("option show_stats 1;")
         output += self.ampl.get_output("option solver gurobi;")
-        output += self.ampl.get_output('option gurobi_options $gurobi_options " outlev=1 presolve=0 cuts=0 bestbound=1";')
+        output += self.ampl.get_output('option gurobi_options $gurobi_options " outlev=1 presolve=0 cuts='+ str(cuts_param) +' bestbound=1";')
         output = '' # For the time being lets ignore the previous outputs
         if formulation_name in self.formulations:
             # output += self.ampl.get_output(self.formulations[formulation_name])
@@ -97,7 +97,7 @@ class SquadSolver():
         branching_nodes = int(branching_nodes_match.group(1)) if branching_nodes_match else None
         objective = float(objective_match.group(1)) if objective_match else None
         solve_elapsed_time = self.ampl.get_output("display _solve_elapsed_time;").strip()
-        solve_elapsed_time_match = re.search(r'(\d+\.\d+)', solve_elapsed_time)
+        solve_elapsed_time_match = re.search(r'(\d+(\.\d+)?)', solve_elapsed_time)
         solve_elapsed_time = float(solve_elapsed_time_match.group(1)) if solve_elapsed_time_match else None
         output = output.strip() 
         if print_results:

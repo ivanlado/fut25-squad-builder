@@ -2,7 +2,7 @@ from squad_solver import *
 from utils_squads import *
 
 
-def run_experiment(squad_solver, csv_filename, params, formulation_name, formulation, print_results=True, print_summary=True):
+def run_experiment(squad_solver, csv_filename, params, formulation_name, formulation, print_results=True, print_summary=True, cuts_param=0):
     if squad_solver is None:
         squad_solver = SquadSolver()
     ampl = squad_solver.get_ampl()
@@ -11,16 +11,16 @@ def run_experiment(squad_solver, csv_filename, params, formulation_name, formula
     squad_solver.set_ampl_data(params)
 
     squad_solver.add_formulation(formulation_name, formulation)
-    results = squad_solver.solve(formulation_name, print_results=print_results, print_summary=print_summary)
+    results = squad_solver.solve(formulation_name, print_results=print_results, print_summary=print_summary, cuts_param=cuts_param)
     squad = squad_solver.get_squad(print_squad=False)
     return results, squad  
 
 
-def repeat_run_experiment(squad_solver, csv_filename, params, formulation_name, formulation, print_results=True, print_summary=True, n_repeats=10):
+def repeat_run_experiment(squad_solver, csv_filename, params, formulation_name, formulation, print_results=True, print_summary=True, n_repeats=10, cuts_param=0):
     results = []
     squads = []
     for i in range(n_repeats):
-        result, squad = run_experiment(squad_solver, csv_filename, params, formulation_name, formulation, print_results=print_results, print_summary=print_summary)
+        result, squad = run_experiment(squad_solver, csv_filename, params, formulation_name, formulation, print_results=print_results, print_summary=print_summary, cuts_param=cuts_param)
         results.append(result)
         squads.append(squad)
     return results, squads
