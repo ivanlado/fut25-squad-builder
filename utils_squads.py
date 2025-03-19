@@ -36,8 +36,6 @@ def calculate_chemistry_nationality(squad):
             nat_chem += 2
         elif common_nat >= 8:
             nat_chem += 3
-        if common_nat >= 2:
-            nat_chem += 1
     return nat_chem
 
 
