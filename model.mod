@@ -36,6 +36,8 @@ var chemistryNat1{1..P} binary; # True value to represent that the the player i 
 var chemistryNat2{1..P} binary; # True value to represent that the the player i meets the 2nd nationality chemistry condition
 var chemistryNat3{1..P} binary; # True value to represent that the the player i meets the 3rd nationality chemistry condition
 var natCountAll{1..P} integer; #auxiliary variable necessary for direct linearization of the constraint to count all players with the same nationality
+# Despite the fact that natCount, natCountAll, chemistryNat1, chemistryNat2 and chemistryNat3 are defined from 1 to P, as they are only used for NORMAL_PLAYERS,
+# AMPL will automatically delete them, so it is not necessary to worry about the size of these arrays.
 
 maximize Avg_Global: 
     sum{i in 1..P} (GLOBAL_SCORE[i] * y[i])/11;
